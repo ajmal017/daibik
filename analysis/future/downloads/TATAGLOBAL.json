@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=TATAGLOBAL","data":[{"annualisedVolatility":"39.22","bestBuy":"69.99","totalSellQuantity":"6,23,250","vwap":"234.19","clientWisePositionLimits":"3957671","optionType":"-","highPrice":"239.80","dailyVolatility":"2.05","bestSell":"85.53","marketLot":"2250","sellQuantity5":"6,750","marketWidePositionLimits":"79153437","sellQuantity4":"2,250","sellQuantity3":"2,250","sellQuantity2":"2,250","underlying":"TATAGLOBAL","sellQuantity1":"2,250","pChange":"-0.63","premiumTurnover":"-","totalBuyQuantity":"4,79,250","turnoverinRsLakhs":"20,286.71","changeinOpenInterest":"-2,02,500","strikePrice":"-","openInterest":"91,21,500","buyPrice2":"234.85","buyPrice1":"234.90","openPrice":"239.00","prevClose":"236.35","expiryDate":"27SEP2018","lowPrice":"232.45","buyPrice4":"234.60","buyPrice3":"234.80","buyPrice5":"234.55","numberOfContractsTraded":"3,850","instrumentType":"FUTSTK","sellPrice1":"235.00","sellPrice2":"235.10","sellPrice3":"235.15","sellPrice4":"235.20","sellPrice5":"235.25","change":"-1.50","pchangeinOpenInterest":"-2.17","ltp":"62.22","impliedVolatility":"-","underlyingValue":"234.45","buyQuantity4":"4,500","buyQuantity3":"2,250","buyQuantity2":"4,500","buyQuantity1":"2,250","buyQuantity5":"4,500","settlementPrice":"236.35","closePrice":"0.00","lastPrice":"234.85"}],"companyName":"Tata Global Beverages Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=TATAGLOBAL&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=OFSS","data":[{"annualisedVolatility":"43.51","bestBuy":"-342.17","totalSellQuantity":"28,950","vwap":"3,993.56","clientWisePositionLimits":"223994","optionType":"-","highPrice":"4,130.10","dailyVolatility":"2.28","bestSell":"-245.61","marketLot":"150","sellQuantity5":"150","marketWidePositionLimits":"4479890","sellQuantity4":"150","sellQuantity3":"150","sellQuantity2":"150","underlying":"OFSS","sellQuantity1":"150","pChange":"-4.44","premiumTurnover":"-","totalBuyQuantity":"16,800","turnoverinRsLakhs":"10,686.77","changeinOpenInterest":"90,000","strikePrice":"-","openInterest":"3,70,650","buyPrice2":"3,905.85","buyPrice1":"3,907.20","openPrice":"4,104.70","prevClose":"4,089.95","expiryDate":"27SEP2018","lowPrice":"3,908.45","buyPrice4":"3,905.30","buyPrice3":"3,905.80","buyPrice5":"3,905.25","numberOfContractsTraded":"1,784","instrumentType":"FUTSTK","sellPrice1":"3,917.55","sellPrice2":"3,917.60","sellPrice3":"3,919.20","sellPrice4":"3,920.05","sellPrice5":"3,923.80","change":"-181.50","pchangeinOpenInterest":"32.07","ltp":"-330.49","impliedVolatility":"-","underlyingValue":"3,944.00","buyQuantity4":"150","buyQuantity3":"150","buyQuantity2":"150","buyQuantity1":"450","buyQuantity5":"450","settlementPrice":"4089.95","closePrice":"0.00","lastPrice":"3,908.45"}],"companyName":"Oracle Financial Services Software Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=OFSS&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

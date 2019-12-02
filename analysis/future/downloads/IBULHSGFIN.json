@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=IBULHSGFIN","data":[{"annualisedVolatility":"73.40","bestBuy":"-49.30","totalSellQuantity":"1,94,500","vwap":"989.18","clientWisePositionLimits":"3322093","optionType":"-","highPrice":"1,025.00","dailyVolatility":"3.84","bestSell":"-27.38","marketLot":"500","sellQuantity5":"500","marketWidePositionLimits":"66441878","sellQuantity4":"3,000","sellQuantity3":"500","sellQuantity2":"500","underlying":"IBULHSGFIN","sellQuantity1":"1,000","pChange":"6.50","premiumTurnover":"-","totalBuyQuantity":"3,17,000","turnoverinRsLakhs":"2,13,113.89","changeinOpenInterest":"12,47,000","strikePrice":"-","openInterest":"89,79,000","buyPrice2":"998.85","buyPrice1":"998.90","openPrice":"950.00","prevClose":"938.00","expiryDate":"27SEP2018","lowPrice":"928.80","buyPrice4":"998.65","buyPrice3":"998.75","buyPrice5":"998.55","numberOfContractsTraded":"43,089","instrumentType":"FUTSTK","sellPrice1":"999.50","sellPrice2":"999.90","sellPrice3":"999.95","sellPrice4":"1,000.00","sellPrice5":"1,000.20","change":"60.95","pchangeinOpenInterest":"16.13","ltp":"-47.47","impliedVolatility":"-","underlyingValue":"1,000.25","buyQuantity4":"500","buyQuantity3":"500","buyQuantity2":"500","buyQuantity1":"500","buyQuantity5":"500","settlementPrice":"938.00","closePrice":"0.00","lastPrice":"998.95"}],"companyName":"Indiabulls Housing Finance Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=IBULHSGFIN&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

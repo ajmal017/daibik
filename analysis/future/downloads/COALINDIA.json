@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=COALINDIA","data":[{"annualisedVolatility":"31.86","bestBuy":"66.79","totalSellQuantity":"4,64,200","vwap":"272.77","clientWisePositionLimits":"13457289","optionType":"-","highPrice":"277.30","dailyVolatility":"1.67","bestSell":"86.80","marketLot":"2200","sellQuantity5":"4,400","marketWidePositionLimits":"269145789","sellQuantity4":"4,400","sellQuantity3":"2,200","sellQuantity2":"8,800","underlying":"COALINDIA","sellQuantity1":"2,200","pChange":"-0.96","premiumTurnover":"-","totalBuyQuantity":"4,31,200","turnoverinRsLakhs":"31,582.95","changeinOpenInterest":"-6,02,800","strikePrice":"-","openInterest":"1,34,64,000","buyPrice2":"273.45","buyPrice1":"273.50","openPrice":"273.40","prevClose":"276.15","expiryDate":"27SEP2018","lowPrice":"270.65","buyPrice4":"273.35","buyPrice3":"273.40","buyPrice5":"273.30","numberOfContractsTraded":"5,263","instrumentType":"FUTSTK","sellPrice1":"273.65","sellPrice2":"273.70","sellPrice3":"273.75","sellPrice4":"273.80","sellPrice5":"273.85","change":"-2.65","pchangeinOpenInterest":"-4.29","ltp":"66.79","impliedVolatility":"-","underlyingValue":"273.00","buyQuantity4":"6,600","buyQuantity3":"2,200","buyQuantity2":"4,400","buyQuantity1":"2,200","buyQuantity5":"4,400","settlementPrice":"276.15","closePrice":"0.00","lastPrice":"273.50"}],"companyName":"Coal India Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=COALINDIA&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

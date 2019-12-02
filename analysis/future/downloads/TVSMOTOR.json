@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=TVSMOTOR","data":[{"annualisedVolatility":"38.43","bestBuy":"-137.57","totalSellQuantity":"1,80,000","vwap":"578.95","clientWisePositionLimits":"2024043","optionType":"-","highPrice":"593.20","dailyVolatility":"2.01","bestSell":"-106.26","marketLot":"1000","sellQuantity5":"2,000","marketWidePositionLimits":"40480865","sellQuantity4":"2,000","sellQuantity3":"1,000","sellQuantity2":"1,000","underlying":"TVSMOTOR","sellQuantity1":"1,000","pChange":"-0.93","premiumTurnover":"-","totalBuyQuantity":"2,08,000","turnoverinRsLakhs":"23,644.32","changeinOpenInterest":"-17,000","strikePrice":"-","openInterest":"4,140,000","buyPrice2":"582.55","buyPrice1":"582.60","openPrice":"593.20","prevClose":"588.40","expiryDate":"27SEP2018","lowPrice":"574.30","buyPrice4":"582.10","buyPrice3":"582.15","buyPrice5":"582.05","numberOfContractsTraded":"4,084","instrumentType":"FUTSTK","sellPrice1":"583.10","sellPrice2":"583.15","sellPrice3":"583.20","sellPrice4":"583.50","sellPrice5":"583.55","change":"-5.45","pchangeinOpenInterest":"-0.41","ltp":"-115.65","impliedVolatility":"-","underlyingValue":"584.80","buyQuantity4":"2,000","buyQuantity3":"1,000","buyQuantity2":"1,000","buyQuantity1":"1,000","buyQuantity5":"2,000","settlementPrice":"588.40","closePrice":"0.00","lastPrice":"582.95"}],"companyName":"TVS Motor Company Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=TVSMOTOR&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

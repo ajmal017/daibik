@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=INDIGO","data":[{"annualisedVolatility":"49.41","bestBuy":"-12.76","totalSellQuantity":"1,13,400","vwap":"847.54","clientWisePositionLimits":"963542","optionType":"-","highPrice":"860.25","dailyVolatility":"2.59","bestSell":"14.88","marketLot":"600","sellQuantity5":"600","marketWidePositionLimits":"19270843","sellQuantity4":"600","sellQuantity3":"600","sellQuantity2":"600","underlying":"INDIGO","sellQuantity1":"600","pChange":"0.56","premiumTurnover":"-","totalBuyQuantity":"1,59,000","turnoverinRsLakhs":"17,900.04","changeinOpenInterest":"2,61,600","strikePrice":"-","openInterest":"23,68,800","buyPrice2":"857.50","buyPrice1":"857.90","openPrice":"860.25","prevClose":"853.25","expiryDate":"27SEP2018","lowPrice":"837.50","buyPrice4":"857.15","buyPrice3":"857.25","buyPrice5":"857.05","numberOfContractsTraded":"3,520","instrumentType":"FUTSTK","sellPrice1":"858.55","sellPrice2":"858.60","sellPrice3":"858.65","sellPrice4":"858.85","sellPrice5":"859.00","change":"4.80","pchangeinOpenInterest":"12.41","ltp":"-6.38","impliedVolatility":"-","underlyingValue":"858.20","buyQuantity4":"600","buyQuantity3":"17,400","buyQuantity2":"600","buyQuantity1":"600","buyQuantity5":"600","settlementPrice":"853.25","closePrice":"0.00","lastPrice":"858.05"}],"companyName":"InterGlobe Aviation Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=INDIGO&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

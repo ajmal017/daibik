@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=HINDUNILVR","data":[{"annualisedVolatility":"35.55","bestBuy":"65.68","totalSellQuantity":"9,51,000","vwap":"1,614.10","clientWisePositionLimits":"7102209","optionType":"-","highPrice":"1,652.50","dailyVolatility":"1.86","bestSell":"80.39","marketLot":"600","sellQuantity5":"600","marketWidePositionLimits":"142044189","sellQuantity4":"600","sellQuantity3":"1,800","sellQuantity2":"600","underlying":"HINDUNILVR","sellQuantity1":"1,200","pChange":"-1.45","premiumTurnover":"-","totalBuyQuantity":"1,63,200","turnoverinRsLakhs":"69,748.49","changeinOpenInterest":"11,38,800","strikePrice":"-","openInterest":"77,77,800","buyPrice2":"1,612.85","buyPrice1":"1,612.95","openPrice":"1,645.00","prevClose":"1,636.90","expiryDate":"27SEP2018","lowPrice":"1,602.00","buyPrice4":"1,612.65","buyPrice3":"1,612.70","buyPrice5":"1,612.55","numberOfContractsTraded":"7,202","instrumentType":"FUTSTK","sellPrice1":"1,613.60","sellPrice2":"1,613.95","sellPrice3":"1,614.00","sellPrice4":"1,614.05","sellPrice5":"1,614.25","change":"-23.80","pchangeinOpenInterest":"17.15","ltp":"69.08","impliedVolatility":"-","underlyingValue":"1,610.05","buyQuantity4":"600","buyQuantity3":"600","buyQuantity2":"600","buyQuantity1":"600","buyQuantity5":"600","settlementPrice":"1636.90","closePrice":"0.00","lastPrice":"1,613.10"}],"companyName":"Hindustan Unilever Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=HINDUNILVR&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

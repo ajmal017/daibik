@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=APOLLOHOSP","data":[{"annualisedVolatility":"51.00","bestBuy":"-103.24","totalSellQuantity":"1,16,500","vwap":"1,044.73","clientWisePositionLimits":"912724","optionType":"-","highPrice":"1,061.65","dailyVolatility":"2.67","bestSell":"-54.21","marketLot":"500","sellQuantity5":"500","marketWidePositionLimits":"18254499","sellQuantity4":"500","sellQuantity3":"500","sellQuantity2":"500","underlying":"APOLLOHOSP","sellQuantity1":"500","pChange":"-0.32","premiumTurnover":"-","totalBuyQuantity":"88,500","turnoverinRsLakhs":"9,439.14","changeinOpenInterest":"40,000","strikePrice":"-","openInterest":"8,30,000","buyPrice2":"1,041.10","buyPrice1":"1,041.45","openPrice":"1,036.75","prevClose":"1,045.55","expiryDate":"27SEP2018","lowPrice":"1,033.65","buyPrice4":"1,041.00","buyPrice3":"1,041.05","buyPrice5":"1,040.25","numberOfContractsTraded":"1,807","instrumentType":"FUTSTK","sellPrice1":"1,042.85","sellPrice2":"1,042.90","sellPrice3":"1,043.25","sellPrice4":"1,043.90","sellPrice5":"1,043.95","change":"-3.35","pchangeinOpenInterest":"5.06","ltp":"-76.97","impliedVolatility":"-","underlyingValue":"1,044.40","buyQuantity4":"500","buyQuantity3":"500","buyQuantity2":"500","buyQuantity1":"500","buyQuantity5":"500","settlementPrice":"1045.55","closePrice":"0.00","lastPrice":"1,042.20"}],"companyName":"Apollo Hospitals Enterprise Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=APOLLOHOSP&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

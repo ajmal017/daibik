@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=ALBK","data":[{"annualisedVolatility":"51.73","bestBuy":"-343.65","totalSellQuantity":"18,04,000","vwap":"37.22","clientWisePositionLimits":"2534814","optionType":"-","highPrice":"37.65","dailyVolatility":"2.71","bestSell":"-245.13","marketLot":"11000","sellQuantity5":"77,000","marketWidePositionLimits":"50696289","sellQuantity4":"33,000","sellQuantity3":"33,000","sellQuantity2":"22,000","underlying":"ALBK","sellQuantity1":"55,000","pChange":"-1.46","premiumTurnover":"-","totalBuyQuantity":"13,42,000","turnoverinRsLakhs":"6,047.13","changeinOpenInterest":"-12,10,000","strikePrice":"-","openInterest":"80,41,000","buyPrice2":"36.95","buyPrice1":"37.00","openPrice":"37.25","prevClose":"37.60","expiryDate":"27SEP2018","lowPrice":"36.75","buyPrice4":"36.85","buyPrice3":"36.90","buyPrice5":"36.80","numberOfContractsTraded":"1,477","instrumentType":"FUTSTK","sellPrice1":"37.10","sellPrice2":"37.15","sellPrice3":"37.20","sellPrice4":"37.25","sellPrice5":"37.30","change":"-0.55","pchangeinOpenInterest":"-13.08","ltp":"-294.36","impliedVolatility":"-","underlyingValue":"37.35","buyQuantity4":"88,000","buyQuantity3":"33,000","buyQuantity2":"66,000","buyQuantity1":"55,000","buyQuantity5":"22,000","settlementPrice":"37.60","closePrice":"0.00","lastPrice":"37.05"}],"companyName":"Allahabad Bank","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=ALBK&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

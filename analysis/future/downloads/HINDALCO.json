@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=HINDALCO","data":[{"annualisedVolatility":"41.38","bestBuy":"-36.75","totalSellQuantity":"11,37,500","vwap":"245.72","clientWisePositionLimits":"14667123","optionType":"-","highPrice":"250.30","dailyVolatility":"2.17","bestSell":"-7.35","marketLot":"3500","sellQuantity5":"7,000","marketWidePositionLimits":"293342479","sellQuantity4":"7,000","sellQuantity3":"3,500","sellQuantity2":"3,500","underlying":"HINDALCO","sellQuantity1":"7,000","pChange":"2.08","premiumTurnover":"-","totalBuyQuantity":"12,25,000","turnoverinRsLakhs":"96,967.26","changeinOpenInterest":"73,08,000","strikePrice":"-","openInterest":"2,91,41,000","buyPrice2":"248.10","buyPrice1":"248.15","openPrice":"245.30","prevClose":"243.25","expiryDate":"27SEP2018","lowPrice":"241.40","buyPrice4":"248.00","buyPrice3":"248.05","buyPrice5":"247.95","numberOfContractsTraded":"11,275","instrumentType":"FUTSTK","sellPrice1":"248.35","sellPrice2":"248.40","sellPrice3":"248.45","sellPrice4":"248.50","sellPrice5":"248.55","change":"5.05","pchangeinOpenInterest":"33.47","ltp":"-14.70","impliedVolatility":"-","underlyingValue":"248.40","buyQuantity4":"7,000","buyQuantity3":"3,500","buyQuantity2":"7,000","buyQuantity1":"3,500","buyQuantity5":"3,500","settlementPrice":"243.25","closePrice":"0.00","lastPrice":"248.30"}],"companyName":"Hindalco Industries Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=HINDALCO&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

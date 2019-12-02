@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=NMDC","data":[{"annualisedVolatility":"39.80","bestBuy":"-77.71","totalSellQuantity":"11,82,000","vwap":"115.94","clientWisePositionLimits":"8723189","optionType":"-","highPrice":"118.20","dailyVolatility":"2.08","bestSell":"-46.61","marketLot":"6000","sellQuantity5":"18,000","marketWidePositionLimits":"174463784","sellQuantity4":"18,000","sellQuantity3":"6,000","sellQuantity2":"12,000","underlying":"NMDC","sellQuantity1":"12,000","pChange":"3.30","premiumTurnover":"-","totalBuyQuantity":"14,40,000","turnoverinRsLakhs":"12,201.53","changeinOpenInterest":"-2,46,000","strikePrice":"-","openInterest":"1,60,14,000","buyPrice2":"117.25","buyPrice1":"117.30","openPrice":"114.45","prevClose":"113.65","expiryDate":"27SEP2018","lowPrice":"112.60","buyPrice4":"117.15","buyPrice3":"117.20","buyPrice5":"117.10","numberOfContractsTraded":"1,754","instrumentType":"FUTSTK","sellPrice1":"117.40","sellPrice2":"117.45","sellPrice3":"117.50","sellPrice4":"117.55","sellPrice5":"117.60","change":"3.75","pchangeinOpenInterest":"-1.51","ltp":"-46.61","impliedVolatility":"-","underlyingValue":"117.55","buyQuantity4":"18,000","buyQuantity3":"12,000","buyQuantity2":"18,000","buyQuantity1":"12,000","buyQuantity5":"12,000","settlementPrice":"113.65","closePrice":"0.00","lastPrice":"117.40"}],"companyName":"NMDC Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=NMDC&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

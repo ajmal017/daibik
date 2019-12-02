@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=BANKINDIA","data":[{"annualisedVolatility":"55.83","bestBuy":"86.90","totalSellQuantity":"42,36,000","vwap":"83.87","clientWisePositionLimits":"2771802","optionType":"-","highPrice":"87.90","dailyVolatility":"2.92","bestSell":"130.28","marketLot":"6000","sellQuantity5":"36,000","marketWidePositionLimits":"55436059","sellQuantity4":"18,000","sellQuantity3":"24,000","sellQuantity2":"18,000","underlying":"BANKINDIA","sellQuantity1":"24,000","pChange":"-0.41","premiumTurnover":"-","totalBuyQuantity":"10,44,000","turnoverinRsLakhs":"25,845.38","changeinOpenInterest":"-25,92,000","strikePrice":"-","openInterest":"1,04,82,000","buyPrice2":"84.05","buyPrice1":"84.10","openPrice":"87.90","prevClose":"84.55","expiryDate":"27SEP2018","lowPrice":"81.20","buyPrice4":"83.95","buyPrice3":"84.00","buyPrice5":"83.90","numberOfContractsTraded":"5,136","instrumentType":"FUTSTK","sellPrice1":"84.20","sellPrice2":"84.25","sellPrice3":"84.30","sellPrice4":"84.35","sellPrice5":"84.40","change":"-0.35","pchangeinOpenInterest":"-19.83","ltp":"130.28","impliedVolatility":"-","underlyingValue":"83.90","buyQuantity4":"18,000","buyQuantity3":"18,000","buyQuantity2":"6,000","buyQuantity1":"6,000","buyQuantity5":"24,000","settlementPrice":"84.55","closePrice":"0.00","lastPrice":"84.20"}],"companyName":"Bank of India","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=BANKINDIA&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

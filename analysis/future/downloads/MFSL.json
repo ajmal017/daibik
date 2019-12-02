@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=MFSL","data":[{"annualisedVolatility":"57.81","bestBuy":"-32.83","totalSellQuantity":"2,88,000","vwap":"452.29","clientWisePositionLimits":"1871129","optionType":"-","highPrice":"465.25","dailyVolatility":"3.03","bestSell":"32.81","marketLot":"1200","sellQuantity5":"1,200","marketWidePositionLimits":"37422599","sellQuantity4":"4,800","sellQuantity3":"2,400","sellQuantity2":"3,600","underlying":"MFSL","sellQuantity1":"2,400","pChange":"-0.01","premiumTurnover":"-","totalBuyQuantity":"2,11,200","turnoverinRsLakhs":"9,465.53","changeinOpenInterest":"1,02,000","strikePrice":"-","openInterest":"14,89,200","buyPrice2":"444.40","buyPrice1":"444.45","openPrice":"453.60","prevClose":"444.55","expiryDate":"27SEP2018","lowPrice":"438.50","buyPrice4":"444.20","buyPrice3":"444.30","buyPrice5":"443.95","numberOfContractsTraded":"1,744","instrumentType":"FUTSTK","sellPrice1":"445.25","sellPrice2":"445.50","sellPrice3":"445.95","sellPrice4":"446.00","sellPrice5":"446.10","change":"-0.05","pchangeinOpenInterest":"7.35","ltp":"-28.73","impliedVolatility":"-","underlyingValue":"444.85","buyQuantity4":"1,200","buyQuantity3":"1,200","buyQuantity2":"1,200","buyQuantity1":"1,200","buyQuantity5":"1,200","settlementPrice":"444.55","closePrice":"0.00","lastPrice":"444.50"}],"companyName":"Max Financial Services Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=MFSL&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

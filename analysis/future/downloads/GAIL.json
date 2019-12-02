@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=GAIL","data":[{"annualisedVolatility":"36.92","bestBuy":"87.51","totalSellQuantity":"5,49,402","vwap":"378.06","clientWisePositionLimits":"10458574","optionType":"-","highPrice":"382.40","dailyVolatility":"1.93","bestSell":"102.07","marketLot":"2667","sellQuantity5":"5,334","marketWidePositionLimits":"209171490","sellQuantity4":"5,334","sellQuantity3":"10,668","sellQuantity2":"2,667","underlying":"GAIL","sellQuantity1":"2,667","pChange":"1.40","premiumTurnover":"-","totalBuyQuantity":"5,25,399","turnoverinRsLakhs":"40,533.10","changeinOpenInterest":"21,78,939","strikePrice":"-","openInterest":"1,44,68,475","buyPrice2":"375.70","buyPrice1":"375.85","openPrice":"371.15","prevClose":"370.65","expiryDate":"27SEP2018","lowPrice":"371.15","buyPrice4":"375.60","buyPrice3":"375.65","buyPrice5":"375.55","numberOfContractsTraded":"4,020","instrumentType":"FUTSTK","sellPrice1":"376.00","sellPrice2":"376.05","sellPrice3":"376.10","sellPrice4":"376.15","sellPrice5":"376.25","change":"5.20","pchangeinOpenInterest":"17.73","ltp":"87.51","impliedVolatility":"-","underlyingValue":"374.95","buyQuantity4":"5,334","buyQuantity3":"2,667","buyQuantity2":"2,667","buyQuantity1":"8,001","buyQuantity5":"5,334","settlementPrice":"370.65","closePrice":"0.00","lastPrice":"375.85"}],"companyName":"GAIL (India) Limited","lastUpdateTime":"26-SEP-2018 15:19:29","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=GAIL&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

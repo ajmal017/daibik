@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=COLPAL","data":[{"annualisedVolatility":"24.06","bestBuy":"51.45","totalSellQuantity":"1,16,900","vwap":"1,101.57","clientWisePositionLimits":"1332729","optionType":"-","highPrice":"1,115.10","dailyVolatility":"1.26","bestSell":"71.34","marketLot":"700","sellQuantity5":"700","marketWidePositionLimits":"26654592","sellQuantity4":"700","sellQuantity3":"700","sellQuantity2":"700","underlying":"COLPAL","sellQuantity1":"700","pChange":"-0.16","premiumTurnover":"-","totalBuyQuantity":"1,14,800","turnoverinRsLakhs":"9,384.27","changeinOpenInterest":"1,26,000","strikePrice":"-","openInterest":"12,16,600","buyPrice2":"1,100.40","buyPrice1":"1,100.45","openPrice":"1,108.95","prevClose":"1,102.05","expiryDate":"27SEP2018","lowPrice":"1,090.50","buyPrice4":"1,100.05","buyPrice3":"1,100.35","buyPrice5":"1,099.85","numberOfContractsTraded":"1,217","instrumentType":"FUTSTK","sellPrice1":"1,101.05","sellPrice2":"1,101.50","sellPrice3":"1,101.60","sellPrice4":"1,101.80","sellPrice5":"1,101.85","change":"-1.80","pchangeinOpenInterest":"11.55","ltp":"44.81","impliedVolatility":"-","underlyingValue":"1,098.90","buyQuantity4":"700","buyQuantity3":"700","buyQuantity2":"700","buyQuantity1":"700","buyQuantity5":"700","settlementPrice":"1102.05","closePrice":"0.00","lastPrice":"1,100.25"}],"companyName":"Colgate Palmolive (India) Limited","lastUpdateTime":"26-SEP-2018 15:19:29","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=COLPAL&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

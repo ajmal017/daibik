@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=JUBLFOOD","data":[{"annualisedVolatility":"37.16","bestBuy":"-81.84","totalSellQuantity":"5,76,500","vwap":"1,291.25","clientWisePositionLimits":"722586","optionType":"-","highPrice":"1,304.35","dailyVolatility":"1.95","bestSell":"-59.24","marketLot":"500","sellQuantity5":"500","marketWidePositionLimits":"14451724","sellQuantity4":"500","sellQuantity3":"500","sellQuantity2":"500","underlying":"JUBLFOOD","sellQuantity1":"500","pChange":"2.77","premiumTurnover":"-","totalBuyQuantity":"1,22,500","turnoverinRsLakhs":"37,071.79","changeinOpenInterest":"54,500","strikePrice":"-","openInterest":"23,06,500","buyPrice2":"1,291.55","buyPrice1":"1,292.00","openPrice":"1,262.10","prevClose":"1,257.80","expiryDate":"27SEP2018","lowPrice":"1,262.10","buyPrice4":"1,291.35","buyPrice3":"1,291.50","buyPrice5":"1,291.30","numberOfContractsTraded":"5,742","instrumentType":"FUTSTK","sellPrice1":"1,292.80","sellPrice2":"1,293.00","sellPrice3":"1,293.50","sellPrice4":"1,293.55","sellPrice5":"1,293.70","change":"34.90","pchangeinOpenInterest":"2.42","ltp":"-62.07","impliedVolatility":"-","underlyingValue":"1,294.90","buyQuantity4":"500","buyQuantity3":"1,500","buyQuantity2":"500","buyQuantity1":"1,500","buyQuantity5":"500","settlementPrice":"1257.80","closePrice":"0.00","lastPrice":"1,292.70"}],"companyName":"Jubilant Foodworks Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=JUBLFOOD&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

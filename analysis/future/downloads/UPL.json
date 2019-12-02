@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=UPL","data":[{"annualisedVolatility":"46.24","bestBuy":"-28.77","totalSellQuantity":"2,66,400","vwap":"678.02","clientWisePositionLimits":"3678106","optionType":"-","highPrice":"699.45","dailyVolatility":"2.42","bestSell":"-2.61","marketLot":"1200","sellQuantity5":"2,400","marketWidePositionLimits":"73562128","sellQuantity4":"1,200","sellQuantity3":"2,400","sellQuantity2":"1,200","underlying":"UPL","sellQuantity1":"1,200","pChange":"5.63","premiumTurnover":"-","totalBuyQuantity":"4,59,600","turnoverinRsLakhs":"77,050.19","changeinOpenInterest":"-2,64,000","strikePrice":"-","openInterest":"82,41,600","buyPrice2":"697.40","buyPrice1":"697.45","openPrice":"665.00","prevClose":"660.30","expiryDate":"27SEP2018","lowPrice":"654.75","buyPrice4":"697.05","buyPrice3":"697.20","buyPrice5":"697.00","numberOfContractsTraded":"9,470","instrumentType":"FUTSTK","sellPrice1":"697.95","sellPrice2":"698.00","sellPrice3":"698.20","sellPrice4":"698.25","sellPrice5":"698.30","change":"37.15","pchangeinOpenInterest":"-3.10","ltp":"-28.77","impliedVolatility":"-","underlyingValue":"698.00","buyQuantity4":"2,400","buyQuantity3":"1,200","buyQuantity2":"1,200","buyQuantity1":"1,200","buyQuantity5":"3,600","settlementPrice":"660.30","closePrice":"0.00","lastPrice":"697.45"}],"companyName":"UPL Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=UPL&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

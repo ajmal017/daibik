@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=MARUTI","data":[{"annualisedVolatility":"31.37","bestBuy":"73.67","totalSellQuantity":"54,375","vwap":"7,916.53","clientWisePositionLimits":"1322916","optionType":"-","highPrice":"8,097.60","dailyVolatility":"1.64","bestSell":"81.33","marketLot":"75","sellQuantity5":"75","marketWidePositionLimits":"26458324","sellQuantity4":"75","sellQuantity3":"75","sellQuantity2":"75","underlying":"MARUTI","sellQuantity1":"75","pChange":"-1.82","premiumTurnover":"-","totalBuyQuantity":"21,975","turnoverinRsLakhs":"1,20,285.74","changeinOpenInterest":"2,18,250","strikePrice":"-","openInterest":"21,01,350","buyPrice2":"7,861.05","buyPrice1":"7,861.35","openPrice":"8,057.65","prevClose":"8,007.35","expiryDate":"27SEP2018","lowPrice":"7,841.40","buyPrice4":"7,860.05","buyPrice3":"7,861.00","buyPrice5":"7,860.00","numberOfContractsTraded":"20,259","instrumentType":"FUTSTK","sellPrice1":"7,863.00","sellPrice2":"7,863.25","sellPrice3":"7,863.50","sellPrice4":"7,864.00","sellPrice5":"7,864.90","change":"-145.35","pchangeinOpenInterest":"11.59","ltp":"76.68","impliedVolatility":"-","underlyingValue":"7,845.50","buyQuantity4":"75","buyQuantity3":"150","buyQuantity2":"75","buyQuantity1":"75","buyQuantity5":"150","settlementPrice":"8007.35","closePrice":"0.00","lastPrice":"7,862.00"}],"companyName":"Maruti Suzuki India Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=MARUTI&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

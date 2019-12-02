@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=BIOCON","data":[{"annualisedVolatility":"49.31","bestBuy":"-54.23","totalSellQuantity":"3,69,900","vwap":"707.52","clientWisePositionLimits":"2270260","optionType":"-","highPrice":"717.70","dailyVolatility":"2.58","bestSell":"-36.15","marketLot":"900","sellQuantity5":"900","marketWidePositionLimits":"45405205","sellQuantity4":"900","sellQuantity3":"1,800","sellQuantity2":"900","underlying":"BIOCON","sellQuantity1":"900","pChange":"0.45","premiumTurnover":"-","totalBuyQuantity":"2,77,200","turnoverinRsLakhs":"66,223.87","changeinOpenInterest":"3,13,200","strikePrice":"-","openInterest":"39,38,400","buyPrice2":"706.10","buyPrice1":"706.15","openPrice":"706.50","prevClose":"703.00","expiryDate":"27SEP2018","lowPrice":"696.60","buyPrice4":"705.95","buyPrice3":"706.00","buyPrice5":"705.90","numberOfContractsTraded":"10,400","instrumentType":"FUTSTK","sellPrice1":"706.50","sellPrice2":"706.60","sellPrice3":"706.65","sellPrice4":"706.75","sellPrice5":"706.80","change":"3.15","pchangeinOpenInterest":"8.64","ltp":"-54.23","impliedVolatility":"-","underlyingValue":"707.20","buyQuantity4":"900","buyQuantity3":"1,800","buyQuantity2":"900","buyQuantity1":"900","buyQuantity5":"900","settlementPrice":"703.00","closePrice":"0.00","lastPrice":"706.15"}],"companyName":"Biocon Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=BIOCON&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

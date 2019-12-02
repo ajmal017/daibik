@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=SIEMENS","data":[{"annualisedVolatility":"32.97","bestBuy":"-98.54","totalSellQuantity":"81,500","vwap":"933.77","clientWisePositionLimits":"890303","optionType":"-","highPrice":"948.00","dailyVolatility":"1.73","bestSell":"-73.40","marketLot":"500","sellQuantity5":"500","marketWidePositionLimits":"17806068","sellQuantity4":"500","sellQuantity3":"5,000","sellQuantity2":"500","underlying":"SIEMENS","sellQuantity1":"500","pChange":"0.74","premiumTurnover":"-","totalBuyQuantity":"83,000","turnoverinRsLakhs":"6,625.10","changeinOpenInterest":"-1,34,500","strikePrice":"-","openInterest":"8,95,500","buyPrice2":"942.75","buyPrice1":"943.25","openPrice":"945.10","prevClose":"937.45","expiryDate":"27SEP2018","lowPrice":"921.60","buyPrice4":"942.00","buyPrice3":"942.70","buyPrice5":"941.85","numberOfContractsTraded":"1,419","instrumentType":"FUTSTK","sellPrice1":"943.90","sellPrice2":"943.95","sellPrice3":"944.00","sellPrice4":"944.20","sellPrice5":"944.50","change":"6.95","pchangeinOpenInterest":"-13.06","ltp":"-54.07","impliedVolatility":"-","underlyingValue":"945.80","buyQuantity4":"500","buyQuantity3":"500","buyQuantity2":"500","buyQuantity1":"500","buyQuantity5":"500","settlementPrice":"937.45","closePrice":"0.00","lastPrice":"944.40"}],"companyName":"Siemens Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=SIEMENS&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

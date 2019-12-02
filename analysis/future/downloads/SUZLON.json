@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=SUZLON","data":[{"annualisedVolatility":"66.05","bestBuy":"-","totalSellQuantity":"1,39,95,000","vwap":"6.13","clientWisePositionLimits":"42587088","optionType":"-","highPrice":"6.40","dailyVolatility":"3.46","bestSell":"295.55","marketLot":"45000","sellQuantity5":"12,60,000","marketWidePositionLimits":"851741765","sellQuantity4":"10,80,000","sellQuantity3":"15,30,000","sellQuantity2":"24,30,000","underlying":"SUZLON","sellQuantity1":"14,40,000","pChange":"0.81","premiumTurnover":"-","totalBuyQuantity":"1,05,30,000","turnoverinRsLakhs":"6,184.56","changeinOpenInterest":"-39,15,000","strikePrice":"-","openInterest":"22,86,90,000","buyPrice2":"6.10","buyPrice1":"6.15","openPrice":"6.30","prevClose":"6.20","expiryDate":"27SEP2018","lowPrice":"5.95","buyPrice4":"6.00","buyPrice3":"6.05","buyPrice5":"5.95","numberOfContractsTraded":"2,242","instrumentType":"FUTSTK","sellPrice1":"6.20","sellPrice2":"6.25","sellPrice3":"6.30","sellPrice4":"6.35","sellPrice5":"6.40","change":"0.05","pchangeinOpenInterest":"-1.68","ltp":"588.72","impliedVolatility":"-","underlyingValue":"6.15","buyQuantity4":"13,05,000","buyQuantity3":"18,45,000","buyQuantity2":"17,55,000","buyQuantity1":"16,20,000","buyQuantity5":"10,35,000","settlementPrice":"6.20","closePrice":"0.00","lastPrice":"6.25"}],"companyName":"Suzlon Energy Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=SUZLON&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

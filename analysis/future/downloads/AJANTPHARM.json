@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=AJANTPHARM","data":[{"annualisedVolatility":"50.21","bestBuy":"-9.82","totalSellQuantity":"84,000","vwap":"1,115.08","clientWisePositionLimits":"259762","optionType":"-","highPrice":"1,132.95","dailyVolatility":"2.63","bestSell":"35.98","marketLot":"500","sellQuantity5":"500","marketWidePositionLimits":"5195248","sellQuantity4":"500","sellQuantity3":"500","sellQuantity2":"500","underlying":"AJANTPHARM","sellQuantity1":"500","pChange":"0.59","premiumTurnover":"-","totalBuyQuantity":"84,000","turnoverinRsLakhs":"4,426.87","changeinOpenInterest":"28,500","strikePrice":"-","openInterest":"4,26,500","buyPrice2":"1,115.10","buyPrice1":"1,115.15","openPrice":"1,119.25","prevClose":"1,110.50","expiryDate":"27SEP2018","lowPrice":"1,094.70","buyPrice4":"1,114.80","buyPrice3":"1,114.90","buyPrice5":"1,114.55","numberOfContractsTraded":"794","instrumentType":"FUTSTK","sellPrice1":"1,116.55","sellPrice2":"1,116.60","sellPrice3":"1,117.00","sellPrice4":"1,117.05","sellPrice5":"1,117.80","change":"6.50","pchangeinOpenInterest":"7.16","ltp":"50.68","impliedVolatility":"-","underlyingValue":"1,115.45","buyQuantity4":"500","buyQuantity3":"500","buyQuantity2":"500","buyQuantity1":"500","buyQuantity5":"500","settlementPrice":"1110.50","closePrice":"0.00","lastPrice":"1,117.00"}],"companyName":"Ajanta Pharma Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=AJANTPHARM&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

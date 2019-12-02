@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=ZEEL","data":[{"annualisedVolatility":"27.08","bestBuy":"16.26","totalSellQuantity":"2,83,400","vwap":"449.64","clientWisePositionLimits":"5607028","optionType":"-","highPrice":"452.90","dailyVolatility":"1.42","bestSell":"56.89","marketLot":"1300","sellQuantity5":"2,600","marketWidePositionLimits":"112140571","sellQuantity4":"3,900","sellQuantity3":"2,600","sellQuantity2":"1,300","underlying":"ZEEL","sellQuantity1":"2,600","pChange":"-0.37","premiumTurnover":"-","totalBuyQuantity":"2,27,500","turnoverinRsLakhs":"21,867.34","changeinOpenInterest":"13,16,900","strikePrice":"-","openInterest":"87,46,400","buyPrice2":"448.95","buyPrice1":"449.00","openPrice":"449.75","prevClose":"450.90","expiryDate":"27SEP2018","lowPrice":"444.80","buyPrice4":"448.80","buyPrice3":"448.85","buyPrice5":"448.75","numberOfContractsTraded":"3,741","instrumentType":"FUTSTK","sellPrice1":"449.50","sellPrice2":"449.55","sellPrice3":"449.60","sellPrice4":"449.65","sellPrice5":"449.70","change":"-1.65","pchangeinOpenInterest":"17.73","ltp":"36.58","impliedVolatility":"-","underlyingValue":"448.80","buyQuantity4":"1,300","buyQuantity3":"1,300","buyQuantity2":"1,300","buyQuantity1":"1,300","buyQuantity5":"1,300","settlementPrice":"450.90","closePrice":"0.00","lastPrice":"449.25"}],"companyName":"Zee Entertainment Enterprises Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=ZEEL&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

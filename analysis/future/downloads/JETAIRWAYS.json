@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=JETAIRWAYS","data":[{"annualisedVolatility":"88.16","bestBuy":"-","totalSellQuantity":"3,13,200","vwap":"193.54","clientWisePositionLimits":"556627","optionType":"-","highPrice":"197.35","dailyVolatility":"4.61","bestSell":"56.79","marketLot":"1200","sellQuantity5":"1,200","marketWidePositionLimits":"11132543","sellQuantity4":"1,200","sellQuantity3":"4,800","sellQuantity2":"2,400","underlying":"JETAIRWAYS","sellQuantity1":"4,800","pChange":"0.60","premiumTurnover":"-","totalBuyQuantity":"3,19,200","turnoverinRsLakhs":"14,301.83","changeinOpenInterest":"-5,24,400","strikePrice":"-","openInterest":"29,82,000","buyPrice2":"192.60","buyPrice1":"192.65","openPrice":"191.60","prevClose":"191.80","expiryDate":"27SEP2018","lowPrice":"187.35","buyPrice4":"192.40","buyPrice3":"192.55","buyPrice5":"192.35","numberOfContractsTraded":"6,158","instrumentType":"FUTSTK","sellPrice1":"192.95","sellPrice2":"193.00","sellPrice3":"193.20","sellPrice4":"193.25","sellPrice5":"193.30","change":"1.15","pchangeinOpenInterest":"-14.96","ltp":"56.79","impliedVolatility":"-","underlyingValue":"192.65","buyQuantity4":"1,200","buyQuantity3":"2,400","buyQuantity2":"1,200","buyQuantity1":"1,200","buyQuantity5":"1,200","settlementPrice":"191.80","closePrice":"0.00","lastPrice":"192.95"}],"companyName":"Jet Airways (India) Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=JETAIRWAYS&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

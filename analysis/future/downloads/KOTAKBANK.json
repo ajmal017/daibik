@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=KOTAKBANK","data":[{"annualisedVolatility":"33.86","bestBuy":"-67.13","totalSellQuantity":"12,81,600","vwap":"1,174.46","clientWisePositionLimits":"13336659","optionType":"-","highPrice":"1,189.00","dailyVolatility":"1.77","bestSell":"-54.63","marketLot":"800","sellQuantity5":"800","marketWidePositionLimits":"266733183","sellQuantity4":"1,600","sellQuantity3":"800","sellQuantity2":"800","underlying":"KOTAKBANK","sellQuantity1":"800","pChange":"-1.15","premiumTurnover":"-","totalBuyQuantity":"1,54,400","turnoverinRsLakhs":"94,022.57","changeinOpenInterest":"14,88,000","strikePrice":"-","openInterest":"1,09,92,000","buyPrice2":"1,167.90","buyPrice1":"1,167.95","openPrice":"1,188.95","prevClose":"1,181.65","expiryDate":"27SEP2018","lowPrice":"1,163.45","buyPrice4":"1,167.70","buyPrice3":"1,167.85","buyPrice5":"1,167.65","numberOfContractsTraded":"10,007","instrumentType":"FUTSTK","sellPrice1":"1,168.35","sellPrice2":"1,168.40","sellPrice3":"1,168.45","sellPrice4":"1,168.60","sellPrice5":"1,168.70","change":"-13.55","pchangeinOpenInterest":"15.66","ltp":"-62.44","impliedVolatility":"-","underlyingValue":"1,170.10","buyQuantity4":"800","buyQuantity3":"800","buyQuantity2":"800","buyQuantity1":"800","buyQuantity5":"800","settlementPrice":"1181.65","closePrice":"0.00","lastPrice":"1,168.10"}],"companyName":"Kotak Mahindra Bank Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=KOTAKBANK&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

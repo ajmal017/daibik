@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=HEXAWARE","data":[{"annualisedVolatility":"52.47","bestBuy":"-20.96","totalSellQuantity":"2,76,000","vwap":"432.84","clientWisePositionLimits":"853879","optionType":"-","highPrice":"448.75","dailyVolatility":"2.75","bestSell":"16.76","marketLot":"1500","sellQuantity5":"1,500","marketWidePositionLimits":"17077595","sellQuantity4":"1,500","sellQuantity3":"1,500","sellQuantity2":"1,500","underlying":"HEXAWARE","sellQuantity1":"1,500","pChange":"-1.82","premiumTurnover":"-","totalBuyQuantity":"3,30,000","turnoverinRsLakhs":"13,985.06","changeinOpenInterest":"-2,10,000","strikePrice":"-","openInterest":"21,76,500","buyPrice2":"435.00","buyPrice1":"435.15","openPrice":"446.30","prevClose":"444.20","expiryDate":"27SEP2018","lowPrice":"417.95","buyPrice4":"434.85","buyPrice3":"434.95","buyPrice5":"434.80","numberOfContractsTraded":"2,154","instrumentType":"FUTSTK","sellPrice1":"435.60","sellPrice2":"435.65","sellPrice3":"435.95","sellPrice4":"436.00","sellPrice5":"436.05","change":"-8.10","pchangeinOpenInterest":"-8.80","ltp":"58.63","impliedVolatility":"-","underlyingValue":"435.40","buyQuantity4":"1,500","buyQuantity3":"1,500","buyQuantity2":"1,500","buyQuantity1":"1,500","buyQuantity5":"1,500","settlementPrice":"444.20","closePrice":"0.00","lastPrice":"436.10"}],"companyName":"Hexaware Technologies Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=HEXAWARE&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

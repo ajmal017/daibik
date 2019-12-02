@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=HCC","data":[{"annualisedVolatility":"101.13","bestBuy":"-","totalSellQuantity":"4,50,000","vwap":"11.66","clientWisePositionLimits":"7296885","optionType":"-","highPrice":"12.15","dailyVolatility":"5.29","bestSell":"153.04","marketLot":"18000","sellQuantity5":"1,26,000","marketWidePositionLimits":"145937711","sellQuantity4":"18,000","sellQuantity3":"72,000","sellQuantity2":"18,000","underlying":"HCC","sellQuantity1":"72,000","pChange":"6.22","premiumTurnover":"-","totalBuyQuantity":"3,24,000","turnoverinRsLakhs":"1,187.92","changeinOpenInterest":"-13,68,000","strikePrice":"-","openInterest":"1,12,32,000","buyPrice2":"11.85","buyPrice1":"11.90","openPrice":"11.70","prevClose":"11.25","expiryDate":"27SEP2018","lowPrice":"11.35","buyPrice4":"11.75","buyPrice3":"11.80","buyPrice5":"11.70","numberOfContractsTraded":"566","instrumentType":"FUTSTK","sellPrice1":"11.95","sellPrice2":"12.00","sellPrice3":"12.05","sellPrice4":"12.10","sellPrice5":"12.15","change":"0.70","pchangeinOpenInterest":"-10.86","ltp":"153.04","impliedVolatility":"-","underlyingValue":"11.90","buyQuantity4":"36,000","buyQuantity3":"18,000","buyQuantity2":"54,000","buyQuantity1":"36,000","buyQuantity5":"18,000","settlementPrice":"11.25","closePrice":"0.00","lastPrice":"11.95"}],"companyName":"Hindustan Construction Company Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=HCC&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

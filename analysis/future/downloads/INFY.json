@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=INFY","data":[{"annualisedVolatility":"24.87","bestBuy":"32.99","totalSellQuantity":"22,98,000","vwap":"721.91","clientWisePositionLimits":"37832668","optionType":"-","highPrice":"732.80","dailyVolatility":"1.30","bestSell":"43.14","marketLot":"1200","sellQuantity5":"1,200","marketWidePositionLimits":"756653380","sellQuantity4":"1,200","sellQuantity3":"1,200","sellQuantity2":"4,800","underlying":"INFY","sellQuantity1":"2,400","pChange":"-1.28","premiumTurnover":"-","totalBuyQuantity":"2,67,600","turnoverinRsLakhs":"131,615.74","changeinOpenInterest":"42,70,800","strikePrice":"-","openInterest":"3,46,05,600","buyPrice2":"719.30","buyPrice1":"719.40","openPrice":"732.80","prevClose":"728.85","expiryDate":"27SEP2018","lowPrice":"712.65","buyPrice4":"719.20","buyPrice3":"719.25","buyPrice5":"719.15","numberOfContractsTraded":"15,193","instrumentType":"FUTSTK","sellPrice1":"719.60","sellPrice2":"719.65","sellPrice3":"719.70","sellPrice4":"719.75","sellPrice5":"719.80","change":"-9.30","pchangeinOpenInterest":"14.08","ltp":"40.60","impliedVolatility":"-","underlyingValue":"718.75","buyQuantity4":"1,200","buyQuantity3":"1,200","buyQuantity2":"2,400","buyQuantity1":"1,200","buyQuantity5":"1,200","settlementPrice":"728.85","closePrice":"0.00","lastPrice":"719.55"}],"companyName":"Infosys Limited","lastUpdateTime":"26-SEP-2018 15:19:29","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=INFY&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=BALRAMCHIN","data":[{"annualisedVolatility":"104.25","bestBuy":"-46.95","totalSellQuantity":"19,39,000","vwap":"81.72","clientWisePositionLimits":"1348137","optionType":"-","highPrice":"86.40","dailyVolatility":"5.46","bestSell":"46.89","marketLot":"7000","sellQuantity5":"7,000","marketWidePositionLimits":"26962750","sellQuantity4":"7,000","sellQuantity3":"21,000","sellQuantity2":"14,000","underlying":"BALRAMCHIN","sellQuantity1":"14,000","pChange":"-5.59","premiumTurnover":"-","totalBuyQuantity":"10,64,000","turnoverinRsLakhs":"17,309.93","changeinOpenInterest":"-1,33,000","strikePrice":"-","openInterest":"77,91,000","buyPrice2":"77.65","buyPrice1":"77.70","openPrice":"85.50","prevClose":"82.35","expiryDate":"27SEP2018","lowPrice":"76.60","buyPrice4":"77.55","buyPrice3":"77.60","buyPrice5":"77.45","numberOfContractsTraded":"3,026","instrumentType":"FUTSTK","sellPrice1":"77.90","sellPrice2":"77.95","sellPrice3":"78.00","sellPrice4":"78.05","sellPrice5":"78.10","change":"-4.60","pchangeinOpenInterest":"-1.68","ltp":"-23.47","impliedVolatility":"-","underlyingValue":"77.80","buyQuantity4":"42,000","buyQuantity3":"7,000","buyQuantity2":"7,000","buyQuantity1":"7,000","buyQuantity5":"7,000","settlementPrice":"82.35","closePrice":"0.00","lastPrice":"77.75"}],"companyName":"Balrampur Chini Mills Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=BALRAMCHIN&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=TITAN","data":[{"annualisedVolatility":"34.66","bestBuy":"-42.59","totalSellQuantity":"3,01,500","vwap":"812.62","clientWisePositionLimits":"4180842","optionType":"-","highPrice":"825.00","dailyVolatility":"1.81","bestSell":"-26.90","marketLot":"750","sellQuantity5":"1,500","marketWidePositionLimits":"83616848","sellQuantity4":"750","sellQuantity3":"750","sellQuantity2":"750","underlying":"TITAN","sellQuantity1":"750","pChange":"2.16","premiumTurnover":"-","totalBuyQuantity":"2,55,000","turnoverinRsLakhs":"62,592.06","changeinOpenInterest":"4,98,750","strikePrice":"-","openInterest":"72,45,750","buyPrice2":"813.55","buyPrice1":"813.60","openPrice":"812.00","prevClose":"796.45","expiryDate":"27SEP2018","lowPrice":"803.10","buyPrice4":"813.30","buyPrice3":"813.50","buyPrice5":"813.20","numberOfContractsTraded":"10,270","instrumentType":"FUTSTK","sellPrice1":"813.95","sellPrice2":"814.05","sellPrice3":"814.10","sellPrice4":"814.20","sellPrice5":"814.25","change":"17.20","pchangeinOpenInterest":"7.39","ltp":"-40.35","impliedVolatility":"-","underlyingValue":"814.55","buyQuantity4":"750","buyQuantity3":"750","buyQuantity2":"750","buyQuantity1":"750","buyQuantity5":"3,000","settlementPrice":"796.45","closePrice":"0.00","lastPrice":"813.65"}],"companyName":"Titan Company Limited","lastUpdateTime":"26-SEP-2018 15:19:29","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=TITAN&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

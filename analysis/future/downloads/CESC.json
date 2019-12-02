@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=CESC","data":[{"annualisedVolatility":"41.59","bestBuy":"-40.35","totalSellQuantity":"5,66,500","vwap":"901.51","clientWisePositionLimits":"663769","optionType":"-","highPrice":"917.60","dailyVolatility":"2.18","bestSell":"-12.10","marketLot":"550","sellQuantity5":"550","marketWidePositionLimits":"13275380","sellQuantity4":"550","sellQuantity3":"550","sellQuantity2":"550","underlying":"CESC","sellQuantity1":"550","pChange":"1.02","premiumTurnover":"-","totalBuyQuantity":"1,10,000","turnoverinRsLakhs":"23,765.16","changeinOpenInterest":"1,53,450","strikePrice":"-","openInterest":"42,62,500","buyPrice2":"903.75","buyPrice1":"904.00","openPrice":"904.85","prevClose":"894.80","expiryDate":"27SEP2018","lowPrice":"887.20","buyPrice4":"903.55","buyPrice3":"903.70","buyPrice5":"903.10","numberOfContractsTraded":"4,793","instrumentType":"FUTSTK","sellPrice1":"904.70","sellPrice2":"904.75","sellPrice3":"904.80","sellPrice4":"905.00","sellPrice5":"905.30","change":"9.15","pchangeinOpenInterest":"3.73","ltp":"-42.37","impliedVolatility":"-","underlyingValue":"905.00","buyQuantity4":"550","buyQuantity3":"550","buyQuantity2":"550","buyQuantity1":"550","buyQuantity5":"550","settlementPrice":"894.80","closePrice":"0.00","lastPrice":"903.95"}],"companyName":"CESC Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=CESC&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

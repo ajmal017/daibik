@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=L%26TFH","data":[{"annualisedVolatility":"61.82","bestBuy":"55.18","totalSellQuantity":"66,64,500","vwap":"132.88","clientWisePositionLimits":"7182345","optionType":"-","highPrice":"137.50","dailyVolatility":"3.24","bestSell":"96.51","marketLot":"4500","sellQuantity5":"18,000","marketWidePositionLimits":"143646901","sellQuantity4":"4,500","sellQuantity3":"4,500","sellQuantity2":"22,500","underlying":"L&TFH","sellQuantity1":"4,500","pChange":"-0.34","premiumTurnover":"-","totalBuyQuantity":"9,99,000","turnoverinRsLakhs":"45,002.47","changeinOpenInterest":"21,33,000","strikePrice":"-","openInterest":"2,43,27,000","buyPrice2":"132.35","buyPrice1":"132.40","openPrice":"130.00","prevClose":"132.90","expiryDate":"27SEP2018","lowPrice":"129.55","buyPrice4":"132.25","buyPrice3":"132.30","buyPrice5":"132.20","numberOfContractsTraded":"7,526","instrumentType":"FUTSTK","sellPrice1":"132.55","sellPrice2":"132.60","sellPrice3":"132.65","sellPrice4":"132.70","sellPrice5":"132.75","change":"-0.45","pchangeinOpenInterest":"9.61","ltp":"68.96","impliedVolatility":"-","underlyingValue":"132.20","buyQuantity4":"9,000","buyQuantity3":"13,500","buyQuantity2":"13,500","buyQuantity1":"4,500","buyQuantity5":"9,000","settlementPrice":"132.90","closePrice":"0.00","lastPrice":"132.45"}],"companyName":"L&T Finance Holdings Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=L%26TFH&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

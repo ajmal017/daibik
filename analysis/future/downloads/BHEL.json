@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=BHEL","data":[{"annualisedVolatility":"47.67","bestBuy":"-50.62","totalSellQuantity":"19,95,000","vwap":"72.28","clientWisePositionLimits":"13562220","optionType":"-","highPrice":"72.90","dailyVolatility":"2.50","bestSell":"-","marketLot":"7500","sellQuantity5":"15,000","marketWidePositionLimits":"271244400","sellQuantity4":"45,000","sellQuantity3":"37,500","sellQuantity2":"22,500","underlying":"BHEL","sellQuantity1":"37,500","pChange":"0.77","premiumTurnover":"-","totalBuyQuantity":"11,25,000","turnoverinRsLakhs":"13,796.45","changeinOpenInterest":"-4,95,000","strikePrice":"-","openInterest":"2,84,10,000","buyPrice2":"72.00","buyPrice1":"72.05","openPrice":"72.05","prevClose":"71.60","expiryDate":"27SEP2018","lowPrice":"71.70","buyPrice4":"71.90","buyPrice3":"71.95","buyPrice5":"71.85","numberOfContractsTraded":"2,545","instrumentType":"FUTSTK","sellPrice1":"72.15","sellPrice2":"72.20","sellPrice3":"72.25","sellPrice4":"72.30","sellPrice5":"72.35","change":"0.55","pchangeinOpenInterest":"-1.71","ltp":"-","impliedVolatility":"-","underlyingValue":"72.15","buyQuantity4":"75,000","buyQuantity3":"22,500","buyQuantity2":"37,500","buyQuantity1":"30,000","buyQuantity5":"52,500","settlementPrice":"71.60","closePrice":"0.00","lastPrice":"72.15"}],"companyName":"Bharat Heavy Electricals Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=BHEL&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

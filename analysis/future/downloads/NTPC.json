@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=NTPC","data":[{"annualisedVolatility":"23.36","bestBuy":"75.89","totalSellQuantity":"8,32,000","vwap":"168.81","clientWisePositionLimits":"31570173","optionType":"-","highPrice":"171.55","dailyVolatility":"1.22","bestSell":"119.19","marketLot":"4000","sellQuantity5":"16,000","marketWidePositionLimits":"631403466","sellQuantity4":"8,000","sellQuantity3":"16,000","sellQuantity2":"16,000","underlying":"NTPC","sellQuantity1":"4,000","pChange":"-1.06","premiumTurnover":"-","totalBuyQuantity":"7,28,000","turnoverinRsLakhs":"35,828.23","changeinOpenInterest":"45,20,000","strikePrice":"-","openInterest":"3,24,72,000","buyPrice2":"168.45","buyPrice1":"168.50","openPrice":"170.75","prevClose":"170.45","expiryDate":"27SEP2018","lowPrice":"166.45","buyPrice4":"168.35","buyPrice3":"168.40","buyPrice5":"168.30","numberOfContractsTraded":"5,306","instrumentType":"FUTSTK","sellPrice1":"168.70","sellPrice2":"168.75","sellPrice3":"168.80","sellPrice4":"168.85","sellPrice5":"168.90","change":"-1.80","pchangeinOpenInterest":"16.17","ltp":"108.37","impliedVolatility":"-","underlyingValue":"168.15","buyQuantity4":"32,000","buyQuantity3":"8,000","buyQuantity2":"8,000","buyQuantity1":"20,000","buyQuantity5":"8,000","settlementPrice":"170.45","closePrice":"0.00","lastPrice":"168.65"}],"companyName":"NTPC Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=NTPC&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

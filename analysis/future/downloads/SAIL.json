@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=SAIL","data":[{"annualisedVolatility":"44.99","bestBuy":"71.73","totalSellQuantity":"38,04,000","vwap":"75.95","clientWisePositionLimits":"10326402","optionType":"-","highPrice":"77.20","dailyVolatility":"2.35","bestSell":"119.48","marketLot":"12000","sellQuantity5":"96,000","marketWidePositionLimits":"206528041","sellQuantity4":"1,20,000","sellQuantity3":"1,32,000","sellQuantity2":"84,000","underlying":"SAIL","sellQuantity1":"60,000","pChange":"1.73","premiumTurnover":"-","totalBuyQuantity":"3,168,000","turnoverinRsLakhs":"52,487.53","changeinOpenInterest":"-24,36,000","strikePrice":"-","openInterest":"4,98,00,000","buyPrice2":"76.35","buyPrice1":"76.40","openPrice":"76.15","prevClose":"75.15","expiryDate":"27SEP2018","lowPrice":"74.95","buyPrice4":"76.25","buyPrice3":"76.30","buyPrice5":"76.20","numberOfContractsTraded":"5,759","instrumentType":"FUTSTK","sellPrice1":"76.50","sellPrice2":"76.55","sellPrice3":"76.60","sellPrice4":"76.65","sellPrice5":"76.70","change":"1.30","pchangeinOpenInterest":"-4.66","ltp":"95.61","impliedVolatility":"-","underlyingValue":"76.25","buyQuantity4":"1,08,000","buyQuantity3":"1,20,000","buyQuantity2":"84,000","buyQuantity1":"48,000","buyQuantity5":"2,04,000","settlementPrice":"75.15","closePrice":"0.00","lastPrice":"76.45"}],"companyName":"Steel Authority of India Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=SAIL&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=INDIACEM","data":[{"annualisedVolatility":"62.09","bestBuy":"-33.50","totalSellQuantity":"8,89,000","vwap":"109.09","clientWisePositionLimits":"2209918","optionType":"-","highPrice":"110.85","dailyVolatility":"3.25","bestSell":"-","marketLot":"3500","sellQuantity5":"3,500","marketWidePositionLimits":"44198369","sellQuantity4":"10,500","sellQuantity3":"10,500","sellQuantity2":"7,000","underlying":"INDIACEM","sellQuantity1":"3,500","pChange":"2.06","premiumTurnover":"-","totalBuyQuantity":"5,98,500","turnoverinRsLakhs":"17,277.13","changeinOpenInterest":"-23,48,500","strikePrice":"-","openInterest":"95,69,000","buyPrice2":"108.85","buyPrice1":"108.90","openPrice":"108.15","prevClose":"106.80","expiryDate":"27SEP2018","lowPrice":"106.95","buyPrice4":"108.75","buyPrice3":"108.80","buyPrice5":"108.70","numberOfContractsTraded":"4,525","instrumentType":"FUTSTK","sellPrice1":"109.00","sellPrice2":"109.05","sellPrice3":"109.10","sellPrice4":"109.15","sellPrice5":"109.20","change":"2.20","pchangeinOpenInterest":"-19.71","ltp":"-","impliedVolatility":"-","underlyingValue":"109.00","buyQuantity4":"17,500","buyQuantity3":"10,500","buyQuantity2":"3,500","buyQuantity1":"10,500","buyQuantity5":"10,500","settlementPrice":"106.80","closePrice":"0.00","lastPrice":"109.00"}],"companyName":"The India Cements Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=INDIACEM&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

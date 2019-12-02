@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=CONCOR","data":[{"annualisedVolatility":"40.67","bestBuy":"-8.71","totalSellQuantity":"1,86,250","vwap":"625.48","clientWisePositionLimits":"2203274","optionType":"-","highPrice":"633.30","dailyVolatility":"2.13","bestSell":"31.92","marketLot":"1250","sellQuantity5":"1,250","marketWidePositionLimits":"44065499","sellQuantity4":"1,250","sellQuantity3":"2,500","sellQuantity2":"1,250","underlying":"CONCOR","sellQuantity1":"1,250","pChange":"2.38","premiumTurnover":"-","totalBuyQuantity":"2,25,000","turnoverinRsLakhs":"8,162.51","changeinOpenInterest":"4,11,250","strikePrice":"-","openInterest":"17,56,250","buyPrice2":"627.95","buyPrice1":"628.45","openPrice":"615.15","prevClose":"614.55","expiryDate":"27SEP2018","lowPrice":"613.00","buyPrice4":"627.55","buyPrice3":"627.90","buyPrice5":"627.50","numberOfContractsTraded":"1,044","instrumentType":"FUTSTK","sellPrice1":"629.15","sellPrice2":"629.20","sellPrice3":"629.50","sellPrice4":"629.55","sellPrice5":"629.85","change":"14.60","pchangeinOpenInterest":"30.58","ltp":"31.92","impliedVolatility":"-","underlyingValue":"628.60","buyQuantity4":"1,250","buyQuantity3":"1,250","buyQuantity2":"1,250","buyQuantity1":"2,500","buyQuantity5":"1,250","settlementPrice":"614.55","closePrice":"0.00","lastPrice":"629.15"}],"companyName":"Container Corporation of India Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=CONCOR&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=HINDPETRO","data":[{"annualisedVolatility":"44.88","bestBuy":"-81.04","totalSellQuantity":"5,32,350","vwap":"244.51","clientWisePositionLimits":"15238226","optionType":"-","highPrice":"248.35","dailyVolatility":"2.35","bestSell":"-51.55","marketLot":"1575","sellQuantity5":"4,725","marketWidePositionLimits":"304764525","sellQuantity4":"4,725","sellQuantity3":"1,575","sellQuantity2":"3,150","underlying":"HINDPETRO","sellQuantity1":"3,150","pChange":"1.41","premiumTurnover":"-","totalBuyQuantity":"3,66,975","turnoverinRsLakhs":"27,461.71","changeinOpenInterest":"9,04,050","strikePrice":"-","openInterest":"1,58,38,200","buyPrice2":"247.40","buyPrice1":"247.45","openPrice":"247.85","prevClose":"244.05","expiryDate":"27SEP2018","lowPrice":"241.90","buyPrice4":"247.30","buyPrice3":"247.35","buyPrice5":"247.25","numberOfContractsTraded":"7,131","instrumentType":"FUTSTK","sellPrice1":"247.65","sellPrice2":"247.70","sellPrice3":"247.75","sellPrice4":"247.80","sellPrice5":"247.85","change":"3.45","pchangeinOpenInterest":"6.05","ltp":"-73.66","impliedVolatility":"-","underlyingValue":"248.00","buyQuantity4":"6,300","buyQuantity3":"1,575","buyQuantity2":"6,300","buyQuantity1":"1,575","buyQuantity5":"1,575","settlementPrice":"244.05","closePrice":"0.00","lastPrice":"247.50"}],"companyName":"Hindustan Petroleum Corporation Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=HINDPETRO&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

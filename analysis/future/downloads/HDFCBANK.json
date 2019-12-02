@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=HDFCBANK","data":[{"annualisedVolatility":"20.41","bestBuy":"-15.77","totalSellQuantity":"14,22,500","vwap":"1,966.96","clientWisePositionLimits":"15879536","optionType":"-","highPrice":"1,978.15","dailyVolatility":"1.07","bestSell":"-10.21","marketLot":"500","sellQuantity5":"500","marketWidePositionLimits":"317590724","sellQuantity4":"1,500","sellQuantity3":"500","sellQuantity2":"500","underlying":"HDFCBANK","sellQuantity1":"500","pChange":"0.68","premiumTurnover":"-","totalBuyQuantity":"1,49,500","turnoverinRsLakhs":"1,52,508.24","changeinOpenInterest":"-2,20,500","strikePrice":"-","openInterest":"1,20,01,500","buyPrice2":"1,966.30","buyPrice1":"1,966.45","openPrice":"1,956.40","prevClose":"1,953.50","expiryDate":"27SEP2018","lowPrice":"1,955.45","buyPrice4":"1,966.15","buyPrice3":"1,966.25","buyPrice5":"1,966.10","numberOfContractsTraded":"15,507","instrumentType":"FUTSTK","sellPrice1":"1,966.75","sellPrice2":"1,966.90","sellPrice3":"1,966.95","sellPrice4":"1,967.10","sellPrice5":"1,967.25","change":"13.25","pchangeinOpenInterest":"-1.80","ltp":"-10.21","impliedVolatility":"-","underlyingValue":"1,967.30","buyQuantity4":"500","buyQuantity3":"500","buyQuantity2":"500","buyQuantity1":"1,000","buyQuantity5":"1,000","settlementPrice":"1953.50","closePrice":"0.00","lastPrice":"1,966.75"}],"companyName":"HDFC Bank Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=HDFCBANK&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

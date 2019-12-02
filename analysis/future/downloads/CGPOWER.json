@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=CGPOWER","data":[{"annualisedVolatility":"44.36","bestBuy":"-112.60","totalSellQuantity":"17,28,000","vwap":"48.67","clientWisePositionLimits":"4105191","optionType":"-","highPrice":"50.00","dailyVolatility":"2.32","bestSell":"-37.49","marketLot":"12000","sellQuantity5":"12,000","marketWidePositionLimits":"82103824","sellQuantity4":"36,000","sellQuantity3":"24,000","sellQuantity2":"36,000","underlying":"CGPOWER","sellQuantity1":"24,000","pChange":"-2.02","premiumTurnover":"-","totalBuyQuantity":"14,40,000","turnoverinRsLakhs":"7,802.77","changeinOpenInterest":"-6,12,000","strikePrice":"-","openInterest":"1,89,60,000","buyPrice2":"48.50","buyPrice1":"48.55","openPrice":"49.40","prevClose":"49.60","expiryDate":"27SEP2018","lowPrice":"46.90","buyPrice4":"48.40","buyPrice3":"48.45","buyPrice5":"48.35","numberOfContractsTraded":"1,336","instrumentType":"FUTSTK","sellPrice1":"48.65","sellPrice2":"48.70","sellPrice3":"48.75","sellPrice4":"48.80","sellPrice5":"48.85","change":"-1.00","pchangeinOpenInterest":"-3.13","ltp":"-75.03","impliedVolatility":"-","underlyingValue":"48.70","buyQuantity4":"36,000","buyQuantity3":"36,000","buyQuantity2":"36,000","buyQuantity1":"12,000","buyQuantity5":"12,000","settlementPrice":"49.60","closePrice":"0.00","lastPrice":"48.60"}],"companyName":"CG Power and Industrial Solutions Limited","lastUpdateTime":"26-SEP-2018 15:19:29","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=CGPOWER&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

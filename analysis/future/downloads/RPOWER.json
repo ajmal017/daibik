@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=RPOWER","data":[{"annualisedVolatility":"69.90","bestBuy":"-201.10","totalSellQuantity":"23,53,000","vwap":"27.22","clientWisePositionLimits":"7011613","optionType":"-","highPrice":"27.60","dailyVolatility":"3.66","bestSell":"-66.91","marketLot":"13000","sellQuantity5":"1,30,000","marketWidePositionLimits":"140232274","sellQuantity4":"1,43,000","sellQuantity3":"1,82,000","sellQuantity2":"1,43,000","underlying":"RPOWER","sellQuantity1":"78,000","pChange":"0.74","premiumTurnover":"-","totalBuyQuantity":"16,77,000","turnoverinRsLakhs":"6,730.42","changeinOpenInterest":"-20,67,000","strikePrice":"-","openInterest":"2,20,09,000","buyPrice2":"27.10","buyPrice1":"27.15","openPrice":"27.20","prevClose":"27.00","expiryDate":"27SEP2018","lowPrice":"26.70","buyPrice4":"27.00","buyPrice3":"27.05","buyPrice5":"26.95","numberOfContractsTraded":"1,902","instrumentType":"FUTSTK","sellPrice1":"27.25","sellPrice2":"27.30","sellPrice3":"27.35","sellPrice4":"27.40","sellPrice5":"27.45","change":"0.20","pchangeinOpenInterest":"-8.59","ltp":"-133.95","impliedVolatility":"-","underlyingValue":"27.30","buyQuantity4":"1,04,000","buyQuantity3":"39,000","buyQuantity2":"52,000","buyQuantity1":"78,000","buyQuantity5":"52,000","settlementPrice":"27.00","closePrice":"0.00","lastPrice":"27.20"}],"companyName":"Reliance Power Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=RPOWER&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

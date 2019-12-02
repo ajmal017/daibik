@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=MANAPPURAM","data":[{"annualisedVolatility":"47.94","bestBuy":"22.92","totalSellQuantity":"10,32,000","vwap":"79.04","clientWisePositionLimits":"5506866","optionType":"-","highPrice":"79.85","dailyVolatility":"2.51","bestSell":"68.72","marketLot":"6000","sellQuantity5":"24,000","marketWidePositionLimits":"110137333","sellQuantity4":"12,000","sellQuantity3":"18,000","sellQuantity2":"6,000","underlying":"MANAPPURAM","sellQuantity1":"12,000","pChange":"1.46","premiumTurnover":"-","totalBuyQuantity":"9,00,000","turnoverinRsLakhs":"6,146.15","changeinOpenInterest":"-4,68,000","strikePrice":"-","openInterest":"1,16,46,000","buyPrice2":"79.60","buyPrice1":"79.65","openPrice":"79.65","prevClose":"78.65","expiryDate":"27SEP2018","lowPrice":"78.05","buyPrice4":"79.50","buyPrice3":"79.55","buyPrice5":"79.40","numberOfContractsTraded":"1,296","instrumentType":"FUTSTK","sellPrice1":"79.75","sellPrice2":"79.80","sellPrice3":"79.85","sellPrice4":"79.90","sellPrice5":"79.95","change":"1.15","pchangeinOpenInterest":"-3.86","ltp":"91.59","impliedVolatility":"-","underlyingValue":"79.60","buyQuantity4":"30,000","buyQuantity3":"18,000","buyQuantity2":"24,000","buyQuantity1":"6,000","buyQuantity5":"42,000","settlementPrice":"78.65","closePrice":"0.00","lastPrice":"79.80"}],"companyName":"Manappuram Finance Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=MANAPPURAM&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

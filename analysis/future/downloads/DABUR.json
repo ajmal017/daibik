@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=DABUR","data":[{"annualisedVolatility":"46.45","bestBuy":"16.71","totalSellQuantity":"5,62,500","vwap":"437.55","clientWisePositionLimits":"5672637","optionType":"-","highPrice":"443.15","dailyVolatility":"2.43","bestSell":"66.78","marketLot":"2500","sellQuantity5":"7,500","marketWidePositionLimits":"113452748","sellQuantity4":"2,500","sellQuantity3":"2,500","sellQuantity2":"2,500","underlying":"DABUR","sellQuantity1":"12,500","pChange":"-0.42","premiumTurnover":"-","totalBuyQuantity":"4,45,000","turnoverinRsLakhs":"38,657.54","changeinOpenInterest":"1,17,500","strikePrice":"-","openInterest":"1,10,92,500","buyPrice2":"437.00","buyPrice1":"437.05","openPrice":"441.35","prevClose":"438.95","expiryDate":"27SEP2018","lowPrice":"433.70","buyPrice4":"436.75","buyPrice3":"436.80","buyPrice5":"436.55","numberOfContractsTraded":"3,534","instrumentType":"FUTSTK","sellPrice1":"437.65","sellPrice2":"437.70","sellPrice3":"437.80","sellPrice4":"437.90","sellPrice5":"437.95","change":"-1.85","pchangeinOpenInterest":"1.07","ltp":"20.88","impliedVolatility":"-","underlyingValue":"436.85","buyQuantity4":"2,500","buyQuantity3":"5,000","buyQuantity2":"2,500","buyQuantity1":"2,500","buyQuantity5":"2,500","settlementPrice":"438.95","closePrice":"0.00","lastPrice":"437.10"}],"companyName":"Dabur India Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=DABUR&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

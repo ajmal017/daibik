@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=IDFC","data":[{"annualisedVolatility":"52.63","bestBuy":"-43.12","totalSellQuantity":"2,758,800","vwap":"42.36","clientWisePositionLimits":"15963583","optionType":"-","highPrice":"42.85","dailyVolatility":"2.75","bestSell":"-","marketLot":"13200","sellQuantity5":"92,400","marketWidePositionLimits":"319271663","sellQuantity4":"52,800","sellQuantity3":"92,400","sellQuantity2":"52,800","underlying":"IDFC","sellQuantity1":"13,200","pChange":"0.95","premiumTurnover":"-","totalBuyQuantity":"23,10,000","turnoverinRsLakhs":"22,880.50","changeinOpenInterest":"29,30,400","strikePrice":"-","openInterest":"7,03,95,600","buyPrice2":"42.25","buyPrice1":"42.30","openPrice":"41.50","prevClose":"41.95","expiryDate":"27SEP2018","lowPrice":"41.50","buyPrice4":"42.15","buyPrice3":"42.20","buyPrice5":"42.10","numberOfContractsTraded":"4,092","instrumentType":"FUTSTK","sellPrice1":"42.35","sellPrice2":"42.40","sellPrice3":"42.45","sellPrice4":"42.50","sellPrice5":"42.55","change":"0.40","pchangeinOpenInterest":"4.34","ltp":"-","impliedVolatility":"-","underlyingValue":"42.35","buyQuantity4":"79,200","buyQuantity3":"79,200","buyQuantity2":"92,400","buyQuantity1":"66,000","buyQuantity5":"79,200","settlementPrice":"41.95","closePrice":"0.00","lastPrice":"42.35"}],"companyName":"IDFC Limited","lastUpdateTime":"26-SEP-2018 15:19:29","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=IDFC&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

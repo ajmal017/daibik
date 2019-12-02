@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=MCDOWELL-N","data":[{"annualisedVolatility":"40.52","bestBuy":"10.25","totalSellQuantity":"3,71,250","vwap":"537.65","clientWisePositionLimits":"3142281","optionType":"-","highPrice":"545.20","dailyVolatility":"2.12","bestSell":"40.97","marketLot":"1250","sellQuantity5":"1,250","marketWidePositionLimits":"62845623","sellQuantity4":"2,500","sellQuantity3":"1,250","sellQuantity2":"1,250","underlying":"MCDOWELL-N","sellQuantity1":"1,250","pChange":"0.61","premiumTurnover":"-","totalBuyQuantity":"2,27,500","turnoverinRsLakhs":"27,547.84","changeinOpenInterest":"7,53,750","strikePrice":"-","openInterest":"65,12,500","buyPrice2":"534.35","buyPrice1":"534.40","openPrice":"537.85","prevClose":"531.40","expiryDate":"27SEP2018","lowPrice":"528.95","buyPrice4":"534.20","buyPrice3":"534.25","buyPrice5":"534.00","numberOfContractsTraded":"4,099","instrumentType":"FUTSTK","sellPrice1":"534.85","sellPrice2":"534.90","sellPrice3":"535.00","sellPrice4":"535.05","sellPrice5":"535.25","change":"3.25","pchangeinOpenInterest":"13.09","ltp":"27.32","impliedVolatility":"-","underlyingValue":"534.25","buyQuantity4":"1,250","buyQuantity3":"1,250","buyQuantity2":"1,250","buyQuantity1":"1,250","buyQuantity5":"1,250","settlementPrice":"531.40","closePrice":"0.00","lastPrice":"534.65"}],"companyName":"United Spirits Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=MCDOWELL-N&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=UBL","data":[{"annualisedVolatility":"46.46","bestBuy":"-99.18","totalSellQuantity":"1,30,200","vwap":"1,401.26","clientWisePositionLimits":"1117883","optionType":"-","highPrice":"1,445.00","dailyVolatility":"2.43","bestSell":"-72.11","marketLot":"700","sellQuantity5":"700","marketWidePositionLimits":"22357672","sellQuantity4":"700","sellQuantity3":"700","sellQuantity2":"700","underlying":"UBL","sellQuantity1":"700","pChange":"2.25","premiumTurnover":"-","totalBuyQuantity":"1,47,000","turnoverinRsLakhs":"22,069.85","changeinOpenInterest":"1,74,300","strikePrice":"-","openInterest":"9,96,800","buyPrice2":"1,414.85","buyPrice1":"1,414.90","openPrice":"1,399.50","prevClose":"1,384.00","expiryDate":"27SEP2018","lowPrice":"1,372.00","buyPrice4":"1,414.60","buyPrice3":"1,414.65","buyPrice5":"1,414.25","numberOfContractsTraded":"2,250","instrumentType":"FUTSTK","sellPrice1":"1,415.95","sellPrice2":"1,416.00","sellPrice3":"1,416.85","sellPrice4":"1,416.90","sellPrice5":"1,417.00","change":"31.10","pchangeinOpenInterest":"21.19","ltp":"-94.02","impliedVolatility":"-","underlyingValue":"1,418.75","buyQuantity4":"700","buyQuantity3":"700","buyQuantity2":"700","buyQuantity1":"700","buyQuantity5":"700","settlementPrice":"1384.00","closePrice":"0.00","lastPrice":"1,415.10"}],"companyName":"United Breweries Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=UBL&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

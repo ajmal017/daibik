@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=SYNDIBANK","data":[{"annualisedVolatility":"60.36","bestBuy":"-164.54","totalSellQuantity":"18,27,000","vwap":"33.20","clientWisePositionLimits":"3817326","optionType":"-","highPrice":"33.70","dailyVolatility":"3.16","bestSell":"-54.76","marketLot":"9000","sellQuantity5":"1,17,000","marketWidePositionLimits":"76346533","sellQuantity4":"45,000","sellQuantity3":"36,000","sellQuantity2":"36,000","underlying":"SYNDIBANK","sellQuantity1":"36,000","pChange":"-0.89","premiumTurnover":"-","totalBuyQuantity":"12,51,000","turnoverinRsLakhs":"5,267.84","changeinOpenInterest":"-44,64,000","strikePrice":"-","openInterest":"1,23,12,000","buyPrice2":"33.15","buyPrice1":"33.20","openPrice":"33.65","prevClose":"33.55","expiryDate":"27SEP2018","lowPrice":"32.70","buyPrice4":"33.05","buyPrice3":"33.10","buyPrice5":"33.00","numberOfContractsTraded":"1,763","instrumentType":"FUTSTK","sellPrice1":"33.30","sellPrice2":"33.35","sellPrice3":"33.40","sellPrice4":"33.45","sellPrice5":"33.50","change":"-0.30","pchangeinOpenInterest":"-26.61","ltp":"-109.61","impliedVolatility":"-","underlyingValue":"33.35","buyQuantity4":"36,000","buyQuantity3":"36,000","buyQuantity2":"45,000","buyQuantity1":"63,000","buyQuantity5":"36,000","settlementPrice":"33.55","closePrice":"0.00","lastPrice":"33.25"}],"companyName":"Syndicate Bank","lastUpdateTime":"26-SEP-2018 15:19:29","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=SYNDIBANK&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=RBLBANK","data":[{"annualisedVolatility":"46.38","bestBuy":"-3.40","totalSellQuantity":"2,22,000","vwap":"531.56","clientWisePositionLimits":"3883080","optionType":"-","highPrice":"539.75","dailyVolatility":"2.43","bestSell":"30.61","marketLot":"1200","sellQuantity5":"1,200","marketWidePositionLimits":"77661614","sellQuantity4":"1,200","sellQuantity3":"3,600","sellQuantity2":"2,400","underlying":"RBLBANK","sellQuantity1":"1,200","pChange":"2.69","premiumTurnover":"-","totalBuyQuantity":"2,61,600","turnoverinRsLakhs":"20,845.66","changeinOpenInterest":"1,34,400","strikePrice":"-","openInterest":"32,37,600","buyPrice2":"536.25","buyPrice1":"536.30","openPrice":"526.35","prevClose":"522.95","expiryDate":"27SEP2018","lowPrice":"520.15","buyPrice4":"536.05","buyPrice3":"536.10","buyPrice5":"536.00","numberOfContractsTraded":"3,268","instrumentType":"FUTSTK","sellPrice1":"536.80","sellPrice2":"536.85","sellPrice3":"537.00","sellPrice4":"537.15","sellPrice5":"537.25","change":"14.05","pchangeinOpenInterest":"4.33","ltp":"44.21","impliedVolatility":"-","underlyingValue":"536.35","buyQuantity4":"2,400","buyQuantity3":"3,600","buyQuantity2":"2,400","buyQuantity1":"2,400","buyQuantity5":"2,400","settlementPrice":"522.95","closePrice":"0.00","lastPrice":"537.00"}],"companyName":"RBL Bank Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=RBLBANK&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

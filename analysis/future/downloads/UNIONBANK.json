@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=UNIONBANK","data":[{"annualisedVolatility":"69.02","bestBuy":"25.80","totalSellQuantity":"45,12,000","vwap":"70.60","clientWisePositionLimits":"3806588","optionType":"-","highPrice":"72.90","dailyVolatility":"3.61","bestSell":"77.36","marketLot":"6000","sellQuantity5":"30,000","marketWidePositionLimits":"76131760","sellQuantity4":"54,000","sellQuantity3":"30,000","sellQuantity2":"54,000","underlying":"UNIONBANK","sellQuantity1":"12,000","pChange":"0.64","premiumTurnover":"-","totalBuyQuantity":"11,22,000","turnoverinRsLakhs":"16,342.49","changeinOpenInterest":"-35,46,000","strikePrice":"-","openInterest":"1,78,62,000","buyPrice2":"70.70","buyPrice1":"70.75","openPrice":"72.55","prevClose":"70.35","expiryDate":"27SEP2018","lowPrice":"69.30","buyPrice4":"70.60","buyPrice3":"70.65","buyPrice5":"70.55","numberOfContractsTraded":"3,858","instrumentType":"FUTSTK","sellPrice1":"70.85","sellPrice2":"70.90","sellPrice3":"70.95","sellPrice4":"71.00","sellPrice5":"71.05","change":"0.45","pchangeinOpenInterest":"-16.56","ltp":"51.59","impliedVolatility":"-","underlyingValue":"70.70","buyQuantity4":"36,000","buyQuantity3":"30,000","buyQuantity2":"18,000","buyQuantity1":"6,000","buyQuantity5":"12,000","settlementPrice":"70.35","closePrice":"0.00","lastPrice":"70.80"}],"companyName":"Union Bank of India","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=UNIONBANK&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=WOCKPHARMA","data":[{"annualisedVolatility":"67.88","bestBuy":"-9.35","totalSellQuantity":"1,38,600","vwap":"573.59","clientWisePositionLimits":"286532","optionType":"-","highPrice":"588.80","dailyVolatility":"3.55","bestSell":"40.49","marketLot":"900","sellQuantity5":"1,800","marketWidePositionLimits":"5730654","sellQuantity4":"900","sellQuantity3":"900","sellQuantity2":"900","underlying":"WOCKPHARMA","sellQuantity1":"900","pChange":"3.55","premiumTurnover":"-","totalBuyQuantity":"1,98,900","turnoverinRsLakhs":"15,621.15","changeinOpenInterest":"-5,400","strikePrice":"-","openInterest":"22,97,700","buyPrice2":"585.35","buyPrice1":"585.40","openPrice":"569.95","prevClose":"565.55","expiryDate":"27SEP2018","lowPrice":"561.95","buyPrice4":"585.25","buyPrice3":"585.30","buyPrice5":"584.90","numberOfContractsTraded":"3,026","instrumentType":"FUTSTK","sellPrice1":"586.20","sellPrice2":"586.25","sellPrice3":"586.50","sellPrice4":"586.65","sellPrice5":"586.70","change":"20.10","pchangeinOpenInterest":"-0.23","ltp":"6.23","impliedVolatility":"-","underlyingValue":"585.55","buyQuantity4":"900","buyQuantity3":"900","buyQuantity2":"1,800","buyQuantity1":"1,800","buyQuantity5":"900","settlementPrice":"565.55","closePrice":"0.00","lastPrice":"585.65"}],"companyName":"Wockhardt Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=WOCKPHARMA&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

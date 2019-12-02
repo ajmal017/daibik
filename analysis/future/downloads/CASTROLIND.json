@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=CASTROLIND","data":[{"annualisedVolatility":"28.76","bestBuy":"97.46","totalSellQuantity":"5,74,000","vwap":"150.28","clientWisePositionLimits":"4846699","optionType":"-","highPrice":"152.20","dailyVolatility":"1.51","bestSell":"133.95","marketLot":"2800","sellQuantity5":"2,800","marketWidePositionLimits":"96933993","sellQuantity4":"2,800","sellQuantity3":"11,200","sellQuantity2":"14,000","underlying":"CASTROLIND","sellQuantity1":"2,800","pChange":"-0.69","premiumTurnover":"-","totalBuyQuantity":"4,03,200","turnoverinRsLakhs":"5,146.19","changeinOpenInterest":"-6,63,600","strikePrice":"-","openInterest":"58,43,600","buyPrice2":"149.85","buyPrice1":"150.00","openPrice":"150.80","prevClose":"151.25","expiryDate":"27SEP2018","lowPrice":"149.40","buyPrice4":"149.75","buyPrice3":"149.80","buyPrice5":"149.70","numberOfContractsTraded":"1,223","instrumentType":"FUTSTK","sellPrice1":"150.15","sellPrice2":"150.20","sellPrice3":"150.25","sellPrice4":"150.30","sellPrice5":"150.35","change":"-1.05","pchangeinOpenInterest":"-10.20","ltp":"146.10","impliedVolatility":"-","underlyingValue":"149.60","buyQuantity4":"5,600","buyQuantity3":"2,800","buyQuantity2":"2,800","buyQuantity1":"2,800","buyQuantity5":"5,600","settlementPrice":"151.25","closePrice":"0.00","lastPrice":"150.20"}],"companyName":"Castrol India Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=CASTROLIND&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

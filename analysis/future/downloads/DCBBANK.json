@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=DCBBANK","data":[{"annualisedVolatility":"40.17","bestBuy":"-118.43","totalSellQuantity":"4,81,500","vwap":"153.01","clientWisePositionLimits":"2625206","optionType":"-","highPrice":"154.80","dailyVolatility":"2.10","bestSell":"-47.33","marketLot":"4500","sellQuantity5":"9,000","marketWidePositionLimits":"52504138","sellQuantity4":"9,000","sellQuantity3":"9,000","sellQuantity2":"4,500","underlying":"DCBBANK","sellQuantity1":"9,000","pChange":"2.19","premiumTurnover":"-","totalBuyQuantity":"6,07,500","turnoverinRsLakhs":"6,844.14","changeinOpenInterest":"-18,000","strikePrice":"-","openInterest":"30,42,000","buyPrice2":"153.80","buyPrice1":"153.85","openPrice":"151.55","prevClose":"150.70","expiryDate":"27SEP2018","lowPrice":"150.80","buyPrice4":"153.60","buyPrice3":"153.75","buyPrice5":"153.40","numberOfContractsTraded":"994","instrumentType":"FUTSTK","sellPrice1":"154.15","sellPrice2":"154.20","sellPrice3":"154.35","sellPrice4":"154.40","sellPrice5":"154.60","change":"3.30","pchangeinOpenInterest":"-0.59","ltp":"-82.86","impliedVolatility":"-","underlyingValue":"154.35","buyQuantity4":"4,500","buyQuantity3":"4,500","buyQuantity2":"9,000","buyQuantity1":"4,500","buyQuantity5":"9,000","settlementPrice":"150.70","closePrice":"0.00","lastPrice":"154.00"}],"companyName":"DCB Bank Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=DCBBANK&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=PTC","data":[{"annualisedVolatility":"52.13","bestBuy":"-130.59","totalSellQuantity":"9,92,000","vwap":"69.04","clientWisePositionLimits":"2480083","optionType":"-","highPrice":"70.35","dailyVolatility":"2.73","bestSell":"-26.08","marketLot":"8000","sellQuantity5":"8,000","marketWidePositionLimits":"49601664","sellQuantity4":"8,000","sellQuantity3":"16,000","sellQuantity2":"16,000","underlying":"PTC","sellQuantity1":"8,000","pChange":"1.89","premiumTurnover":"-","totalBuyQuantity":"1,144,000","turnoverinRsLakhs":"4,788.61","changeinOpenInterest":"-15,84,000","strikePrice":"-","openInterest":"64,88,000","buyPrice2":"69.70","buyPrice1":"69.75","openPrice":"70.15","prevClose":"68.70","expiryDate":"27SEP2018","lowPrice":"67.90","buyPrice4":"69.60","buyPrice3":"69.65","buyPrice5":"69.55","numberOfContractsTraded":"867","instrumentType":"FUTSTK","sellPrice1":"69.95","sellPrice2":"70.00","sellPrice3":"70.05","sellPrice4":"70.10","sellPrice5":"70.15","change":"1.30","pchangeinOpenInterest":"-19.62","ltp":"-","impliedVolatility":"-","underlyingValue":"70.00","buyQuantity4":"32,000","buyQuantity3":"8,000","buyQuantity2":"24,000","buyQuantity1":"8,000","buyQuantity5":"8,000","settlementPrice":"68.70","closePrice":"0.00","lastPrice":"70.00"}],"companyName":"PTC India Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=PTC&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

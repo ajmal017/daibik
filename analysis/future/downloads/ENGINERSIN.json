@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=ENGINERSIN","data":[{"annualisedVolatility":"52.86","bestBuy":"29.87","totalSellQuantity":"5,63,500","vwap":"120.26","clientWisePositionLimits":"3032216","optionType":"-","highPrice":"122.70","dailyVolatility":"2.77","bestSell":"74.63","marketLot":"3500","sellQuantity5":"7,000","marketWidePositionLimits":"60644337","sellQuantity4":"7,000","sellQuantity3":"7,000","sellQuantity2":"3,500","underlying":"ENGINERSIN","sellQuantity1":"7,000","pChange":"1.83","premiumTurnover":"-","totalBuyQuantity":"6,44,000","turnoverinRsLakhs":"7,046.03","changeinOpenInterest":"-5,04,000","strikePrice":"-","openInterest":"93,97,500","buyPrice2":"122.20","buyPrice1":"122.25","openPrice":"121.35","prevClose":"120.05","expiryDate":"27SEP2018","lowPrice":"118.55","buyPrice4":"122.10","buyPrice3":"122.15","buyPrice5":"122.05","numberOfContractsTraded":"1,674","instrumentType":"FUTSTK","sellPrice1":"122.40","sellPrice2":"122.45","sellPrice3":"122.50","sellPrice4":"122.55","sellPrice5":"122.60","change":"2.20","pchangeinOpenInterest":"-5.09","ltp":"29.87","impliedVolatility":"-","underlyingValue":"122.15","buyQuantity4":"10,500","buyQuantity3":"7,000","buyQuantity2":"3,500","buyQuantity1":"3,500","buyQuantity5":"3,500","settlementPrice":"120.05","closePrice":"0.00","lastPrice":"122.25"}],"companyName":"Engineers India Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=ENGINERSIN&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

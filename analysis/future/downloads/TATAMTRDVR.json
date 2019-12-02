@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=TATAMTRDVR","data":[{"annualisedVolatility":"40.20","bestBuy":"44.47","totalSellQuantity":"8,31,600","vwap":"124.58","clientWisePositionLimits":"5080107","optionType":"-","highPrice":"128.75","dailyVolatility":"2.10","bestSell":"88.88","marketLot":"2800","sellQuantity5":"2,800","marketWidePositionLimits":"101602140","sellQuantity4":"14,000","sellQuantity3":"8,400","sellQuantity2":"11,200","underlying":"TATAMTRDVR","sellQuantity1":"2,800","pChange":"-3.26","premiumTurnover":"-","totalBuyQuantity":"5,26,400","turnoverinRsLakhs":"19,258.57","changeinOpenInterest":"33,48,800","strikePrice":"-","openInterest":"2,27,02,400","buyPrice2":"123.15","buyPrice1":"123.20","openPrice":"127.90","prevClose":"127.45","expiryDate":"27SEP2018","lowPrice":"122.50","buyPrice4":"123.05","buyPrice3":"123.10","buyPrice5":"123.00","numberOfContractsTraded":"5,521","instrumentType":"FUTSTK","sellPrice1":"123.35","sellPrice2":"123.40","sellPrice3":"123.45","sellPrice4":"123.50","sellPrice5":"123.55","change":"-4.15","pchangeinOpenInterest":"17.30","ltp":"74.08","impliedVolatility":"-","underlyingValue":"123.05","buyQuantity4":"5,600","buyQuantity3":"16,800","buyQuantity2":"2,800","buyQuantity1":"8,400","buyQuantity5":"14,000","settlementPrice":"127.45","closePrice":"0.00","lastPrice":"123.30"}],"companyName":"Tata Motors Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=TATAMTRDVR&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

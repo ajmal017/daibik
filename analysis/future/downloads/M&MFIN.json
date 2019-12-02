@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=M%26MFIN","data":[{"annualisedVolatility":"59.69","bestBuy":"-38.91","totalSellQuantity":"3,16,250","vwap":"424.37","clientWisePositionLimits":"2983164","optionType":"-","highPrice":"430.00","dailyVolatility":"3.12","bestSell":"-","marketLot":"1250","sellQuantity5":"2,500","marketWidePositionLimits":"59663281","sellQuantity4":"1,250","sellQuantity3":"1,250","sellQuantity2":"2,500","underlying":"M&MFIN","sellQuantity1":"1,250","pChange":"1.80","premiumTurnover":"-","totalBuyQuantity":"2,63,750","turnoverinRsLakhs":"27,849.28","changeinOpenInterest":"23,37,500","strikePrice":"-","openInterest":"76,86,250","buyPrice2":"421.70","buyPrice1":"421.90","openPrice":"429.00","prevClose":"414.50","expiryDate":"27SEP2018","lowPrice":"414.20","buyPrice4":"421.55","buyPrice3":"421.65","buyPrice5":"421.50","numberOfContractsTraded":"5,250","instrumentType":"FUTSTK","sellPrice1":"422.35","sellPrice2":"422.40","sellPrice3":"422.45","sellPrice4":"422.60","sellPrice5":"422.65","change":"7.45","pchangeinOpenInterest":"43.70","ltp":"-34.58","impliedVolatility":"-","underlyingValue":"422.35","buyQuantity4":"1,250","buyQuantity3":"1,250","buyQuantity2":"1,250","buyQuantity1":"1,250","buyQuantity5":"1,250","settlementPrice":"414.50","closePrice":"0.00","lastPrice":"421.95"}],"companyName":"Mahindra & Mahindra Financial Services Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=M%26MFIN&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

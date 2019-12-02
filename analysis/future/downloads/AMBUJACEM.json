@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=AMBUJACEM","data":[{"annualisedVolatility":"41.88","bestBuy":"104.80","totalSellQuantity":"5,47,500","vwap":"226.20","clientWisePositionLimits":"7186382","optionType":"-","highPrice":"228.85","dailyVolatility":"2.19","bestSell":"136.99","marketLot":"2500","sellQuantity5":"2,500","marketWidePositionLimits":"143727657","sellQuantity4":"5,000","sellQuantity3":"7,500","sellQuantity2":"5,000","underlying":"AMBUJACEM","sellQuantity1":"5,000","pChange":"0.51","premiumTurnover":"-","totalBuyQuantity":"4,97,500","turnoverinRsLakhs":"22,817.93","changeinOpenInterest":"8,62,500","strikePrice":"-","openInterest":"93,87,500","buyPrice2":"226.65","buyPrice1":"226.70","openPrice":"225.65","prevClose":"225.65","expiryDate":"27SEP2018","lowPrice":"223.80","buyPrice4":"226.55","buyPrice3":"226.60","buyPrice5":"226.50","numberOfContractsTraded":"4,035","instrumentType":"FUTSTK","sellPrice1":"226.90","sellPrice2":"226.95","sellPrice3":"227.00","sellPrice4":"227.05","sellPrice5":"227.10","change":"1.15","pchangeinOpenInterest":"10.12","ltp":"120.90","impliedVolatility":"-","underlyingValue":"226.05","buyQuantity4":"7,500","buyQuantity3":"5,000","buyQuantity2":"5,000","buyQuantity1":"2,500","buyQuantity5":"12,500","settlementPrice":"225.65","closePrice":"0.00","lastPrice":"226.80"}],"companyName":"Ambuja Cements Limited","lastUpdateTime":"26-SEP-2018 15:19:29","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=AMBUJACEM&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

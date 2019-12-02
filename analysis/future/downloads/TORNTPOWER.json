@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=TORNTPOWER","data":[{"annualisedVolatility":"60.44","bestBuy":"-23.82","totalSellQuantity":"3,96,000","vwap":"226.36","clientWisePositionLimits":"2231734","optionType":"-","highPrice":"231.70","dailyVolatility":"3.16","bestSell":"31.73","marketLot":"3000","sellQuantity5":"3,000","marketWidePositionLimits":"44634693","sellQuantity4":"3,000","sellQuantity3":"3,000","sellQuantity2":"3,000","underlying":"TORNTPOWER","sellQuantity1":"3,000","pChange":"0.41","premiumTurnover":"-","totalBuyQuantity":"5,25,000","turnoverinRsLakhs":"2,947.21","changeinOpenInterest":"3,48,000","strikePrice":"-","openInterest":"15,30,000","buyPrice2":"229.75","buyPrice1":"229.80","openPrice":"229.25","prevClose":"228.95","expiryDate":"27SEP2018","lowPrice":"222.40","buyPrice4":"229.55","buyPrice3":"229.60","buyPrice5":"229.50","numberOfContractsTraded":"434","instrumentType":"FUTSTK","sellPrice1":"230.15","sellPrice2":"230.20","sellPrice3":"230.25","sellPrice4":"230.30","sellPrice5":"230.50","change":"0.95","pchangeinOpenInterest":"29.44","ltp":"-7.94","impliedVolatility":"-","underlyingValue":"229.95","buyQuantity4":"3,000","buyQuantity3":"3,000","buyQuantity2":"3,000","buyQuantity1":"3,000","buyQuantity5":"6,000","settlementPrice":"228.95","closePrice":"0.00","lastPrice":"229.90"}],"companyName":"Torrent Power Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=TORNTPOWER&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

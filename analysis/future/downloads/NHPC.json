@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=NHPC","data":[{"annualisedVolatility":"26.80","bestBuy":"-77.91","totalSellQuantity":"11,07,000","vwap":"23.46","clientWisePositionLimits":"27045912","optionType":"-","highPrice":"23.60","dailyVolatility":"1.40","bestSell":"-","marketLot":"27000","sellQuantity5":"81,000","marketWidePositionLimits":"540918243","sellQuantity4":"81,000","sellQuantity3":"1,35,000","sellQuantity2":"81,000","underlying":"NHPC","sellQuantity1":"81,000","pChange":"-0.64","premiumTurnover":"-","totalBuyQuantity":"7,02,000","turnoverinRsLakhs":"3,103.76","changeinOpenInterest":"22,14,000","strikePrice":"-","openInterest":"2,13,57,000","buyPrice2":"23.35","buyPrice1":"23.40","openPrice":"23.55","prevClose":"23.55","expiryDate":"27SEP2018","lowPrice":"23.35","buyPrice4":"23.25","buyPrice3":"23.30","buyPrice5":"23.20","numberOfContractsTraded":"490","instrumentType":"FUTSTK","sellPrice1":"23.45","sellPrice2":"23.50","sellPrice3":"23.55","sellPrice4":"23.60","sellPrice5":"23.65","change":"-0.15","pchangeinOpenInterest":"11.57","ltp":"-77.91","impliedVolatility":"-","underlyingValue":"23.45","buyQuantity4":"27,000","buyQuantity3":"27,000","buyQuantity2":"1,35,000","buyQuantity1":"54,000","buyQuantity5":"54,000","settlementPrice":"23.55","closePrice":"0.00","lastPrice":"23.40"}],"companyName":"NHPC Limited","lastUpdateTime":"26-SEP-2018 15:19:29","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=NHPC&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

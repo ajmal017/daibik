@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=DRREDDY","data":[{"annualisedVolatility":"35.64","bestBuy":"-7.72","totalSellQuantity":"1,41,250","vwap":"2,628.94","clientWisePositionLimits":"1215147","optionType":"-","highPrice":"2,665.00","dailyVolatility":"1.87","bestSell":"8.42","marketLot":"250","sellQuantity5":"250","marketWidePositionLimits":"24302940","sellQuantity4":"250","sellQuantity3":"250","sellQuantity2":"250","underlying":"DRREDDY","sellQuantity1":"500","pChange":"-0.43","premiumTurnover":"-","totalBuyQuantity":"73,500","turnoverinRsLakhs":"81,155.38","changeinOpenInterest":"57,000","strikePrice":"-","openInterest":"31,31,250","buyPrice2":"2,600.10","buyPrice1":"2,600.25","openPrice":"2,625.95","prevClose":"2,612.15","expiryDate":"27SEP2018","lowPrice":"2,596.85","buyPrice4":"2,600.00","buyPrice3":"2,600.05","buyPrice5":"2,599.55","numberOfContractsTraded":"12,348","instrumentType":"FUTSTK","sellPrice1":"2,601.40","sellPrice2":"2,601.45","sellPrice3":"2,601.50","sellPrice4":"2,601.85","sellPrice5":"2,601.90","change":"-11.15","pchangeinOpenInterest":"1.85","ltp":"2.81","impliedVolatility":"-","underlyingValue":"2,600.80","buyQuantity4":"250","buyQuantity3":"250","buyQuantity2":"250","buyQuantity1":"500","buyQuantity5":"250","settlementPrice":"2612.15","closePrice":"0.00","lastPrice":"2,601.00"}],"companyName":"Dr. Reddy's Laboratories Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=DRREDDY&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

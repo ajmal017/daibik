@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=PFC","data":[{"annualisedVolatility":"59.88","bestBuy":"-","totalSellQuantity":"13,08,000","vwap":"81.55","clientWisePositionLimits":"9078718","optionType":"-","highPrice":"83.00","dailyVolatility":"3.13","bestSell":"22.02","marketLot":"6000","sellQuantity5":"24,000","marketWidePositionLimits":"181574367","sellQuantity4":"18,000","sellQuantity3":"60,000","sellQuantity2":"12,000","underlying":"PFC","sellQuantity1":"18,000","pChange":"2.54","premiumTurnover":"-","totalBuyQuantity":"13,86,000","turnoverinRsLakhs":"38,126.26","changeinOpenInterest":"3,84,000","strikePrice":"-","openInterest":"5,07,12,000","buyPrice2":"82.80","buyPrice1":"82.85","openPrice":"81.55","prevClose":"80.85","expiryDate":"27SEP2018","lowPrice":"80.50","buyPrice4":"82.70","buyPrice3":"82.75","buyPrice5":"82.65","numberOfContractsTraded":"7,792","instrumentType":"FUTSTK","sellPrice1":"82.90","sellPrice2":"82.95","sellPrice3":"83.00","sellPrice4":"83.05","sellPrice5":"83.10","change":"2.05","pchangeinOpenInterest":"0.76","ltp":"22.02","impliedVolatility":"-","underlyingValue":"82.85","buyQuantity4":"18,000","buyQuantity3":"12,000","buyQuantity2":"30,000","buyQuantity1":"30,000","buyQuantity5":"36,000","settlementPrice":"80.85","closePrice":"0.00","lastPrice":"82.90"}],"companyName":"Power Finance Corporation Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=PFC&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

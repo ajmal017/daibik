@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=PIDILITIND","data":[{"annualisedVolatility":"34.76","bestBuy":"15.25","totalSellQuantity":"2,49,000","vwap":"1,089.44","clientWisePositionLimits":"1535749","optionType":"-","highPrice":"1,115.10","dailyVolatility":"1.82","bestSell":"38.95","marketLot":"1000","sellQuantity5":"1,000","marketWidePositionLimits":"30714988","sellQuantity4":"1,000","sellQuantity3":"1,000","sellQuantity2":"1,000","underlying":"PIDILITIND","sellQuantity1":"1,000","pChange":"-2.18","premiumTurnover":"-","totalBuyQuantity":"1,82,000","turnoverinRsLakhs":"24,839.23","changeinOpenInterest":"2,53,000","strikePrice":"-","openInterest":"17,01,000","buyPrice2":"1,077.40","buyPrice1":"1,077.45","openPrice":"1,105.00","prevClose":"1,102.05","expiryDate":"27SEP2018","lowPrice":"1,070.10","buyPrice4":"1,076.50","buyPrice3":"1,076.85","buyPrice5":"1,076.45","numberOfContractsTraded":"2,280","instrumentType":"FUTSTK","sellPrice1":"1,078.15","sellPrice2":"1,078.20","sellPrice3":"1,078.70","sellPrice4":"1,078.85","sellPrice5":"1,078.90","change":"-24.05","pchangeinOpenInterest":"17.47","ltp":"33.87","impliedVolatility":"-","underlyingValue":"1,077.00","buyQuantity4":"1,000","buyQuantity3":"1,000","buyQuantity2":"1,000","buyQuantity1":"1,000","buyQuantity5":"1,000","settlementPrice":"1102.05","closePrice":"0.00","lastPrice":"1,078.00"}],"companyName":"Pidilite Industries Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=PIDILITIND&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

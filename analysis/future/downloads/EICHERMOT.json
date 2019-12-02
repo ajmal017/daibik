@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=EICHERMOT","data":[{"annualisedVolatility":"46.80","bestBuy":"90.67","totalSellQuantity":"8,125","vwap":"25,592.30","clientWisePositionLimits":"135041","optionType":"-","highPrice":"26,285.05","dailyVolatility":"2.45","bestSell":"131.12","marketLot":"25","sellQuantity5":"25","marketWidePositionLimits":"2700823","sellQuantity4":"25","sellQuantity3":"25","sellQuantity2":"25","underlying":"EICHERMOT","sellQuantity1":"25","pChange":"-1.71","premiumTurnover":"-","totalBuyQuantity":"1,775","turnoverinRsLakhs":"34,088.94","changeinOpenInterest":"32,225","strikePrice":"-","openInterest":"2,27,450","buyPrice2":"25,251.35","buyPrice1":"25,251.40","openPrice":"26,000.00","prevClose":"25,710.90","expiryDate":"27SEP2018","lowPrice":"25,147.25","buyPrice4":"25,250.25","buyPrice3":"25,251.25","buyPrice5":"25,250.00","numberOfContractsTraded":"5,328","instrumentType":"FUTSTK","sellPrice1":"25,279.40","sellPrice2":"25,279.45","sellPrice3":"25,281.15","sellPrice4":"25,283.75","sellPrice5":"25,283.80","change":"-440.90","pchangeinOpenInterest":"16.51","ltp":"117.55","impliedVolatility":"-","underlyingValue":"25,188.75","buyQuantity4":"25","buyQuantity3":"25","buyQuantity2":"25","buyQuantity1":"25","buyQuantity5":"25","settlementPrice":"25710.90","closePrice":"0.00","lastPrice":"25,270.00"}],"companyName":"Eicher Motors Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=EICHERMOT&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

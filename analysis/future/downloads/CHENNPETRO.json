@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=CHENNPETRO","data":[{"annualisedVolatility":"53.40","bestBuy":"-26.83","totalSellQuantity":"2,38,500","vwap":"274.37","clientWisePositionLimits":"487133","optionType":"-","highPrice":"283.50","dailyVolatility":"2.80","bestSell":"46.91","marketLot":"1500","sellQuantity5":"1,500","marketWidePositionLimits":"9742660","sellQuantity4":"1,500","sellQuantity3":"1,500","sellQuantity2":"1,500","underlying":"CHENNPETRO","sellQuantity1":"1,500","pChange":"-3.01","premiumTurnover":"-","totalBuyQuantity":"1,80,000","turnoverinRsLakhs":"2,098.93","changeinOpenInterest":"-2,01,000","strikePrice":"-","openInterest":"4,26,000","buyPrice2":"271.90","buyPrice1":"271.95","openPrice":"283.50","prevClose":"280.60","expiryDate":"27SEP2018","lowPrice":"268.10","buyPrice4":"271.60","buyPrice3":"271.70","buyPrice5":"271.25","numberOfContractsTraded":"510","instrumentType":"FUTSTK","sellPrice1":"272.50","sellPrice2":"272.55","sellPrice3":"272.60","sellPrice4":"272.75","sellPrice5":"272.80","change":"-8.45","pchangeinOpenInterest":"-32.06","ltp":"-","impliedVolatility":"-","underlyingValue":"272.15","buyQuantity4":"1,500","buyQuantity3":"1,500","buyQuantity2":"1,500","buyQuantity1":"1,500","buyQuantity5":"1,500","settlementPrice":"280.60","closePrice":"0.00","lastPrice":"272.15"}],"companyName":"Chennai Petroleum Corporation Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=CHENNPETRO&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

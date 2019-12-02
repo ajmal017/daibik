@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=HAVELLS","data":[{"annualisedVolatility":"41.44","bestBuy":"-87.30","totalSellQuantity":"2,20,000","vwap":"633.51","clientWisePositionLimits":"2523554","optionType":"-","highPrice":"648.90","dailyVolatility":"2.17","bestSell":"-59.11","marketLot":"1000","sellQuantity5":"1,000","marketWidePositionLimits":"50471092","sellQuantity4":"2,000","sellQuantity3":"1,000","sellQuantity2":"1,000","underlying":"HAVELLS","sellQuantity1":"1,000","pChange":"3.02","premiumTurnover":"-","totalBuyQuantity":"2,91,000","turnoverinRsLakhs":"20,405.36","changeinOpenInterest":"6,93,000","strikePrice":"-","openInterest":"33,12,000","buyPrice2":"647.25","buyPrice1":"647.30","openPrice":"628.90","prevClose":"628.90","expiryDate":"27SEP2018","lowPrice":"621.85","buyPrice4":"647.05","buyPrice3":"647.20","buyPrice5":"646.85","numberOfContractsTraded":"3,221","instrumentType":"FUTSTK","sellPrice1":"647.80","sellPrice2":"647.85","sellPrice3":"647.95","sellPrice4":"648.00","sellPrice5":"648.35","change":"19.00","pchangeinOpenInterest":"26.46","ltp":"-53.48","impliedVolatility":"-","underlyingValue":"648.85","buyQuantity4":"2,000","buyQuantity3":"1,000","buyQuantity2":"2,000","buyQuantity1":"1,000","buyQuantity5":"1,000","settlementPrice":"628.90","closePrice":"0.00","lastPrice":"647.90"}],"companyName":"Havells India Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=HAVELLS&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

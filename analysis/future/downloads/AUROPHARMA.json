@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=AUROPHARMA","data":[{"annualisedVolatility":"54.45","bestBuy":"31.26","totalSellQuantity":"6,41,000","vwap":"769.51","clientWisePositionLimits":"2819816","optionType":"-","highPrice":"784.95","dailyVolatility":"2.85","bestSell":"48.08","marketLot":"1000","sellQuantity5":"1,000","marketWidePositionLimits":"56396335","sellQuantity4":"1,000","sellQuantity3":"1,000","sellQuantity2":"1,000","underlying":"AUROPHARMA","sellQuantity1":"1,000","pChange":"-0.33","premiumTurnover":"-","totalBuyQuantity":"2,38,000","turnoverinRsLakhs":"1,06,530.96","changeinOpenInterest":"14,80,000","strikePrice":"-","openInterest":"1,21,52,000","buyPrice2":"759.25","buyPrice1":"759.30","openPrice":"765.95","prevClose":"762.15","expiryDate":"27SEP2018","lowPrice":"756.35","buyPrice4":"759.10","buyPrice3":"759.20","buyPrice5":"759.05","numberOfContractsTraded":"13,844","instrumentType":"FUTSTK","sellPrice1":"759.65","sellPrice2":"759.70","sellPrice3":"759.75","sellPrice4":"759.80","sellPrice5":"759.85","change":"-2.55","pchangeinOpenInterest":"13.87","ltp":"45.68","impliedVolatility":"-","underlyingValue":"758.65","buyQuantity4":"2,000","buyQuantity3":"1,000","buyQuantity2":"2,000","buyQuantity1":"1,000","buyQuantity5":"1,000","settlementPrice":"762.15","closePrice":"0.00","lastPrice":"759.60"}],"companyName":"Aurobindo Pharma Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=AUROPHARMA&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

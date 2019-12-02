@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=CANBK","data":[{"annualisedVolatility":"54.36","bestBuy":"15.51","totalSellQuantity":"35,32,000","vwap":"235.26","clientWisePositionLimits":"2013000","optionType":"-","highPrice":"238.90","dailyVolatility":"2.85","bestSell":"38.75","marketLot":"2000","sellQuantity5":"4,000","marketWidePositionLimits":"40260000","sellQuantity4":"4,000","sellQuantity3":"4,000","sellQuantity2":"2,000","underlying":"CANBK","sellQuantity1":"6,000","pChange":"0.49","premiumTurnover":"-","totalBuyQuantity":"5,40,000","turnoverinRsLakhs":"35,303.12","changeinOpenInterest":"-5,88,000","strikePrice":"-","openInterest":"62,60,000","buyPrice2":"235.40","buyPrice1":"235.45","openPrice":"236.00","prevClose":"234.30","expiryDate":"27SEP2018","lowPrice":"231.40","buyPrice4":"235.25","buyPrice3":"235.30","buyPrice5":"235.20","numberOfContractsTraded":"7,503","instrumentType":"FUTSTK","sellPrice1":"235.60","sellPrice2":"235.65","sellPrice3":"235.70","sellPrice4":"235.75","sellPrice5":"235.80","change":"1.15","pchangeinOpenInterest":"-8.59","ltp":"15.51","impliedVolatility":"-","underlyingValue":"235.35","buyQuantity4":"4,000","buyQuantity3":"2,000","buyQuantity2":"2,000","buyQuantity1":"2,000","buyQuantity5":"6,000","settlementPrice":"234.30","closePrice":"0.00","lastPrice":"235.45"}],"companyName":"Canara Bank","lastUpdateTime":"26-SEP-2018 15:19:29","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=CANBK&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

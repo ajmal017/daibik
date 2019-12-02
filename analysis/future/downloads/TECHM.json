@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=TECHM","data":[{"annualisedVolatility":"38.88","bestBuy":"17.07","totalSellQuantity":"3,61,200","vwap":"755.08","clientWisePositionLimits":"6272553","optionType":"-","highPrice":"768.60","dailyVolatility":"2.04","bestSell":"34.14","marketLot":"1200","sellQuantity5":"1,200","marketWidePositionLimits":"125451073","sellQuantity4":"1,200","sellQuantity3":"1,200","sellQuantity2":"1,200","underlying":"TECHM","sellQuantity1":"2,400","pChange":"-1.62","premiumTurnover":"-","totalBuyQuantity":"2,40,000","turnoverinRsLakhs":"79,419.31","changeinOpenInterest":"22,51,200","strikePrice":"-","openInterest":"1,19,62,800","buyPrice2":"748.20","buyPrice1":"748.35","openPrice":"762.00","prevClose":"760.95","expiryDate":"27SEP2018","lowPrice":"740.35","buyPrice4":"748.00","buyPrice3":"748.05","buyPrice5":"747.90","numberOfContractsTraded":"8,765","instrumentType":"FUTSTK","sellPrice1":"748.70","sellPrice2":"748.75","sellPrice3":"748.80","sellPrice4":"748.90","sellPrice5":"748.95","change":"-12.30","pchangeinOpenInterest":"23.18","ltp":"31.70","impliedVolatility":"-","underlyingValue":"748.00","buyQuantity4":"3,600","buyQuantity3":"1,200","buyQuantity2":"1,200","buyQuantity1":"1,200","buyQuantity5":"1,200","settlementPrice":"760.95","closePrice":"0.00","lastPrice":"748.65"}],"companyName":"Tech Mahindra Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=TECHM&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

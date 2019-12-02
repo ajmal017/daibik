@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=INDUSINDBK","data":[{"annualisedVolatility":"35.67","bestBuy":"66.46","totalSellQuantity":"6,53,100","vwap":"1,700.70","clientWisePositionLimits":"4459287","optionType":"-","highPrice":"1,719.35","dailyVolatility":"1.87","bestSell":"79.31","marketLot":"300","sellQuantity5":"300","marketWidePositionLimits":"89185740","sellQuantity4":"300","sellQuantity3":"300","sellQuantity2":"300","underlying":"INDUSINDBK","sellQuantity1":"600","pChange":"0.23","premiumTurnover":"-","totalBuyQuantity":"69,600","turnoverinRsLakhs":"58,128.23","changeinOpenInterest":"2,73,900","strikePrice":"-","openInterest":"44,11,500","buyPrice2":"1,704.05","buyPrice1":"1,704.10","openPrice":"1,719.35","prevClose":"1,700.80","expiryDate":"27SEP2018","lowPrice":"1,684.75","buyPrice4":"1,703.80","buyPrice3":"1,704.00","buyPrice5":"1,703.75","numberOfContractsTraded":"11,393","instrumentType":"FUTSTK","sellPrice1":"1,704.70","sellPrice2":"1,704.75","sellPrice3":"1,704.80","sellPrice4":"1,704.90","sellPrice5":"1,705.00","change":"3.90","pchangeinOpenInterest":"6.62","ltp":"79.31","impliedVolatility":"-","underlyingValue":"1,701.00","buyQuantity4":"300","buyQuantity3":"300","buyQuantity2":"600","buyQuantity1":"300","buyQuantity5":"300","settlementPrice":"1700.80","closePrice":"0.00","lastPrice":"1,704.70"}],"companyName":"IndusInd Bank Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=INDUSINDBK&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

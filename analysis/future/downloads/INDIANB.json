@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=INDIANB","data":[{"annualisedVolatility":"73.42","bestBuy":"-","totalSellQuantity":"11,86,000","vwap":"239.35","clientWisePositionLimits":"878273","optionType":"-","highPrice":"243.70","dailyVolatility":"3.84","bestSell":"38.15","marketLot":"2000","sellQuantity5":"2,000","marketWidePositionLimits":"17565473","sellQuantity4":"2,000","sellQuantity3":"2,000","sellQuantity2":"2,000","underlying":"INDIANB","sellQuantity1":"2,000","pChange":"0.78","premiumTurnover":"-","totalBuyQuantity":"3,66,000","turnoverinRsLakhs":"12,388.76","changeinOpenInterest":"-2,20,000","strikePrice":"-","openInterest":"30,76,000","buyPrice2":"239.00","buyPrice1":"239.05","openPrice":"237.00","prevClose":"237.45","expiryDate":"27SEP2018","lowPrice":"235.05","buyPrice4":"238.85","buyPrice3":"238.90","buyPrice5":"238.80","numberOfContractsTraded":"2,588","instrumentType":"FUTSTK","sellPrice1":"239.30","sellPrice2":"239.35","sellPrice3":"239.40","sellPrice4":"239.55","sellPrice5":"239.60","change":"1.85","pchangeinOpenInterest":"-6.67","ltp":"38.15","impliedVolatility":"-","underlyingValue":"239.05","buyQuantity4":"2,000","buyQuantity3":"2,000","buyQuantity2":"4,000","buyQuantity1":"2,000","buyQuantity5":"2,000","settlementPrice":"237.45","closePrice":"0.00","lastPrice":"239.30"}],"companyName":"Indian Bank","lastUpdateTime":"26-SEP-2018 15:19:29","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=INDIANB&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

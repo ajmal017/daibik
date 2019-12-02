@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=GODREJCP","data":[{"annualisedVolatility":"44.69","bestBuy":"96.76","totalSellQuantity":"1,21,200","vwap":"783.28","clientWisePositionLimits":"3755059","optionType":"-","highPrice":"799.45","dailyVolatility":"2.34","bestSell":"165.04","marketLot":"1200","sellQuantity5":"1,200","marketWidePositionLimits":"75101205","sellQuantity4":"1,200","sellQuantity3":"1,200","sellQuantity2":"1,200","underlying":"GODREJCP","sellQuantity1":"1,200","pChange":"-1.96","premiumTurnover":"-","totalBuyQuantity":"86,400","turnoverinRsLakhs":"13,102.71","changeinOpenInterest":"9,51,600","strikePrice":"-","openInterest":"41,00,400","buyPrice2":"774.30","buyPrice1":"774.35","openPrice":"799.45","prevClose":"790.30","expiryDate":"27SEP2018","lowPrice":"767.90","buyPrice4":"773.60","buyPrice3":"774.25","buyPrice5":"773.30","numberOfContractsTraded":"1,394","instrumentType":"FUTSTK","sellPrice1":"775.80","sellPrice2":"775.85","sellPrice3":"775.90","sellPrice4":"776.75","sellPrice5":"776.80","change":"-15.50","pchangeinOpenInterest":"30.22","ltp":"117.96","impliedVolatility":"-","underlyingValue":"772.30","buyQuantity4":"1,200","buyQuantity3":"2,400","buyQuantity2":"1,200","buyQuantity1":"1,200","buyQuantity5":"1,200","settlementPrice":"790.30","closePrice":"0.00","lastPrice":"774.80"}],"companyName":"Godrej Consumer Products Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=GODREJCP&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

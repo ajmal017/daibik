@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=HINDZINC","data":[{"annualisedVolatility":"30.96","bestBuy":"5.95","totalSellQuantity":"5,69,600","vwap":"304.26","clientWisePositionLimits":"14821646","optionType":"-","highPrice":"309.90","dailyVolatility":"1.62","bestSell":"41.64","marketLot":"3200","sellQuantity5":"3,200","marketWidePositionLimits":"296432938","sellQuantity4":"3,200","sellQuantity3":"3,200","sellQuantity2":"3,200","underlying":"HINDZINC","sellQuantity1":"3,200","pChange":"0.81","premiumTurnover":"-","totalBuyQuantity":"6,40,000","turnoverinRsLakhs":"29,744.46","changeinOpenInterest":"-1,69,600","strikePrice":"-","openInterest":"48,35,200","buyPrice2":"306.60","buyPrice1":"306.65","openPrice":"306.90","prevClose":"304.25","expiryDate":"27SEP2018","lowPrice":"299.85","buyPrice4":"306.45","buyPrice3":"306.55","buyPrice5":"306.35","numberOfContractsTraded":"3,055","instrumentType":"FUTSTK","sellPrice1":"306.95","sellPrice2":"307.00","sellPrice3":"307.15","sellPrice4":"307.20","sellPrice5":"307.25","change":"2.45","pchangeinOpenInterest":"-3.39","ltp":"11.90","impliedVolatility":"-","underlyingValue":"306.60","buyQuantity4":"3,200","buyQuantity3":"3,200","buyQuantity2":"6,400","buyQuantity1":"3,200","buyQuantity5":"3,200","settlementPrice":"304.25","closePrice":"0.00","lastPrice":"306.70"}],"companyName":"Hindustan Zinc Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=HINDZINC&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

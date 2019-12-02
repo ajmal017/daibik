@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=VEDL","data":[{"annualisedVolatility":"39.76","bestBuy":"22.71","totalSellQuantity":"9,94,000","vwap":"236.64","clientWisePositionLimits":"18444005","optionType":"-","highPrice":"245.20","dailyVolatility":"2.08","bestSell":"37.84","marketLot":"1750","sellQuantity5":"15,750","marketWidePositionLimits":"368880116","sellQuantity4":"1,750","sellQuantity3":"8,750","sellQuantity2":"5,250","underlying":"VEDL","sellQuantity1":"1,750","pChange":"4.12","premiumTurnover":"-","totalBuyQuantity":"19,88,000","turnoverinRsLakhs":"1,29,967.42","changeinOpenInterest":"41,44,000","strikePrice":"-","openInterest":"3,66,13,500","buyPrice2":"241.05","buyPrice1":"241.15","openPrice":"232.45","prevClose":"231.55","expiryDate":"27SEP2018","lowPrice":"230.25","buyPrice4":"240.95","buyPrice3":"241.00","buyPrice5":"240.90","numberOfContractsTraded":"31,384","instrumentType":"FUTSTK","sellPrice1":"241.25","sellPrice2":"241.30","sellPrice3":"241.35","sellPrice4":"241.40","sellPrice5":"241.45","change":"9.55","pchangeinOpenInterest":"12.76","ltp":"15.14","impliedVolatility":"-","underlyingValue":"241.00","buyQuantity4":"5,250","buyQuantity3":"10,500","buyQuantity2":"8,750","buyQuantity1":"3,500","buyQuantity5":"7,000","settlementPrice":"231.55","closePrice":"0.00","lastPrice":"241.10"}],"companyName":"Vedanta Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=VEDL&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

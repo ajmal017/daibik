@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=TCS","data":[{"annualisedVolatility":"26.05","bestBuy":"53.60","totalSellQuantity":"9,95,500","vwap":"2,169.11","clientWisePositionLimits":"10752275","optionType":"-","highPrice":"2,197.90","dailyVolatility":"1.36","bestSell":"65.50","marketLot":"500","sellQuantity5":"500","marketWidePositionLimits":"215045509","sellQuantity4":"500","sellQuantity3":"500","sellQuantity2":"500","underlying":"TCS","sellQuantity1":"500","pChange":"-1.95","premiumTurnover":"-","totalBuyQuantity":"1,56,500","turnoverinRsLakhs":"1,02,175.93","changeinOpenInterest":"4,12,000","strikePrice":"-","openInterest":"65,36,000","buyPrice2":"2,146.35","buyPrice1":"2,146.65","openPrice":"2,185.95","prevClose":"2,190.00","expiryDate":"27SEP2018","lowPrice":"2,140.70","buyPrice4":"2,146.05","buyPrice3":"2,146.30","buyPrice5":"2,145.80","numberOfContractsTraded":"9,421","instrumentType":"FUTSTK","sellPrice1":"2,147.35","sellPrice2":"2,147.40","sellPrice3":"2,147.55","sellPrice4":"2,147.85","sellPrice5":"2,147.90","change":"-42.65","pchangeinOpenInterest":"6.73","ltp":"65.50","impliedVolatility":"-","underlyingValue":"2,143.50","buyQuantity4":"500","buyQuantity3":"500","buyQuantity2":"500","buyQuantity1":"500","buyQuantity5":"500","settlementPrice":"2190.00","closePrice":"0.00","lastPrice":"2,147.35"}],"companyName":"Tata Consultancy Services Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=TCS&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=BOSCHLTD","data":[{"annualisedVolatility":"44.61","bestBuy":"87.85","totalSellQuantity":"1,440","vwap":"19,659.51","clientWisePositionLimits":"90080","optionType":"-","highPrice":"20,271.30","dailyVolatility":"2.34","bestSell":"161.69","marketLot":"30","sellQuantity5":"30","marketWidePositionLimits":"1801607","sellQuantity4":"30","sellQuantity3":"30","sellQuantity2":"30","underlying":"BOSCHLTD","sellQuantity1":"30","pChange":"-1.61","premiumTurnover":"-","totalBuyQuantity":"1,470","turnoverinRsLakhs":"17,015.31","changeinOpenInterest":"49,140","strikePrice":"-","openInterest":"1,55,160","buyPrice2":"19,801.15","buyPrice1":"19,801.20","openPrice":"20,175.00","prevClose":"20,144.95","expiryDate":"27SEP2018","lowPrice":"19,416.95","buyPrice4":"19,800.00","buyPrice3":"19,800.15","buyPrice5":"19,779.10","numberOfContractsTraded":"2,885","instrumentType":"FUTSTK","sellPrice1":"19,841.30","sellPrice2":"19,841.35","sellPrice3":"19,841.75","sellPrice4":"19,841.95","sellPrice5":"19,842.90","change":"-323.70","pchangeinOpenInterest":"46.35","ltp":"124.79","impliedVolatility":"-","underlyingValue":"19,753.60","buyQuantity4":"60","buyQuantity3":"30","buyQuantity2":"60","buyQuantity1":"30","buyQuantity5":"30","settlementPrice":"20144.95","closePrice":"0.00","lastPrice":"19,821.25"}],"companyName":"Bosch Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=BOSCHLTD&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

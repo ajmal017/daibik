@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=SREINFRA","data":[{"annualisedVolatility":"79.73","bestBuy":"45.31","totalSellQuantity":"10,01,000","vwap":"40.69","clientWisePositionLimits":"1972177","optionType":"-","highPrice":"41.95","dailyVolatility":"4.17","bestSell":"90.57","marketLot":"7000","sellQuantity5":"7,000","marketWidePositionLimits":"39443554","sellQuantity4":"35,000","sellQuantity3":"28,000","sellQuantity2":"35,000","underlying":"SREINFRA","sellQuantity1":"21,000","pChange":"-0.12","premiumTurnover":"-","totalBuyQuantity":"7,28,000","turnoverinRsLakhs":"5,101.31","changeinOpenInterest":"-6,86,000","strikePrice":"-","openInterest":"93,52,000","buyPrice2":"40.25","buyPrice1":"40.30","openPrice":"40.25","prevClose":"40.30","expiryDate":"27SEP2018","lowPrice":"40.00","buyPrice4":"40.15","buyPrice3":"40.20","buyPrice5":"40.10","numberOfContractsTraded":"1,791","instrumentType":"FUTSTK","sellPrice1":"40.35","sellPrice2":"40.40","sellPrice3":"40.45","sellPrice4":"40.50","sellPrice5":"40.55","change":"-0.05","pchangeinOpenInterest":"-6.83","ltp":"-","impliedVolatility":"-","underlyingValue":"40.25","buyQuantity4":"7,000","buyQuantity3":"42,000","buyQuantity2":"42,000","buyQuantity1":"7,000","buyQuantity5":"56,000","settlementPrice":"40.30","closePrice":"0.00","lastPrice":"40.25"}],"companyName":"SREI Infrastructure Finance Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=SREINFRA&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

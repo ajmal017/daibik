@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=BRITANNIA","data":[{"annualisedVolatility":"37.01","bestBuy":"-23.10","totalSellQuantity":"34,600","vwap":"5,698.16","clientWisePositionLimits":"591862","optionType":"-","highPrice":"5,846.95","dailyVolatility":"1.94","bestSell":"-3.85","marketLot":"200","sellQuantity5":"200","marketWidePositionLimits":"11837250","sellQuantity4":"200","sellQuantity3":"200","sellQuantity2":"200","underlying":"BRITANNIA","sellQuantity1":"200","pChange":"-1.53","premiumTurnover":"-","totalBuyQuantity":"10,600","turnoverinRsLakhs":"31,715.96","changeinOpenInterest":"95,400","strikePrice":"-","openInterest":"9,48,800","buyPrice2":"5,686.50","buyPrice1":"5,686.55","openPrice":"5,807.05","prevClose":"5,775.15","expiryDate":"27SEP2018","lowPrice":"5,664.05","buyPrice4":"5,680.90","buyPrice3":"5,685.85","buyPrice5":"5,680.85","numberOfContractsTraded":"2,783","instrumentType":"FUTSTK","sellPrice1":"5,689.55","sellPrice2":"5,689.60","sellPrice3":"5,689.65","sellPrice4":"5,690.00","sellPrice5":"5,692.00","change":"-88.60","pchangeinOpenInterest":"11.18","ltp":"-23.10","impliedVolatility":"-","underlyingValue":"5,690.15","buyQuantity4":"200","buyQuantity3":"800","buyQuantity2":"800","buyQuantity1":"200","buyQuantity5":"200","settlementPrice":"5775.15","closePrice":"0.00","lastPrice":"5,686.55"}],"companyName":"Britannia Industries Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=BRITANNIA&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

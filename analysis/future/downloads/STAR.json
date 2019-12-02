@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=STAR","data":[{"annualisedVolatility":"50.16","bestBuy":"-18.91","totalSellQuantity":"1,80,800","vwap":"477.30","clientWisePositionLimits":"614805","optionType":"-","highPrice":"483.65","dailyVolatility":"2.63","bestSell":"7.56","marketLot":"800","sellQuantity5":"800","marketWidePositionLimits":"12296108","sellQuantity4":"800","sellQuantity3":"1,600","sellQuantity2":"800","underlying":"STAR","sellQuantity1":"800","pChange":"3.51","premiumTurnover":"-","totalBuyQuantity":"2,12,800","turnoverinRsLakhs":"16,789.50","changeinOpenInterest":"40,800","strikePrice":"-","openInterest":"23,37,600","buyPrice2":"482.30","buyPrice1":"482.35","openPrice":"469.90","prevClose":"466.10","expiryDate":"27SEP2018","lowPrice":"469.20","buyPrice4":"482.20","buyPrice3":"482.25","buyPrice5":"482.15","numberOfContractsTraded":"4,397","instrumentType":"FUTSTK","sellPrice1":"482.70","sellPrice2":"482.75","sellPrice3":"482.80","sellPrice4":"482.85","sellPrice5":"482.90","change":"16.35","pchangeinOpenInterest":"1.78","ltp":"-11.35","impliedVolatility":"-","underlyingValue":"482.60","buyQuantity4":"1,600","buyQuantity3":"800","buyQuantity2":"800","buyQuantity1":"800","buyQuantity5":"800","settlementPrice":"466.10","closePrice":"0.00","lastPrice":"482.45"}],"companyName":"Strides Pharma Science Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=STAR&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

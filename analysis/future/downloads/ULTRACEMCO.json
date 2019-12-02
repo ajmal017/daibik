@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=ULTRACEMCO","data":[{"annualisedVolatility":"31.74","bestBuy":"2.24","totalSellQuantity":"41,200","vwap":"4,059.32","clientWisePositionLimits":"1044153","optionType":"-","highPrice":"4,100.40","dailyVolatility":"1.66","bestSell":"24.20","marketLot":"200","sellQuantity5":"200","marketWidePositionLimits":"20883060","sellQuantity4":"200","sellQuantity3":"200","sellQuantity2":"200","underlying":"ULTRACEMCO","sellQuantity1":"200","pChange":"0.60","premiumTurnover":"-","totalBuyQuantity":"42,600","turnoverinRsLakhs":"44,847.37","changeinOpenInterest":"-11,200","strikePrice":"-","openInterest":"14,17,600","buyPrice2":"4,070.40","buyPrice1":"4,070.45","openPrice":"4,086.50","prevClose":"4,048.35","expiryDate":"27SEP2018","lowPrice":"4,024.75","buyPrice4":"4,069.15","buyPrice3":"4,069.20","buyPrice5":"4,068.20","numberOfContractsTraded":"5,524","instrumentType":"FUTSTK","sellPrice1":"4,072.90","sellPrice2":"4,072.95","sellPrice3":"4,074.65","sellPrice4":"4,074.70","sellPrice5":"4,074.75","change":"24.45","pchangeinOpenInterest":"-0.78","ltp":"23.31","impliedVolatility":"-","underlyingValue":"4,070.20","buyQuantity4":"200","buyQuantity3":"200","buyQuantity2":"200","buyQuantity1":"200","buyQuantity5":"200","settlementPrice":"4048.35","closePrice":"0.00","lastPrice":"4,072.80"}],"companyName":"UltraTech Cement Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=ULTRACEMCO&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

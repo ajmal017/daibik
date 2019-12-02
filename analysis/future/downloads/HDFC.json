@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=HDFC","data":[{"annualisedVolatility":"41.37","bestBuy":"5.15","totalSellQuantity":"13,85,500","vwap":"1,772.59","clientWisePositionLimits":"16193039","optionType":"-","highPrice":"1,804.95","dailyVolatility":"2.17","bestSell":"11.34","marketLot":"500","sellQuantity5":"2,000","marketWidePositionLimits":"323860793","sellQuantity4":"500","sellQuantity3":"1,000","sellQuantity2":"500","underlying":"HDFC","sellQuantity1":"1,000","pChange":"-0.26","premiumTurnover":"-","totalBuyQuantity":"1,57,500","turnoverinRsLakhs":"1,45,786.66","changeinOpenInterest":"17,27,500","strikePrice":"-","openInterest":"1,30,38,500","buyPrice2":"1,770.70","buyPrice1":"1,770.80","openPrice":"1,784.95","prevClose":"1,775.75","expiryDate":"27SEP2018","lowPrice":"1,761.80","buyPrice4":"1,770.55","buyPrice3":"1,770.65","buyPrice5":"1,770.45","numberOfContractsTraded":"16,449","instrumentType":"FUTSTK","sellPrice1":"1,771.10","sellPrice2":"1,771.25","sellPrice3":"1,771.30","sellPrice4":"1,771.35","sellPrice5":"1,771.50","change":"-4.70","pchangeinOpenInterest":"15.27","ltp":"10.31","impliedVolatility":"-","underlyingValue":"1,770.55","buyQuantity4":"500","buyQuantity3":"500","buyQuantity2":"1,000","buyQuantity1":"1,000","buyQuantity5":"500","settlementPrice":"1775.75","closePrice":"0.00","lastPrice":"1,771.05"}],"companyName":"Housing Development Finance Corporation Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=HDFC&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

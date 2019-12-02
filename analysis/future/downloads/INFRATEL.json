@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=INFRATEL","data":[{"annualisedVolatility":"35.71","bestBuy":"20.86","totalSellQuantity":"3,96,100","vwap":"266.70","clientWisePositionLimits":"8590934","optionType":"-","highPrice":"274.35","dailyVolatility":"1.87","bestSell":"55.61","marketLot":"1700","sellQuantity5":"8,500","marketWidePositionLimits":"171818694","sellQuantity4":"3,400","sellQuantity3":"3,400","sellQuantity2":"1,700","underlying":"INFRATEL","sellQuantity1":"1,700","pChange":"-2.88","premiumTurnover":"-","totalBuyQuantity":"2,80,500","turnoverinRsLakhs":"12,667.72","changeinOpenInterest":"2,97,500","strikePrice":"-","openInterest":"53,56,700","buyPrice2":"262.45","buyPrice1":"262.50","openPrice":"269.80","prevClose":"270.45","expiryDate":"27SEP2018","lowPrice":"258.70","buyPrice4":"262.35","buyPrice3":"262.40","buyPrice5":"262.30","numberOfContractsTraded":"2,794","instrumentType":"FUTSTK","sellPrice1":"262.75","sellPrice2":"262.85","sellPrice3":"262.90","sellPrice4":"262.95","sellPrice5":"263.00","change":"-7.80","pchangeinOpenInterest":"5.88","ltp":"41.71","impliedVolatility":"-","underlyingValue":"262.35","buyQuantity4":"1,700","buyQuantity3":"1,700","buyQuantity2":"1,700","buyQuantity1":"5,100","buyQuantity5":"1,700","settlementPrice":"270.45","closePrice":"0.00","lastPrice":"262.65"}],"companyName":"Bharti Infratel Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=INFRATEL&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

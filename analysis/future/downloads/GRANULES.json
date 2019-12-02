@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=GRANULES","data":[{"annualisedVolatility":"72.15","bestBuy":"-17.70","totalSellQuantity":"6,60,000","vwap":"102.52","clientWisePositionLimits":"1400217","optionType":"-","highPrice":"104.45","dailyVolatility":"3.78","bestSell":"53.04","marketLot":"5000","sellQuantity5":"15,000","marketWidePositionLimits":"28004352","sellQuantity4":"5,000","sellQuantity3":"10,000","sellQuantity2":"5,000","underlying":"GRANULES","sellQuantity1":"5,000","pChange":"3.46","premiumTurnover":"-","totalBuyQuantity":"7,75,000","turnoverinRsLakhs":"6,084.56","changeinOpenInterest":"-2,80,000","strikePrice":"-","openInterest":"48,25,000","buyPrice2":"103.05","buyPrice1":"103.10","openPrice":"102.70","prevClose":"99.80","expiryDate":"27SEP2018","lowPrice":"99.60","buyPrice4":"102.95","buyPrice3":"103.00","buyPrice5":"102.90","numberOfContractsTraded":"1,187","instrumentType":"FUTSTK","sellPrice1":"103.30","sellPrice2":"103.35","sellPrice3":"103.40","sellPrice4":"103.45","sellPrice5":"103.50","change":"3.45","pchangeinOpenInterest":"-5.48","ltp":"35.37","impliedVolatility":"-","underlyingValue":"103.15","buyQuantity4":"10,000","buyQuantity3":"5,000","buyQuantity2":"25,000","buyQuantity1":"5,000","buyQuantity5":"10,000","settlementPrice":"99.80","closePrice":"0.00","lastPrice":"103.25"}],"companyName":"Granules India Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=GRANULES&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

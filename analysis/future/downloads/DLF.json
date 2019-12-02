@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=DLF","data":[{"annualisedVolatility":"60.43","bestBuy":"-89.86","totalSellQuantity":"8,30,000","vwap":"180.92","clientWisePositionLimits":"4469818","optionType":"-","highPrice":"184.30","dailyVolatility":"3.16","bestSell":"-59.89","marketLot":"2500","sellQuantity5":"30,000","marketWidePositionLimits":"89396379","sellQuantity4":"7,500","sellQuantity3":"7,500","sellQuantity2":"2,500","underlying":"DLF","sellQuantity1":"5,000","pChange":"2.67","premiumTurnover":"-","totalBuyQuantity":"10,50,000","turnoverinRsLakhs":"47,875.96","changeinOpenInterest":"-5,57,500","strikePrice":"-","openInterest":"1,63,62,500","buyPrice2":"182.50","buyPrice1":"182.55","openPrice":"179.75","prevClose":"177.90","expiryDate":"27SEP2018","lowPrice":"176.50","buyPrice4":"182.40","buyPrice3":"182.45","buyPrice5":"182.35","numberOfContractsTraded":"10,585","instrumentType":"FUTSTK","sellPrice1":"182.70","sellPrice2":"182.75","sellPrice3":"182.80","sellPrice4":"182.90","sellPrice5":"182.95","change":"4.75","pchangeinOpenInterest":"-3.29","ltp":"-69.88","impliedVolatility":"-","underlyingValue":"183.00","buyQuantity4":"5,000","buyQuantity3":"7,500","buyQuantity2":"2,500","buyQuantity1":"2,500","buyQuantity5":"7,500","settlementPrice":"177.90","closePrice":"0.00","lastPrice":"182.65"}],"companyName":"DLF Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=DLF&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

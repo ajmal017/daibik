@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=CHOLAFIN","data":[{"annualisedVolatility":"55.90","bestBuy":"46.48","totalSellQuantity":"90,500","vwap":"1,223.66","clientWisePositionLimits":"733839","optionType":"-","highPrice":"1,242.85","dailyVolatility":"2.93","bestSell":"70.44","marketLot":"500","sellQuantity5":"500","marketWidePositionLimits":"14676781","sellQuantity4":"500","sellQuantity3":"1,000","sellQuantity2":"500","underlying":"CHOLAFIN","sellQuantity1":"500","pChange":"-1.27","premiumTurnover":"-","totalBuyQuantity":"87,000","turnoverinRsLakhs":"7,800.83","changeinOpenInterest":"43,500","strikePrice":"-","openInterest":"6,73,000","buyPrice2":"1,218.00","buyPrice1":"1,218.05","openPrice":"1,234.00","prevClose":"1,234.55","expiryDate":"27SEP2018","lowPrice":"1,208.70","buyPrice4":"1,217.65","buyPrice3":"1,217.75","buyPrice5":"1,217.15","numberOfContractsTraded":"1,275","instrumentType":"FUTSTK","sellPrice1":"1,218.85","sellPrice2":"1,218.90","sellPrice3":"1,219.00","sellPrice4":"1,219.20","sellPrice5":"1,219.70","change":"-15.70","pchangeinOpenInterest":"6.91","ltp":"70.44","impliedVolatility":"-","underlyingValue":"1,216.50","buyQuantity4":"500","buyQuantity3":"1,500","buyQuantity2":"500","buyQuantity1":"500","buyQuantity5":"500","settlementPrice":"1234.55","closePrice":"0.00","lastPrice":"1,218.85"}],"companyName":"Cholamandalam Investment and Finance Company Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=CHOLAFIN&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

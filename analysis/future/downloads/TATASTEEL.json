@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=TATASTEEL","data":[{"annualisedVolatility":"34.98","bestBuy":"65.93","totalSellQuantity":"5,82,489","vwap":"607.95","clientWisePositionLimits":"8052963","optionType":"-","highPrice":"614.50","dailyVolatility":"1.83","bestSell":"77.90","marketLot":"1061","sellQuantity5":"3,183","marketWidePositionLimits":"161059265","sellQuantity4":"6,366","sellQuantity3":"1,061","sellQuantity2":"1,061","underlying":"TATASTEEL","sellQuantity1":"1,061","pChange":"1.43","premiumTurnover":"-","totalBuyQuantity":"5,88,855","turnoverinRsLakhs":"1,69,212.02","changeinOpenInterest":"1,74,004","strikePrice":"-","openInterest":"1,83,63,788","buyPrice2":"609.50","buyPrice1":"609.55","openPrice":"605.00","prevClose":"601.15","expiryDate":"27SEP2018","lowPrice":"598.50","buyPrice4":"609.40","buyPrice3":"609.45","buyPrice5":"609.35","numberOfContractsTraded":"26,233","instrumentType":"FUTSTK","sellPrice1":"609.75","sellPrice2":"609.80","sellPrice3":"609.85","sellPrice4":"609.90","sellPrice5":"609.95","change":"8.60","pchangeinOpenInterest":"0.96","ltp":"77.90","impliedVolatility":"-","underlyingValue":"608.45","buyQuantity4":"2,122","buyQuantity3":"2,122","buyQuantity2":"1,061","buyQuantity1":"1,061","buyQuantity5":"2,122","settlementPrice":"601.15","closePrice":"0.00","lastPrice":"609.75"}],"companyName":"Tata Steel Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=TATASTEEL&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

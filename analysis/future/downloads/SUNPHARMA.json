@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=SUNPHARMA","data":[{"annualisedVolatility":"39.54","bestBuy":"-17.13","totalSellQuantity":"22,29,700","vwap":"640.90","clientWisePositionLimits":"10944691","optionType":"-","highPrice":"648.70","dailyVolatility":"2.07","bestSell":"-2.85","marketLot":"1100","sellQuantity5":"1,100","marketWidePositionLimits":"218893822","sellQuantity4":"1,100","sellQuantity3":"2,200","sellQuantity2":"1,100","underlying":"SUNPHARMA","sellQuantity1":"1,100","pChange":"-0.28","premiumTurnover":"-","totalBuyQuantity":"3,44,300","turnoverinRsLakhs":"1,17,627.58","changeinOpenInterest":"-4,40,000","strikePrice":"-","openInterest":"1,95,34,900","buyPrice2":"639.20","buyPrice1":"639.25","openPrice":"646.00","prevClose":"641.25","expiryDate":"27SEP2018","lowPrice":"633.30","buyPrice4":"639.10","buyPrice3":"639.15","buyPrice5":"639.05","numberOfContractsTraded":"16,685","instrumentType":"FUTSTK","sellPrice1":"639.50","sellPrice2":"639.55","sellPrice3":"639.60","sellPrice4":"639.65","sellPrice5":"639.70","change":"-1.80","pchangeinOpenInterest":"-2.20","ltp":"-5.71","impliedVolatility":"-","underlyingValue":"639.55","buyQuantity4":"1,100","buyQuantity3":"1,100","buyQuantity2":"2,200","buyQuantity1":"2,200","buyQuantity5":"1,100","settlementPrice":"641.25","closePrice":"0.00","lastPrice":"639.45"}],"companyName":"Sun Pharmaceutical Industries Limited","lastUpdateTime":"26-SEP-2018 15:19:29","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=SUNPHARMA&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

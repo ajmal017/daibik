@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=BEL","data":[{"annualisedVolatility":"64.71","bestBuy":"-43.27","totalSellQuantity":"12,91,950","vwap":"83.53","clientWisePositionLimits":"8281517","optionType":"-","highPrice":"86.50","dailyVolatility":"3.39","bestSell":"-","marketLot":"4950","sellQuantity5":"14,850","marketWidePositionLimits":"165630346","sellQuantity4":"19,800","sellQuantity3":"34,650","sellQuantity2":"19,800","underlying":"BEL","sellQuantity1":"14,850","pChange":"10.19","premiumTurnover":"-","totalBuyQuantity":"17,32,500","turnoverinRsLakhs":"46,263.55","changeinOpenInterest":"34,650","strikePrice":"-","openInterest":"2,78,19,000","buyPrice2":"84.25","buyPrice1":"84.30","openPrice":"78.70","prevClose":"76.55","expiryDate":"27SEP2018","lowPrice":"78.65","buyPrice4":"84.15","buyPrice3":"84.20","buyPrice5":"84.10","numberOfContractsTraded":"11,189","instrumentType":"FUTSTK","sellPrice1":"84.40","sellPrice2":"84.45","sellPrice3":"84.50","sellPrice4":"84.55","sellPrice5":"84.60","change":"7.80","pchangeinOpenInterest":"0.12","ltp":"-21.63","impliedVolatility":"-","underlyingValue":"84.40","buyQuantity4":"24,750","buyQuantity3":"14,850","buyQuantity2":"39,600","buyQuantity1":"4,950","buyQuantity5":"24,750","settlementPrice":"76.55","closePrice":"0.00","lastPrice":"84.35"}],"companyName":"Bharat Electronics Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=BEL&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

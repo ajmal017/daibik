@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=JSWSTEEL","data":[{"annualisedVolatility":"40.10","bestBuy":"17.89","totalSellQuantity":"10,53,000","vwap":"406.58","clientWisePositionLimits":"13962535","optionType":"-","highPrice":"411.60","dailyVolatility":"2.10","bestSell":"31.31","marketLot":"3000","sellQuantity5":"18,000","marketWidePositionLimits":"279250706","sellQuantity4":"3,000","sellQuantity3":"3,000","sellQuantity2":"3,000","underlying":"JSWSTEEL","sellQuantity1":"3,000","pChange":"1.15","premiumTurnover":"-","totalBuyQuantity":"11,34,000","turnoverinRsLakhs":"1,21,864.22","changeinOpenInterest":"50,73,000","strikePrice":"-","openInterest":"3,64,35,000","buyPrice2":"408.00","buyPrice1":"408.05","openPrice":"408.90","prevClose":"403.50","expiryDate":"27SEP2018","lowPrice":"401.15","buyPrice4":"407.80","buyPrice3":"407.85","buyPrice5":"407.75","numberOfContractsTraded":"9,991","instrumentType":"FUTSTK","sellPrice1":"408.20","sellPrice2":"408.25","sellPrice3":"408.30","sellPrice4":"408.45","sellPrice5":"408.50","change":"4.65","pchangeinOpenInterest":"16.18","ltp":"26.84","impliedVolatility":"-","underlyingValue":"407.85","buyQuantity4":"9,000","buyQuantity3":"12,000","buyQuantity2":"15,000","buyQuantity1":"3,000","buyQuantity5":"3,000","settlementPrice":"403.50","closePrice":"0.00","lastPrice":"408.15"}],"companyName":"JSW Steel Limited","lastUpdateTime":"26-SEP-2018 15:20:29","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=JSWSTEEL&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

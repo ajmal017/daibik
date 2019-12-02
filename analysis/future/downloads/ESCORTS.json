@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=ESCORTS","data":[{"annualisedVolatility":"50.17","bestBuy":"-49.61","totalSellQuantity":"3,30,000","vwap":"668.13","clientWisePositionLimits":"734642","optionType":"-","highPrice":"675.50","dailyVolatility":"2.63","bestSell":"-24.80","marketLot":"1100","sellQuantity5":"1,100","marketWidePositionLimits":"14692848","sellQuantity4":"1,100","sellQuantity3":"1,100","sellQuantity2":"1,100","underlying":"ESCORTS","sellQuantity1":"1,100","pChange":"-0.11","premiumTurnover":"-","totalBuyQuantity":"1,70,500","turnoverinRsLakhs":"30,676.52","changeinOpenInterest":"59,400","strikePrice":"-","openInterest":"42,06,400","buyPrice2":"661.65","buyPrice1":"661.70","openPrice":"668.00","prevClose":"662.45","expiryDate":"27SEP2018","lowPrice":"661.35","buyPrice4":"661.45","buyPrice3":"661.50","buyPrice5":"661.40","numberOfContractsTraded":"4,174","instrumentType":"FUTSTK","sellPrice1":"662.15","sellPrice2":"662.20","sellPrice3":"662.25","sellPrice4":"662.35","sellPrice5":"662.50","change":"-0.75","pchangeinOpenInterest":"1.43","ltp":"-49.61","impliedVolatility":"-","underlyingValue":"662.60","buyQuantity4":"2,200","buyQuantity3":"2,200","buyQuantity2":"1,100","buyQuantity1":"1,100","buyQuantity5":"1,100","settlementPrice":"662.45","closePrice":"0.00","lastPrice":"661.70"}],"companyName":"Escorts Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=ESCORTS&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

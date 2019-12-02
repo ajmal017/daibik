@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=SBIN","data":[{"annualisedVolatility":"37.57","bestBuy":"62.17","totalSellQuantity":"84,00,000","vwap":"267.51","clientWisePositionLimits":"36556166","optionType":"-","highPrice":"273.90","dailyVolatility":"1.97","bestSell":"75.98","marketLot":"3000","sellQuantity5":"21,000","marketWidePositionLimits":"731123323","sellQuantity4":"9,000","sellQuantity3":"15,000","sellQuantity2":"6,000","underlying":"SBIN","sellQuantity1":"3,000","pChange":"-2.34","premiumTurnover":"-","totalBuyQuantity":"10,77,000","turnoverinRsLakhs":"1,73,884.18","changeinOpenInterest":"65,28,000","strikePrice":"-","openInterest":"6,67,02,000","buyPrice2":"264.35","buyPrice1":"264.40","openPrice":"272.50","prevClose":"270.95","expiryDate":"27SEP2018","lowPrice":"264.05","buyPrice4":"264.25","buyPrice3":"264.30","buyPrice5":"264.20","numberOfContractsTraded":"21,667","instrumentType":"FUTSTK","sellPrice1":"264.50","sellPrice2":"264.55","sellPrice3":"264.60","sellPrice4":"264.65","sellPrice5":"264.70","change":"-6.35","pchangeinOpenInterest":"10.85","ltp":"89.77","impliedVolatility":"-","underlyingValue":"263.95","buyQuantity4":"18,000","buyQuantity3":"33,000","buyQuantity2":"12,000","buyQuantity1":"9,000","buyQuantity5":"99,000","settlementPrice":"270.95","closePrice":"0.00","lastPrice":"264.60"}],"companyName":"State Bank of India","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=SBIN&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=IOC","data":[{"annualisedVolatility":"32.47","bestBuy":"47.17","totalSellQuantity":"7,53,000","vwap":"153.95","clientWisePositionLimits":"42002638","optionType":"-","highPrice":"155.75","dailyVolatility":"1.70","bestSell":"82.51","marketLot":"3000","sellQuantity5":"27,000","marketWidePositionLimits":"840052776","sellQuantity4":"6,000","sellQuantity3":"12,000","sellQuantity2":"12,000","underlying":"IOC","sellQuantity1":"15,000","pChange":"0.68","premiumTurnover":"-","totalBuyQuantity":"5,88,000","turnoverinRsLakhs":"14,862.33","changeinOpenInterest":"11,07,000","strikePrice":"-","openInterest":"1,86,51,000","buyPrice2":"154.80","buyPrice1":"154.85","openPrice":"155.50","prevClose":"153.85","expiryDate":"27SEP2018","lowPrice":"152.65","buyPrice4":"154.70","buyPrice3":"154.75","buyPrice5":"154.65","numberOfContractsTraded":"3,218","instrumentType":"FUTSTK","sellPrice1":"155.00","sellPrice2":"155.05","sellPrice3":"155.10","sellPrice4":"155.15","sellPrice5":"155.20","change":"1.05","pchangeinOpenInterest":"6.31","ltp":"58.96","impliedVolatility":"-","underlyingValue":"154.65","buyQuantity4":"9,000","buyQuantity3":"15,000","buyQuantity2":"6,000","buyQuantity1":"6,000","buyQuantity5":"9,000","settlementPrice":"153.85","closePrice":"0.00","lastPrice":"154.90"}],"companyName":"Indian Oil Corporation Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=IOC&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

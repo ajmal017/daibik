@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=ADANIPORTS","data":[{"annualisedVolatility":"39.30","bestBuy":"69.88","totalSellQuantity":"4,95,000","vwap":"338.47","clientWisePositionLimits":"7807220","optionType":"-","highPrice":"344.45","dailyVolatility":"2.06","bestSell":"96.72","marketLot":"2500","sellQuantity5":"7,500","marketWidePositionLimits":"156144401","sellQuantity4":"2,500","sellQuantity3":"2,500","sellQuantity2":"2,500","underlying":"ADANIPORTS","sellQuantity1":"2,500","pChange":"0.28","premiumTurnover":"-","totalBuyQuantity":"3,50,000","turnoverinRsLakhs":"32,543.89","changeinOpenInterest":"-5,25,000","strikePrice":"-","openInterest":"69,97,500","buyPrice2":"339.80","buyPrice1":"339.85","openPrice":"344.00","prevClose":"339.20","expiryDate":"27SEP2018","lowPrice":"327.65","buyPrice4":"339.70","buyPrice3":"339.75","buyPrice5":"339.60","numberOfContractsTraded":"3,846","instrumentType":"FUTSTK","sellPrice1":"340.10","sellPrice2":"340.15","sellPrice3":"340.20","sellPrice4":"340.25","sellPrice5":"340.30","change":"0.95","pchangeinOpenInterest":"-6.98","ltp":"102.08","impliedVolatility":"-","underlyingValue":"339.20","buyQuantity4":"5,000","buyQuantity3":"2,500","buyQuantity2":"2,500","buyQuantity1":"2,500","buyQuantity5":"2,500","settlementPrice":"339.20","closePrice":"0.00","lastPrice":"340.15"}],"companyName":"Adani Ports and Special Economic Zone Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=ADANIPORTS&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

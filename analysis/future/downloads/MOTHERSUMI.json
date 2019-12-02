@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=MOTHERSUMI","data":[{"annualisedVolatility":"58.62","bestBuy":"7.05","totalSellQuantity":"3,87,200","vwap":"253.37","clientWisePositionLimits":"8057651","optionType":"-","highPrice":"267.95","dailyVolatility":"3.07","bestSell":"35.21","marketLot":"1600","sellQuantity5":"4,800","marketWidePositionLimits":"161153025","sellQuantity4":"3,200","sellQuantity3":"1,600","sellQuantity2":"3,200","underlying":"MOTHERSUMI","sellQuantity1":"1,600","pChange":"-2.04","premiumTurnover":"-","totalBuyQuantity":"4,59,200","turnoverinRsLakhs":"34,778.58","changeinOpenInterest":"31,37,600","strikePrice":"-","openInterest":"1,30,08,000","buyPrice2":"259.00","buyPrice1":"259.05","openPrice":"267.00","prevClose":"264.55","expiryDate":"27SEP2018","lowPrice":"244.60","buyPrice4":"258.85","buyPrice3":"258.90","buyPrice5":"258.80","numberOfContractsTraded":"8,579","instrumentType":"FUTSTK","sellPrice1":"259.25","sellPrice2":"259.30","sellPrice3":"259.45","sellPrice4":"259.50","sellPrice5":"259.55","change":"-5.40","pchangeinOpenInterest":"31.79","ltp":"21.13","impliedVolatility":"-","underlyingValue":"259.00","buyQuantity4":"1,600","buyQuantity3":"3,200","buyQuantity2":"3,200","buyQuantity1":"1,600","buyQuantity5":"1,600","settlementPrice":"264.55","closePrice":"0.00","lastPrice":"259.15"}],"companyName":"Motherson Sumi Systems Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=MOTHERSUMI&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

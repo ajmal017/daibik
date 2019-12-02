@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=TATACOMM","data":[{"annualisedVolatility":"30.62","bestBuy":"89.12","totalSellQuantity":"1,44,800","vwap":"507.10","clientWisePositionLimits":"712677","optionType":"-","highPrice":"516.75","dailyVolatility":"1.60","bestSell":"135.38","marketLot":"800","sellQuantity5":"1,600","marketWidePositionLimits":"14253557","sellQuantity4":"800","sellQuantity3":"800","sellQuantity2":"800","underlying":"TATACOMM","sellQuantity1":"800","pChange":"1.55","premiumTurnover":"-","totalBuyQuantity":"1,41,600","turnoverinRsLakhs":"7,314.41","changeinOpenInterest":"-1,28,000","strikePrice":"-","openInterest":"14,84,000","buyPrice2":"512.50","buyPrice1":"512.55","openPrice":"505.50","prevClose":"504.70","expiryDate":"27SEP2018","lowPrice":"501.00","buyPrice4":"511.95","buyPrice3":"512.00","buyPrice5":"511.40","numberOfContractsTraded":"1,803","instrumentType":"FUTSTK","sellPrice1":"513.20","sellPrice2":"513.25","sellPrice3":"513.35","sellPrice4":"513.85","sellPrice5":"513.90","change":"7.80","pchangeinOpenInterest":"-7.94","ltp":"85.56","impliedVolatility":"-","underlyingValue":"511.30","buyQuantity4":"1,600","buyQuantity3":"1,600","buyQuantity2":"800","buyQuantity1":"800","buyQuantity5":"800","settlementPrice":"504.70","closePrice":"0.00","lastPrice":"512.50"}],"companyName":"Tata Communications Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=TATACOMM&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

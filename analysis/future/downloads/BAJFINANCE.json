@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=BAJFINANCE","data":[{"annualisedVolatility":"49.55","bestBuy":"9.44","totalSellQuantity":"13,05,500","vwap":"2,329.66","clientWisePositionLimits":"2571135","optionType":"-","highPrice":"2,354.00","dailyVolatility":"2.59","bestSell":"22.02","marketLot":"500","sellQuantity5":"1,000","marketWidePositionLimits":"51422718","sellQuantity4":"500","sellQuantity3":"1,000","sellQuantity2":"2,000","underlying":"BAJFINANCE","sellQuantity1":"500","pChange":"0.93","premiumTurnover":"-","totalBuyQuantity":"1,76,000","turnoverinRsLakhs":"1,81,643.59","changeinOpenInterest":"4,54,500","strikePrice":"-","openInterest":"41,34,000","buyPrice2":"2,320.40","buyPrice1":"2,320.60","openPrice":"2,323.90","prevClose":"2,299.70","expiryDate":"27SEP2018","lowPrice":"2,302.30","buyPrice4":"2,320.00","buyPrice3":"2,320.05","buyPrice5":"2,319.65","numberOfContractsTraded":"15,594","instrumentType":"FUTSTK","sellPrice1":"2,321.40","sellPrice2":"2,321.45","sellPrice3":"2,321.75","sellPrice4":"2,321.85","sellPrice5":"2,322.25","change":"21.30","pchangeinOpenInterest":"12.35","ltp":"15.73","impliedVolatility":"-","underlyingValue":"2,320.00","buyQuantity4":"3,000","buyQuantity3":"1,000","buyQuantity2":"500","buyQuantity1":"500","buyQuantity5":"500","settlementPrice":"2299.70","closePrice":"0.00","lastPrice":"2,321.00"}],"companyName":"Bajaj Finance Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=BAJFINANCE&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

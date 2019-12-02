@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=NBCC","data":[{"annualisedVolatility":"48.56","bestBuy":"-28.39","totalSellQuantity":"13,38,000","vwap":"64.25","clientWisePositionLimits":"4736201","optionType":"-","highPrice":"64.95","dailyVolatility":"2.54","bestSell":"-","marketLot":"6000","sellQuantity5":"60,000","marketWidePositionLimits":"94724027","sellQuantity4":"18,000","sellQuantity3":"24,000","sellQuantity2":"6,000","underlying":"NBCC","sellQuantity1":"12,000","pChange":"0.23","premiumTurnover":"-","totalBuyQuantity":"7,86,000","turnoverinRsLakhs":"5,127.15","changeinOpenInterest":"-84,000","strikePrice":"-","openInterest":"1,53,78,000","buyPrice2":"64.20","buyPrice1":"64.25","openPrice":"64.15","prevClose":"64.15","expiryDate":"27SEP2018","lowPrice":"63.55","buyPrice4":"64.10","buyPrice3":"64.15","buyPrice5":"64.05","numberOfContractsTraded":"1,330","instrumentType":"FUTSTK","sellPrice1":"64.30","sellPrice2":"64.35","sellPrice3":"64.40","sellPrice4":"64.45","sellPrice5":"64.50","change":"0.15","pchangeinOpenInterest":"-0.54","ltp":"-","impliedVolatility":"-","underlyingValue":"64.30","buyQuantity4":"30,000","buyQuantity3":"18,000","buyQuantity2":"18,000","buyQuantity1":"12,000","buyQuantity5":"18,000","settlementPrice":"64.15","closePrice":"0.00","lastPrice":"64.30"}],"companyName":"NBCC (India) Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=NBCC&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

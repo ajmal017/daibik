@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=IDBI","data":[{"annualisedVolatility":"48.23","bestBuy":"-34.71","totalSellQuantity":"14,40,000","vwap":"52.34","clientWisePositionLimits":"5357018","optionType":"-","highPrice":"53.75","dailyVolatility":"2.52","bestSell":"34.68","marketLot":"10000","sellQuantity5":"30,000","marketWidePositionLimits":"107140375","sellQuantity4":"30,000","sellQuantity3":"40,000","sellQuantity2":"40,000","underlying":"IDBI","sellQuantity1":"30,000","pChange":"1.25","premiumTurnover":"-","totalBuyQuantity":"12,30,000","turnoverinRsLakhs":"10,195.83","changeinOpenInterest":"-27,00,000","strikePrice":"-","openInterest":"2,49,50,000","buyPrice2":"52.50","buyPrice1":"52.55","openPrice":"53.75","prevClose":"52.00","expiryDate":"27SEP2018","lowPrice":"51.60","buyPrice4":"52.40","buyPrice3":"52.45","buyPrice5":"52.30","numberOfContractsTraded":"1,948","instrumentType":"FUTSTK","sellPrice1":"52.65","sellPrice2":"52.70","sellPrice3":"52.75","sellPrice4":"52.80","sellPrice5":"52.85","change":"0.65","pchangeinOpenInterest":"-9.76","ltp":"34.68","impliedVolatility":"-","underlyingValue":"52.60","buyQuantity4":"30,000","buyQuantity3":"20,000","buyQuantity2":"40,000","buyQuantity1":"30,000","buyQuantity5":"60,000","settlementPrice":"52.00","closePrice":"0.00","lastPrice":"52.65"}],"companyName":"IDBI Bank Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=IDBI&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=PCJEWELLER","data":[{"annualisedVolatility":"83.43","bestBuy":"-","totalSellQuantity":"4,48,500","vwap":"70.02","clientWisePositionLimits":"1671977","optionType":"-","highPrice":"72.15","dailyVolatility":"4.37","bestSell":"52.22","marketLot":"1500","sellQuantity5":"3,000","marketWidePositionLimits":"33439540","sellQuantity4":"6,000","sellQuantity3":"3,000","sellQuantity2":"13,500","underlying":"PCJEWELLER","sellQuantity1":"6,000","pChange":"-0.71","premiumTurnover":"-","totalBuyQuantity":"2,17,500","turnoverinRsLakhs":"3,532.16","changeinOpenInterest":"-2,07,000","strikePrice":"-","openInterest":"58,27,500","buyPrice2":"69.80","buyPrice1":"69.85","openPrice":"70.55","prevClose":"70.20","expiryDate":"27SEP2018","lowPrice":"68.85","buyPrice4":"69.65","buyPrice3":"69.70","buyPrice5":"69.60","numberOfContractsTraded":"3,363","instrumentType":"FUTSTK","sellPrice1":"69.95","sellPrice2":"70.00","sellPrice3":"70.05","sellPrice4":"70.10","sellPrice5":"70.15","change":"-0.50","pchangeinOpenInterest":"-3.43","ltp":"-78.47","impliedVolatility":"-","underlyingValue":"69.85","buyQuantity4":"4,500","buyQuantity3":"3,000","buyQuantity2":"3,000","buyQuantity1":"1,500","buyQuantity5":"6,000","settlementPrice":"70.20","closePrice":"0.00","lastPrice":"69.70"}],"companyName":"PC Jeweller Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=PCJEWELLER&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

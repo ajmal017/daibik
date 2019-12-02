@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=GLENMARK","data":[{"annualisedVolatility":"35.22","bestBuy":"78.22","totalSellQuantity":"1,98,000","vwap":"653.65","clientWisePositionLimits":"1508583","optionType":"-","highPrice":"659.70","dailyVolatility":"1.84","bestSell":"114.48","marketLot":"1000","sellQuantity5":"2,000","marketWidePositionLimits":"30171674","sellQuantity4":"1,000","sellQuantity3":"1,000","sellQuantity2":"2,000","underlying":"GLENMARK","sellQuantity1":"1,000","pChange":"2.61","premiumTurnover":"-","totalBuyQuantity":"1,79,000","turnoverinRsLakhs":"19,936.33","changeinOpenInterest":"3,83,000","strikePrice":"-","openInterest":"29,45,000","buyPrice2":"653.90","buyPrice1":"654.00","openPrice":"643.35","prevClose":"637.45","expiryDate":"27SEP2018","lowPrice":"643.35","buyPrice4":"653.70","buyPrice3":"653.85","buyPrice5":"653.65","numberOfContractsTraded":"3,050","instrumentType":"FUTSTK","sellPrice1":"654.65","sellPrice2":"654.70","sellPrice3":"654.75","sellPrice4":"654.80","sellPrice5":"654.90","change":"16.65","pchangeinOpenInterest":"14.95","ltp":"83.80","impliedVolatility":"-","underlyingValue":"652.60","buyQuantity4":"1,000","buyQuantity3":"1,000","buyQuantity2":"2,000","buyQuantity1":"1,000","buyQuantity5":"1,000","settlementPrice":"637.45","closePrice":"0.00","lastPrice":"654.10"}],"companyName":"Glenmark Pharmaceuticals Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=GLENMARK&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

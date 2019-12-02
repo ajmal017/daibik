@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=DISHTV","data":[{"annualisedVolatility":"45.85","bestBuy":"-63.64","totalSellQuantity":"14,32,000","vwap":"57.73","clientWisePositionLimits":"11704963","optionType":"-","highPrice":"59.55","dailyVolatility":"2.40","bestSell":"-","marketLot":"8000","sellQuantity5":"16,000","marketWidePositionLimits":"234099275","sellQuantity4":"8,000","sellQuantity3":"48,000","sellQuantity2":"32,000","underlying":"DISHTV","sellQuantity1":"8,000","pChange":"-2.96","premiumTurnover":"-","totalBuyQuantity":"11,68,000","turnoverinRsLakhs":"12,021.70","changeinOpenInterest":"-52,56,000","strikePrice":"-","openInterest":"1,66,72,000","buyPrice2":"57.25","buyPrice1":"57.30","openPrice":"59.00","prevClose":"59.15","expiryDate":"27SEP2018","lowPrice":"56.35","buyPrice4":"57.15","buyPrice3":"57.20","buyPrice5":"57.10","numberOfContractsTraded":"2,603","instrumentType":"FUTSTK","sellPrice1":"57.40","sellPrice2":"57.45","sellPrice3":"57.50","sellPrice4":"57.55","sellPrice5":"57.60","change":"-1.75","pchangeinOpenInterest":"-23.97","ltp":"-","impliedVolatility":"-","underlyingValue":"57.40","buyQuantity4":"24,000","buyQuantity3":"32,000","buyQuantity2":"8,000","buyQuantity1":"24,000","buyQuantity5":"32,000","settlementPrice":"59.15","closePrice":"0.00","lastPrice":"57.40"}],"companyName":"Dish TV India Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=DISHTV&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

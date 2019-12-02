@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=DALMIABHA","data":[{"annualisedVolatility":"41.91","bestBuy":"72.75","totalSellQuantity":"36,600","vwap":"2,431.53","clientWisePositionLimits":"348811","optionType":"-","highPrice":"2,448.00","dailyVolatility":"2.19","bestSell":"133.38","marketLot":"300","sellQuantity5":"300","marketWidePositionLimits":"6976232","sellQuantity4":"300","sellQuantity3":"600","sellQuantity2":"300","underlying":"DALMIABHA","sellQuantity1":"300","pChange":"0.56","premiumTurnover":"-","totalBuyQuantity":"39,000","turnoverinRsLakhs":"5,565.77","changeinOpenInterest":"-63,000","strikePrice":"-","openInterest":"2,25,000","buyPrice2":"2,435.80","buyPrice1":"2,435.85","openPrice":"2,432.75","prevClose":"2,424.50","expiryDate":"27SEP2018","lowPrice":"2,416.00","buyPrice4":"2,435.50","buyPrice3":"2,435.65","buyPrice5":"2,435.35","numberOfContractsTraded":"763","instrumentType":"FUTSTK","sellPrice1":"2,439.90","sellPrice2":"2,439.95","sellPrice3":"2,440.00","sellPrice4":"2,441.00","sellPrice5":"2,442.65","change":"13.60","pchangeinOpenInterest":"-21.88","ltp":"106.45","impliedVolatility":"-","underlyingValue":"2,431.00","buyQuantity4":"300","buyQuantity3":"300","buyQuantity2":"300","buyQuantity1":"300","buyQuantity5":"300","settlementPrice":"2424.50","closePrice":"0.00","lastPrice":"2,438.10"}],"companyName":"Dalmia Bharat Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=DALMIABHA&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

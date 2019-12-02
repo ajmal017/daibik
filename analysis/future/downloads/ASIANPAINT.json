@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=ASIANPAINT","data":[{"annualisedVolatility":"27.73","bestBuy":"-19.92","totalSellQuantity":"1,54,800","vwap":"1,283.17","clientWisePositionLimits":"4528133","optionType":"-","highPrice":"1,300.45","dailyVolatility":"1.45","bestSell":"1.42","marketLot":"600","sellQuantity5":"600","marketWidePositionLimits":"90562661","sellQuantity4":"1,200","sellQuantity3":"600","sellQuantity2":"1,200","underlying":"ASIANPAINT","sellQuantity1":"600","pChange":"-0.75","premiumTurnover":"-","totalBuyQuantity":"1,78,800","turnoverinRsLakhs":"35,715.75","changeinOpenInterest":"7,75,800","strikePrice":"-","openInterest":"42,10,800","buyPrice2":"1,282.25","buyPrice1":"1,282.30","openPrice":"1,297.45","prevClose":"1,292.10","expiryDate":"27SEP2018","lowPrice":"1,274.85","buyPrice4":"1,282.00","buyPrice3":"1,282.20","buyPrice5":"1,281.60","numberOfContractsTraded":"4,639","instrumentType":"FUTSTK","sellPrice1":"1,283.05","sellPrice2":"1,283.10","sellPrice3":"1,283.25","sellPrice4":"1,283.30","sellPrice5":"1,283.45","change":"-9.75","pchangeinOpenInterest":"22.59","ltp":"-18.50","impliedVolatility":"-","underlyingValue":"1,283.00","buyQuantity4":"1,200","buyQuantity3":"600","buyQuantity2":"600","buyQuantity1":"600","buyQuantity5":"600","settlementPrice":"1292.10","closePrice":"0.00","lastPrice":"1,282.35"}],"companyName":"Asian Paints Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=ASIANPAINT&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

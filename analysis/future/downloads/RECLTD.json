@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=RECLTD","data":[{"annualisedVolatility":"70.75","bestBuy":"35.64","totalSellQuantity":"12,30,000","vwap":"101.23","clientWisePositionLimits":"8304616","optionType":"-","highPrice":"103.00","dailyVolatility":"3.70","bestSell":"53.45","marketLot":"6000","sellQuantity5":"36,000","marketWidePositionLimits":"166092322","sellQuantity4":"12,000","sellQuantity3":"18,000","sellQuantity2":"6,000","underlying":"RECLTD","sellQuantity1":"6,000","pChange":"1.69","premiumTurnover":"-","totalBuyQuantity":"11,82,000","turnoverinRsLakhs":"25,188.05","changeinOpenInterest":"26,04,000","strikePrice":"-","openInterest":"2,70,84,000","buyPrice2":"102.40","buyPrice1":"102.45","openPrice":"101.85","prevClose":"100.85","expiryDate":"27SEP2018","lowPrice":"99.35","buyPrice4":"102.30","buyPrice3":"102.35","buyPrice5":"102.25","numberOfContractsTraded":"4,147","instrumentType":"FUTSTK","sellPrice1":"102.50","sellPrice2":"102.55","sellPrice3":"102.60","sellPrice4":"102.65","sellPrice5":"102.70","change":"1.70","pchangeinOpenInterest":"10.64","ltp":"71.25","impliedVolatility":"-","underlyingValue":"102.35","buyQuantity4":"24,000","buyQuantity3":"12,000","buyQuantity2":"6,000","buyQuantity1":"6,000","buyQuantity5":"6,000","settlementPrice":"100.85","closePrice":"0.00","lastPrice":"102.55"}],"companyName":"Rural Electrification Corporation Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=RECLTD&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

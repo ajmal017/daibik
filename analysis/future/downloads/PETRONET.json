@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=PETRONET","data":[{"annualisedVolatility":"37.01","bestBuy":"89.11","totalSellQuantity":"4,86,000","vwap":"222.95","clientWisePositionLimits":"7500000","optionType":"-","highPrice":"231.20","dailyVolatility":"1.94","bestSell":"113.38","marketLot":"3000","sellQuantity5":"6,000","marketWidePositionLimits":"150000017","sellQuantity4":"6,000","sellQuantity3":"3,000","sellQuantity2":"3,000","underlying":"PETRONET","sellQuantity1":"3,000","pChange":"0.47","premiumTurnover":"-","totalBuyQuantity":"7,05,000","turnoverinRsLakhs":"22,125.56","changeinOpenInterest":"11,22,000","strikePrice":"-","openInterest":"1,08,57,000","buyPrice2":"225.40","buyPrice1":"225.55","openPrice":"231.20","prevClose":"224.75","expiryDate":"27SEP2018","lowPrice":"218.40","buyPrice4":"225.30","buyPrice3":"225.35","buyPrice5":"225.25","numberOfContractsTraded":"3,308","instrumentType":"FUTSTK","sellPrice1":"225.70","sellPrice2":"225.80","sellPrice3":"225.85","sellPrice4":"225.95","sellPrice5":"226.00","change":"1.05","pchangeinOpenInterest":"11.53","ltp":"129.55","impliedVolatility":"-","underlyingValue":"225.00","buyQuantity4":"3,000","buyQuantity3":"3,000","buyQuantity2":"3,000","buyQuantity1":"3,000","buyQuantity5":"3,000","settlementPrice":"224.75","closePrice":"0.00","lastPrice":"225.80"}],"companyName":"Petronet LNG Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=PETRONET&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

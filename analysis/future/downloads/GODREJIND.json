@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=GODREJIND","data":[{"annualisedVolatility":"35.02","bestBuy":"-95.91","totalSellQuantity":"2,98,500","vwap":"533.81","clientWisePositionLimits":"850444","optionType":"-","highPrice":"548.15","dailyVolatility":"1.83","bestSell":"-27.38","marketLot":"1500","sellQuantity5":"1,500","marketWidePositionLimits":"17008889","sellQuantity4":"1,500","sellQuantity3":"1,500","sellQuantity2":"1,500","underlying":"GODREJIND","sellQuantity1":"1,500","pChange":"-1.11","premiumTurnover":"-","totalBuyQuantity":"2,20,500","turnoverinRsLakhs":"8,487.58","changeinOpenInterest":"1,00,500","strikePrice":"-","openInterest":"12,34,500","buyPrice2":"531.90","buyPrice1":"532.10","openPrice":"543.10","prevClose":"539.50","expiryDate":"27SEP2018","lowPrice":"525.00","buyPrice4":"531.80","buyPrice3":"531.85","buyPrice5":"531.65","numberOfContractsTraded":"1,060","instrumentType":"FUTSTK","sellPrice1":"533.10","sellPrice2":"533.15","sellPrice3":"533.20","sellPrice4":"533.30","sellPrice5":"533.45","change":"-6.00","pchangeinOpenInterest":"8.86","ltp":"-","impliedVolatility":"-","underlyingValue":"533.50","buyQuantity4":"4,500","buyQuantity3":"1,500","buyQuantity2":"1,500","buyQuantity1":"1,500","buyQuantity5":"1,500","settlementPrice":"539.50","closePrice":"0.00","lastPrice":"533.50"}],"companyName":"Godrej Industries Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=GODREJIND&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

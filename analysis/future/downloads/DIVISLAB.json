@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=DIVISLAB","data":[{"annualisedVolatility":"40.59","bestBuy":"77.93","totalSellQuantity":"2,65,600","vwap":"1,406.21","clientWisePositionLimits":"1273423","optionType":"-","highPrice":"1,429.60","dailyVolatility":"2.12","bestSell":"96.39","marketLot":"800","sellQuantity5":"800","marketWidePositionLimits":"25468469","sellQuantity4":"2,400","sellQuantity3":"800","sellQuantity2":"800","underlying":"DIVISLAB","sellQuantity1":"800","pChange":"-0.62","premiumTurnover":"-","totalBuyQuantity":"1,68,000","turnoverinRsLakhs":"65,821.88","changeinOpenInterest":"2,05,600","strikePrice":"-","openInterest":"15,68,000","buyPrice2":"1,383.15","buyPrice1":"1,383.20","openPrice":"1,406.50","prevClose":"1,392.60","expiryDate":"27SEP2018","lowPrice":"1,375.85","buyPrice4":"1,383.00","buyPrice3":"1,383.10","buyPrice5":"1,382.20","numberOfContractsTraded":"5,851","instrumentType":"FUTSTK","sellPrice1":"1,383.90","sellPrice2":"1,384.00","sellPrice3":"1,384.20","sellPrice4":"1,385.00","sellPrice5":"1,385.10","change":"-8.70","pchangeinOpenInterest":"15.09","ltp":"96.39","impliedVolatility":"-","underlyingValue":"1,380.25","buyQuantity4":"1,600","buyQuantity3":"800","buyQuantity2":"800","buyQuantity1":"800","buyQuantity5":"800","settlementPrice":"1392.60","closePrice":"0.00","lastPrice":"1,383.90"}],"companyName":"Divi's Laboratories Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=DIVISLAB&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

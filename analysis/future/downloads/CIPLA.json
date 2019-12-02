@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=CIPLA","data":[{"annualisedVolatility":"25.55","bestBuy":"-130.42","totalSellQuantity":"2,84,000","vwap":"667.62","clientWisePositionLimits":"5081953","optionType":"-","highPrice":"674.00","dailyVolatility":"1.34","bestSell":"-108.65","marketLot":"1000","sellQuantity5":"2,000","marketWidePositionLimits":"101639067","sellQuantity4":"2,000","sellQuantity3":"8,000","sellQuantity2":"1,000","underlying":"CIPLA","sellQuantity1":"1,000","pChange":"1.69","premiumTurnover":"-","totalBuyQuantity":"3,92,000","turnoverinRsLakhs":"43,695.73","changeinOpenInterest":"5,90,000","strikePrice":"-","openInterest":"92,00,000","buyPrice2":"670.45","buyPrice1":"670.50","openPrice":"662.70","prevClose":"659.75","expiryDate":"27SEP2018","lowPrice":"658.90","buyPrice4":"670.30","buyPrice3":"670.35","buyPrice5":"670.25","numberOfContractsTraded":"6,545","instrumentType":"FUTSTK","sellPrice1":"670.90","sellPrice2":"670.95","sellPrice3":"671.00","sellPrice4":"671.15","sellPrice5":"671.20","change":"11.15","pchangeinOpenInterest":"6.85","ltp":"-108.65","impliedVolatility":"-","underlyingValue":"672.90","buyQuantity4":"3,000","buyQuantity3":"1,000","buyQuantity2":"1,000","buyQuantity1":"2,000","buyQuantity5":"1,000","settlementPrice":"659.75","closePrice":"0.00","lastPrice":"670.90"}],"companyName":"Cipla Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=CIPLA&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

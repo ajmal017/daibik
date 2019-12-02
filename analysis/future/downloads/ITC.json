@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=ITC","data":[{"annualisedVolatility":"27.88","bestBuy":"24.84","totalSellQuantity":"75,12,000","vwap":"294.53","clientWisePositionLimits":"121831173","optionType":"-","highPrice":"302.80","dailyVolatility":"1.46","bestSell":"37.26","marketLot":"2400","sellQuantity5":"9,600","marketWidePositionLimits":"2436623472","sellQuantity4":"12,000","sellQuantity3":"2,400","sellQuantity2":"12,000","underlying":"ITC","sellQuantity1":"2,400","pChange":"-2.66","premiumTurnover":"-","totalBuyQuantity":"8,04,000","turnoverinRsLakhs":"1,00,969.60","changeinOpenInterest":"57,14,400","strikePrice":"-","openInterest":"5,27,52,000","buyPrice2":"293.90","buyPrice1":"293.95","openPrice":"301.90","prevClose":"302.10","expiryDate":"27SEP2018","lowPrice":"290.25","buyPrice4":"293.80","buyPrice3":"293.85","buyPrice5":"293.75","numberOfContractsTraded":"14,284","instrumentType":"FUTSTK","sellPrice1":"294.05","sellPrice2":"294.10","sellPrice3":"294.15","sellPrice4":"294.20","sellPrice5":"294.25","change":"-8.05","pchangeinOpenInterest":"12.15","ltp":"37.26","impliedVolatility":"-","underlyingValue":"293.75","buyQuantity4":"14,400","buyQuantity3":"12,000","buyQuantity2":"4,800","buyQuantity1":"4,800","buyQuantity5":"12,000","settlementPrice":"302.10","closePrice":"0.00","lastPrice":"294.05"}],"companyName":"ITC Limited","lastUpdateTime":"26-SEP-2018 15:19:29","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=ITC&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

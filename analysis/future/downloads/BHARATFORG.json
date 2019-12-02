@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=BHARATFORG","data":[{"annualisedVolatility":"39.38","bestBuy":"-23.36","totalSellQuantity":"3,08,400","vwap":"624.41","clientWisePositionLimits":"2525883","optionType":"-","highPrice":"631.75","dailyVolatility":"2.06","bestSell":"17.51","marketLot":"1200","sellQuantity5":"1,200","marketWidePositionLimits":"50517678","sellQuantity4":"1,200","sellQuantity3":"1,200","sellQuantity2":"1,200","underlying":"BHARATFORG","sellQuantity1":"1,200","pChange":"1.03","premiumTurnover":"-","totalBuyQuantity":"2,72,400","turnoverinRsLakhs":"28,570.50","changeinOpenInterest":"-4,28,400","strikePrice":"-","openInterest":"40,16,400","buyPrice2":"624.65","buyPrice1":"624.70","openPrice":"625.30","prevClose":"618.55","expiryDate":"27SEP2018","lowPrice":"619.65","buyPrice4":"624.20","buyPrice3":"624.25","buyPrice5":"624.05","numberOfContractsTraded":"3,813","instrumentType":"FUTSTK","sellPrice1":"625.40","sellPrice2":"625.45","sellPrice3":"625.50","sellPrice4":"625.70","sellPrice5":"625.90","change":"6.40","pchangeinOpenInterest":"-9.64","ltp":"-8.76","impliedVolatility":"-","underlyingValue":"625.10","buyQuantity4":"2,400","buyQuantity3":"2,400","buyQuantity2":"1,200","buyQuantity1":"1,200","buyQuantity5":"1,200","settlementPrice":"618.55","closePrice":"0.00","lastPrice":"624.95"}],"companyName":"Bharat Forge Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=BHARATFORG&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

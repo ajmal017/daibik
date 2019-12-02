@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=KPIT","data":[{"annualisedVolatility":"37.90","bestBuy":"-73.77","totalSellQuantity":"7,78,500","vwap":"243.14","clientWisePositionLimits":"1525378","optionType":"-","highPrice":"268.10","dailyVolatility":"1.98","bestSell":"-36.86","marketLot":"4500","sellQuantity5":"4,500","marketWidePositionLimits":"30507564","sellQuantity4":"9,000","sellQuantity3":"4,500","sellQuantity2":"4,500","underlying":"KPIT","sellQuantity1":"4,500","pChange":"-7.38","premiumTurnover":"-","totalBuyQuantity":"13,23,000","turnoverinRsLakhs":"40,165.51","changeinOpenInterest":"-5,71,500","strikePrice":"-","openInterest":"32,62,500","buyPrice2":"247.10","buyPrice1":"247.15","openPrice":"268.00","prevClose":"266.90","expiryDate":"27SEP2018","lowPrice":"223.10","buyPrice4":"247.00","buyPrice3":"247.05","buyPrice5":"246.95","numberOfContractsTraded":"3,671","instrumentType":"FUTSTK","sellPrice1":"247.40","sellPrice2":"247.45","sellPrice3":"247.50","sellPrice4":"247.55","sellPrice5":"247.60","change":"-19.70","pchangeinOpenInterest":"-14.91","ltp":"-66.38","impliedVolatility":"-","underlyingValue":"247.65","buyQuantity4":"9,000","buyQuantity3":"4,500","buyQuantity2":"4,500","buyQuantity1":"4,500","buyQuantity5":"9,000","settlementPrice":"266.90","closePrice":"0.00","lastPrice":"247.20"}],"companyName":"KPIT Technologies Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=KPIT&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

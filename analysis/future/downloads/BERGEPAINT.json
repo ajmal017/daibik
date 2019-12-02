@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=BERGEPAINT","data":[{"annualisedVolatility":"35.46","bestBuy":"-24.67","totalSellQuantity":"4,20,200","vwap":"297.68","clientWisePositionLimits":"2428903","optionType":"-","highPrice":"305.00","dailyVolatility":"1.86","bestSell":"24.65","marketLot":"2200","sellQuantity5":"4,400","marketWidePositionLimits":"48578062","sellQuantity4":"2,200","sellQuantity3":"2,200","sellQuantity2":"2,200","underlying":"BERGEPAINT","sellQuantity1":"2,200","pChange":"-1.15","premiumTurnover":"-","totalBuyQuantity":"2,75,000","turnoverinRsLakhs":"3,320.32","changeinOpenInterest":"-2,44,200","strikePrice":"-","openInterest":"7,37,000","buyPrice2":"295.75","buyPrice1":"295.80","openPrice":"302.45","prevClose":"299.60","expiryDate":"27SEP2018","lowPrice":"294.10","buyPrice4":"295.40","buyPrice3":"295.50","buyPrice5":"295.25","numberOfContractsTraded":"507","instrumentType":"FUTSTK","sellPrice1":"296.20","sellPrice2":"296.25","sellPrice3":"296.40","sellPrice4":"296.45","sellPrice5":"296.60","change":"-3.45","pchangeinOpenInterest":"-24.89","ltp":"18.49","impliedVolatility":"-","underlyingValue":"296.00","buyQuantity4":"4,400","buyQuantity3":"2,200","buyQuantity2":"4,400","buyQuantity1":"2,200","buyQuantity5":"2,200","settlementPrice":"299.60","closePrice":"0.00","lastPrice":"296.15"}],"companyName":"Berger Paints (I) Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=BERGEPAINT&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

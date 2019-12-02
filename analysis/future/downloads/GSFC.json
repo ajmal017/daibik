@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=GSFC","data":[{"annualisedVolatility":"47.75","bestBuy":"-74.30","totalSellQuantity":"679,500","vwap":"99.00","clientWisePositionLimits":"2476776","optionType":"-","highPrice":"100.75","dailyVolatility":"2.50","bestSell":"18.55","marketLot":"4500","sellQuantity5":"4,500","marketWidePositionLimits":"49535525","sellQuantity4":"4,500","sellQuantity3":"13,500","sellQuantity2":"4,500","underlying":"GSFC","sellQuantity1":"4,500","pChange":"-0.41","premiumTurnover":"-","totalBuyQuantity":"5,31,000","turnoverinRsLakhs":"7,720.52","changeinOpenInterest":"31,500","strikePrice":"-","openInterest":"74,02,500","buyPrice2":"98.10","buyPrice1":"98.15","openPrice":"100.00","prevClose":"98.70","expiryDate":"27SEP2018","lowPrice":"96.85","buyPrice4":"98.00","buyPrice3":"98.05","buyPrice5":"97.95","numberOfContractsTraded":"1,733","instrumentType":"FUTSTK","sellPrice1":"98.40","sellPrice2":"98.45","sellPrice3":"98.50","sellPrice4":"98.55","sellPrice5":"98.60","change":"-0.40","pchangeinOpenInterest":"0.43","ltp":"-18.56","impliedVolatility":"-","underlyingValue":"98.35","buyQuantity4":"9,000","buyQuantity3":"9,000","buyQuantity2":"4,500","buyQuantity1":"9,000","buyQuantity5":"4,500","settlementPrice":"98.70","closePrice":"0.00","lastPrice":"98.30"}],"companyName":"Gujarat State Fertilizers & Chemicals Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=GSFC&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

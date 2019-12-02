@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=ANDHRABANK","data":[{"annualisedVolatility":"59.36","bestBuy":"60.28","totalSellQuantity":"16,64,000","vwap":"29.80","clientWisePositionLimits":"2638532","optionType":"-","highPrice":"30.55","dailyVolatility":"3.11","bestSell":"180.54","marketLot":"13000","sellQuantity5":"26,000","marketWidePositionLimits":"52770642","sellQuantity4":"26,000","sellQuantity3":"39,000","sellQuantity2":"78,000","underlying":"ANDHRABANK","sellQuantity1":"26,000","pChange":"-1.14","premiumTurnover":"-","totalBuyQuantity":"19,50,000","turnoverinRsLakhs":"2,107.46","changeinOpenInterest":"8,19,000","strikePrice":"-","openInterest":"84,50,000","buyPrice2":"30.25","buyPrice1":"30.30","openPrice":"30.30","prevClose":"30.65","expiryDate":"27SEP2018","lowPrice":"29.00","buyPrice4":"30.15","buyPrice3":"30.20","buyPrice5":"30.10","numberOfContractsTraded":"544","instrumentType":"FUTSTK","sellPrice1":"30.40","sellPrice2":"30.45","sellPrice3":"30.50","sellPrice4":"30.55","sellPrice5":"30.60","change":"-0.35","pchangeinOpenInterest":"10.73","ltp":"60.28","impliedVolatility":"-","underlyingValue":"30.25","buyQuantity4":"39,000","buyQuantity3":"39,000","buyQuantity2":"26,000","buyQuantity1":"52,000","buyQuantity5":"26,000","settlementPrice":"30.65","closePrice":"0.00","lastPrice":"30.30"}],"companyName":"Andhra Bank","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=ANDHRABANK&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

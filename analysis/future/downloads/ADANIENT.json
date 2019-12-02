@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=ADANIENT","data":[{"annualisedVolatility":"68.79","bestBuy":"-","totalSellQuantity":"11,76,000","vwap":"136.86","clientWisePositionLimits":"2758466","optionType":"-","highPrice":"143.00","dailyVolatility":"3.60","bestSell":"53.42","marketLot":"4000","sellQuantity5":"8,000","marketWidePositionLimits":"55169320","sellQuantity4":"4,000","sellQuantity3":"8,000","sellQuantity2":"8,000","underlying":"ADANIENT","sellQuantity1":"4,000","pChange":"-2.36","premiumTurnover":"-","totalBuyQuantity":"6,64,000","turnoverinRsLakhs":"20,879.36","changeinOpenInterest":"-24,88,000","strikePrice":"-","openInterest":"58,60,000","buyPrice2":"136.50","buyPrice1":"136.55","openPrice":"142.20","prevClose":"139.90","expiryDate":"27SEP2018","lowPrice":"134.00","buyPrice4":"136.40","buyPrice3":"136.45","buyPrice5":"136.35","numberOfContractsTraded":"3,814","instrumentType":"FUTSTK","sellPrice1":"136.75","sellPrice2":"136.80","sellPrice3":"136.85","sellPrice4":"136.90","sellPrice5":"136.95","change":"-3.30","pchangeinOpenInterest":"-29.80","ltp":"13.36","impliedVolatility":"-","underlyingValue":"136.55","buyQuantity4":"12,000","buyQuantity3":"4,000","buyQuantity2":"8,000","buyQuantity1":"8,000","buyQuantity5":"12,000","settlementPrice":"139.90","closePrice":"0.00","lastPrice":"136.60"}],"companyName":"Adani Enterprises Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=ADANIENT&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

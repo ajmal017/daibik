@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=RCOM","data":[{"annualisedVolatility":"101.99","bestBuy":"-","totalSellQuantity":"9,52,000","vwap":"11.98","clientWisePositionLimits":"12733404","optionType":"-","highPrice":"13.20","dailyVolatility":"5.34","bestSell":"141.20","marketLot":"28000","sellQuantity5":"1,12,000","marketWidePositionLimits":"254668091","sellQuantity4":"28,000","sellQuantity3":"2,52,000","sellQuantity2":"1,68,000","underlying":"RCOM","sellQuantity1":"1,96,000","pChange":"12.17","premiumTurnover":"-","totalBuyQuantity":"19,04,000","turnoverinRsLakhs":"8,895.87","changeinOpenInterest":"-1,12,28,000","strikePrice":"-","openInterest":"4,83,56,000","buyPrice2":"12.85","buyPrice1":"12.90","openPrice":"11.70","prevClose":"11.50","expiryDate":"27SEP2018","lowPrice":"11.45","buyPrice4":"12.75","buyPrice3":"12.80","buyPrice5":"12.70","numberOfContractsTraded":"2,652","instrumentType":"FUTSTK","sellPrice1":"12.95","sellPrice2":"13.00","sellPrice3":"13.05","sellPrice4":"13.10","sellPrice5":"13.15","change":"1.40","pchangeinOpenInterest":"-18.84","ltp":"-","impliedVolatility":"-","underlyingValue":"12.90","buyQuantity4":"84,000","buyQuantity3":"1,96,000","buyQuantity2":"2,52,000","buyQuantity1":"56,000","buyQuantity5":"84,000","settlementPrice":"11.50","closePrice":"0.00","lastPrice":"12.90"}],"companyName":"Reliance Communications Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=RCOM&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=POWERGRID","data":[{"annualisedVolatility":"35.32","bestBuy":"18.86","totalSellQuantity":"7,04,000","vwap":"190.70","clientWisePositionLimits":"22876774","optionType":"-","highPrice":"194.10","dailyVolatility":"1.85","bestSell":"37.71","marketLot":"4000","sellQuantity5":"8,000","marketWidePositionLimits":"457535493","sellQuantity4":"16,000","sellQuantity3":"16,000","sellQuantity2":"4,000","underlying":"POWERGRID","sellQuantity1":"4,000","pChange":"0.03","premiumTurnover":"-","totalBuyQuantity":"8,48,000","turnoverinRsLakhs":"26,286.09","changeinOpenInterest":"31,96,000","strikePrice":"-","openInterest":"1,76,08,000","buyPrice2":"193.55","buyPrice1":"193.60","openPrice":"193.55","prevClose":"193.55","expiryDate":"27SEP2018","lowPrice":"188.65","buyPrice4":"193.45","buyPrice3":"193.50","buyPrice5":"193.40","numberOfContractsTraded":"3,446","instrumentType":"FUTSTK","sellPrice1":"193.70","sellPrice2":"193.75","sellPrice3":"193.80","sellPrice4":"193.85","sellPrice5":"193.90","change":"0.05","pchangeinOpenInterest":"22.18","ltp":"18.86","impliedVolatility":"-","underlyingValue":"193.50","buyQuantity4":"12,000","buyQuantity3":"16,000","buyQuantity2":"12,000","buyQuantity1":"4,000","buyQuantity5":"4,000","settlementPrice":"193.55","closePrice":"0.00","lastPrice":"193.60"}],"companyName":"Power Grid Corporation of India Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=POWERGRID&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=CAPF","data":[{"annualisedVolatility":"53.11","bestBuy":"-17.61","totalSellQuantity":"1,53,600","vwap":"519.35","clientWisePositionLimits":"638377","optionType":"-","highPrice":"527.30","dailyVolatility":"2.78","bestSell":"17.60","marketLot":"800","sellQuantity5":"800","marketWidePositionLimits":"12767558","sellQuantity4":"800","sellQuantity3":"800","sellQuantity2":"800","underlying":"CAPF","sellQuantity1":"800","pChange":"1.22","premiumTurnover":"-","totalBuyQuantity":"1,49,600","turnoverinRsLakhs":"13,478.17","changeinOpenInterest":"1,52,800","strikePrice":"-","openInterest":"25,29,600","buyPrice2":"517.95","buyPrice1":"518.00","openPrice":"516.20","prevClose":"512.10","expiryDate":"27SEP2018","lowPrice":"506.50","buyPrice4":"517.85","buyPrice3":"517.90","buyPrice5":"517.50","numberOfContractsTraded":"3,244","instrumentType":"FUTSTK","sellPrice1":"518.50","sellPrice2":"518.55","sellPrice3":"518.60","sellPrice4":"518.80","sellPrice5":"518.90","change":"6.25","pchangeinOpenInterest":"6.43","ltp":"7.04","impliedVolatility":"-","underlyingValue":"518.25","buyQuantity4":"800","buyQuantity3":"800","buyQuantity2":"800","buyQuantity1":"800","buyQuantity5":"1,600","settlementPrice":"512.10","closePrice":"0.00","lastPrice":"518.35"}],"companyName":"Capital First Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=CAPF&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

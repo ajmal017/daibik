@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=GMRINFRA","data":[{"annualisedVolatility":"65.29","bestBuy":"-208.57","totalSellQuantity":"40,95,000","vwap":"17.18","clientWisePositionLimits":"22520936","optionType":"-","highPrice":"17.55","dailyVolatility":"3.42","bestSell":"-104.14","marketLot":"45000","sellQuantity5":"5,85,000","marketWidePositionLimits":"450418739","sellQuantity4":"270,000","sellQuantity3":"4,50,000","sellQuantity2":"4,05,000","underlying":"GMRINFRA","sellQuantity1":"2,25,000","pChange":"3.86","premiumTurnover":"-","totalBuyQuantity":"42,30,000","turnoverinRsLakhs":"16,266.02","changeinOpenInterest":"-2,25,000","strikePrice":"-","openInterest":"17,28,45,000","buyPrice2":"17.40","buyPrice1":"17.45","openPrice":"16.95","prevClose":"16.85","expiryDate":"27SEP2018","lowPrice":"16.75","buyPrice4":"17.30","buyPrice3":"17.35","buyPrice5":"17.25","numberOfContractsTraded":"2,104","instrumentType":"FUTSTK","sellPrice1":"17.50","sellPrice2":"17.55","sellPrice3":"17.60","sellPrice4":"17.65","sellPrice5":"17.70","change":"0.65","pchangeinOpenInterest":"-0.13","ltp":"-104.14","impliedVolatility":"-","underlyingValue":"17.55","buyQuantity4":"2,70,000","buyQuantity3":"9,00,000","buyQuantity2":"4,05,000","buyQuantity1":"3,60,000","buyQuantity5":"2,70,000","settlementPrice":"16.85","closePrice":"0.00","lastPrice":"17.50"}],"companyName":"GMR Infrastructure Limited","lastUpdateTime":"26-SEP-2018 15:19:29","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=GMRINFRA&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

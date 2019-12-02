@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=VGUARD","data":[{"annualisedVolatility":"42.12","bestBuy":"-","totalSellQuantity":"4,74,000","vwap":"183.94","clientWisePositionLimits":"1520543","optionType":"-","highPrice":"187.40","dailyVolatility":"2.20","bestSell":"60.28","marketLot":"3000","sellQuantity5":"6,000","marketWidePositionLimits":"30410874","sellQuantity4":"3,000","sellQuantity3":"3,000","sellQuantity2":"6,000","underlying":"VGUARD","sellQuantity1":"6,000","pChange":"-0.52","premiumTurnover":"-","totalBuyQuantity":"3,39,000","turnoverinRsLakhs":"3,537.17","changeinOpenInterest":"-3,09,000","strikePrice":"-","openInterest":"16,17,000","buyPrice2":"181.40","buyPrice1":"181.50","openPrice":"183.95","prevClose":"182.60","expiryDate":"27SEP2018","lowPrice":"179.75","buyPrice4":"181.30","buyPrice3":"181.35","buyPrice5":"181.25","numberOfContractsTraded":"641","instrumentType":"FUTSTK","sellPrice1":"181.80","sellPrice2":"181.85","sellPrice3":"182.00","sellPrice4":"182.15","sellPrice5":"182.20","change":"-0.95","pchangeinOpenInterest":"-16.04","ltp":"30.15","impliedVolatility":"-","underlyingValue":"181.50","buyQuantity4":"3,000","buyQuantity3":"3,000","buyQuantity2":"3,000","buyQuantity1":"3,000","buyQuantity5":"3,000","settlementPrice":"182.60","closePrice":"0.00","lastPrice":"181.65"}],"companyName":"V-Guard Industries Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=VGUARD&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

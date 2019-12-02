@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=EXIDEIND","data":[{"annualisedVolatility":"31.07","bestBuy":"-287.38","totalSellQuantity":"5,88,000","vwap":"266.07","clientWisePositionLimits":"4590453","optionType":"-","highPrice":"274.40","dailyVolatility":"1.63","bestSell":"-253.84","marketLot":"4000","sellQuantity5":"12,000","marketWidePositionLimits":"91809066","sellQuantity4":"4,000","sellQuantity3":"4,000","sellQuantity2":"8,000","underlying":"EXIDEIND","sellQuantity1":"4,000","pChange":"5.82","premiumTurnover":"-","totalBuyQuantity":"12,04,000","turnoverinRsLakhs":"26,394.14","changeinOpenInterest":"7,32,000","strikePrice":"-","openInterest":"53,12,000","buyPrice2":"271.95","buyPrice1":"272.00","openPrice":"257.35","prevClose":"257.05","expiryDate":"27SEP2018","lowPrice":"256.35","buyPrice4":"271.80","buyPrice3":"271.90","buyPrice5":"271.70","numberOfContractsTraded":"2,480","instrumentType":"FUTSTK","sellPrice1":"272.25","sellPrice2":"272.30","sellPrice3":"272.40","sellPrice4":"272.45","sellPrice5":"272.50","change":"14.95","pchangeinOpenInterest":"15.98","ltp":"-287.38","impliedVolatility":"-","underlyingValue":"274.15","buyQuantity4":"12,000","buyQuantity3":"4,000","buyQuantity2":"4,000","buyQuantity1":"4,000","buyQuantity5":"4,000","settlementPrice":"257.05","closePrice":"0.00","lastPrice":"272.00"}],"companyName":"Exide Industries Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=EXIDEIND&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

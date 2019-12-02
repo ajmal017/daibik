@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=IDEA","data":[{"annualisedVolatility":"57.70","bestBuy":"87.95","totalSellQuantity":"22,33,000","vwap":"40.95","clientWisePositionLimits":"25044281","optionType":"-","highPrice":"42.40","dailyVolatility":"3.02","bestSell":"131.85","marketLot":"7000","sellQuantity5":"77,000","marketWidePositionLimits":"500885623","sellQuantity4":"70,000","sellQuantity3":"35,000","sellQuantity2":"42,000","underlying":"IDEA","sellQuantity1":"14,000","pChange":"2.34","premiumTurnover":"-","totalBuyQuantity":"19,18,000","turnoverinRsLakhs":"30,674.42","changeinOpenInterest":"-1,86,97,000","strikePrice":"-","openInterest":"6,27,41,000","buyPrice2":"41.50","buyPrice1":"41.55","openPrice":"41.45","prevClose":"40.60","expiryDate":"27SEP2018","lowPrice":"40.30","buyPrice4":"41.40","buyPrice3":"41.45","buyPrice5":"41.35","numberOfContractsTraded":"10,701","instrumentType":"FUTSTK","sellPrice1":"41.60","sellPrice2":"41.65","sellPrice3":"41.70","sellPrice4":"41.75","sellPrice5":"41.80","change":"0.95","pchangeinOpenInterest":"-22.96","ltp":"87.95","impliedVolatility":"-","underlyingValue":"41.45","buyQuantity4":"56,000","buyQuantity3":"49,000","buyQuantity2":"42,000","buyQuantity1":"28,000","buyQuantity5":"98,000","settlementPrice":"40.60","closePrice":"0.00","lastPrice":"41.55"}],"companyName":"Vodafone Idea Limited","lastUpdateTime":"26-SEP-2018 15:19:29","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=IDEA&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=FEDERALBNK","data":[{"annualisedVolatility":"41.76","bestBuy":"-51.05","totalSellQuantity":"60,33,500","vwap":"71.70","clientWisePositionLimits":"19456460","optionType":"-","highPrice":"72.55","dailyVolatility":"2.19","bestSell":"-25.52","marketLot":"5500","sellQuantity5":"44,000","marketWidePositionLimits":"389129208","sellQuantity4":"16,500","sellQuantity3":"22,000","sellQuantity2":"22,000","underlying":"FEDERALBNK","sellQuantity1":"11,000","pChange":"-0.56","premiumTurnover":"-","totalBuyQuantity":"9,73,500","turnoverinRsLakhs":"21,223.92","changeinOpenInterest":"-67,26,500","strikePrice":"-","openInterest":"3,36,65,500","buyPrice2":"71.40","buyPrice1":"71.45","openPrice":"72.25","prevClose":"71.85","expiryDate":"27SEP2018","lowPrice":"70.35","buyPrice4":"71.30","buyPrice3":"71.35","buyPrice5":"71.25","numberOfContractsTraded":"5,382","instrumentType":"FUTSTK","sellPrice1":"71.50","sellPrice2":"71.55","sellPrice3":"71.60","sellPrice4":"71.65","sellPrice5":"71.70","change":"-0.40","pchangeinOpenInterest":"-16.65","ltp":"-51.05","impliedVolatility":"-","underlyingValue":"71.55","buyQuantity4":"82,500","buyQuantity3":"33,000","buyQuantity2":"27,500","buyQuantity1":"11,000","buyQuantity5":"11,000","settlementPrice":"71.85","closePrice":"0.00","lastPrice":"71.45"}],"companyName":"The Federal Bank  Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=FEDERALBNK&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

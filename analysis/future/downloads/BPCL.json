@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=BPCL","data":[{"annualisedVolatility":"45.02","bestBuy":"14.83","totalSellQuantity":"3,74,400","vwap":"365.80","clientWisePositionLimits":"10002499","optionType":"-","highPrice":"372.00","dailyVolatility":"2.36","bestSell":"39.54","marketLot":"1800","sellQuantity5":"1,800","marketWidePositionLimits":"200049995","sellQuantity4":"3,600","sellQuantity3":"3,600","sellQuantity2":"1,800","underlying":"BPCL","sellQuantity1":"1,800","pChange":"1.03","premiumTurnover":"-","totalBuyQuantity":"3,81,600","turnoverinRsLakhs":"30,821.58","changeinOpenInterest":"15,30,000","strikePrice":"-","openInterest":"82,78,200","buyPrice2":"369.10","buyPrice1":"369.15","openPrice":"369.00","prevClose":"365.45","expiryDate":"27SEP2018","lowPrice":"361.95","buyPrice4":"368.95","buyPrice3":"369.00","buyPrice5":"368.90","numberOfContractsTraded":"4,681","instrumentType":"FUTSTK","sellPrice1":"369.40","sellPrice2":"369.60","sellPrice3":"369.65","sellPrice4":"369.70","sellPrice5":"369.75","change":"3.75","pchangeinOpenInterest":"22.67","ltp":"19.78","impliedVolatility":"-","underlyingValue":"369.00","buyQuantity4":"1,800","buyQuantity3":"3,600","buyQuantity2":"3,600","buyQuantity1":"1,800","buyQuantity5":"3,600","settlementPrice":"365.45","closePrice":"0.00","lastPrice":"369.20"}],"companyName":"Bharat Petroleum Corporation Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=BPCL&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

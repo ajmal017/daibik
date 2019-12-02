@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=SUNTV","data":[{"annualisedVolatility":"47.17","bestBuy":"77.44","totalSellQuantity":"3,63,000","vwap":"646.71","clientWisePositionLimits":"985211","optionType":"-","highPrice":"655.20","dailyVolatility":"2.47","bestSell":"106.08","marketLot":"1000","sellQuantity5":"1,000","marketWidePositionLimits":"19704232","sellQuantity4":"3,000","sellQuantity3":"2,000","sellQuantity2":"1,000","underlying":"SUNTV","sellQuantity1":"1,000","pChange":"-0.61","premiumTurnover":"-","totalBuyQuantity":"1,91,000","turnoverinRsLakhs":"33,046.88","changeinOpenInterest":"37,000","strikePrice":"-","openInterest":"42,92,000","buyPrice2":"636.90","buyPrice1":"636.95","openPrice":"642.65","prevClose":"640.90","expiryDate":"27SEP2018","lowPrice":"634.05","buyPrice4":"636.60","buyPrice3":"636.75","buyPrice5":"636.55","numberOfContractsTraded":"5,110","instrumentType":"FUTSTK","sellPrice1":"637.45","sellPrice2":"637.50","sellPrice3":"637.80","sellPrice4":"637.85","sellPrice5":"637.90","change":"-3.90","pchangeinOpenInterest":"0.87","ltp":"80.31","impliedVolatility":"-","underlyingValue":"635.60","buyQuantity4":"1,000","buyQuantity3":"1,000","buyQuantity2":"1,000","buyQuantity1":"1,000","buyQuantity5":"1,000","settlementPrice":"640.90","closePrice":"0.00","lastPrice":"637.00"}],"companyName":"Sun TV Network Limited","lastUpdateTime":"26-SEP-2018 15:19:29","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=SUNTV&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

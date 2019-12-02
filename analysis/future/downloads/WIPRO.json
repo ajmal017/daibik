@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=WIPRO","data":[{"annualisedVolatility":"19.92","bestBuy":"68.43","totalSellQuantity":"5,01,600","vwap":"322.18","clientWisePositionLimits":"11397578","optionType":"-","highPrice":"328.20","dailyVolatility":"1.04","bestSell":"96.90","marketLot":"2400","sellQuantity5":"2,400","marketWidePositionLimits":"227951563","sellQuantity4":"4,800","sellQuantity3":"7,200","sellQuantity2":"7,200","underlying":"WIPRO","sellQuantity1":"2,400","pChange":"-2.38","premiumTurnover":"-","totalBuyQuantity":"5,68,800","turnoverinRsLakhs":"54,064.38","changeinOpenInterest":"52,92,000","strikePrice":"-","openInterest":"2,22,38,400","buyPrice2":"320.30","buyPrice1":"320.35","openPrice":"328.20","prevClose":"328.20","expiryDate":"27SEP2018","lowPrice":"317.15","buyPrice4":"320.20","buyPrice3":"320.25","buyPrice5":"320.10","numberOfContractsTraded":"6,992","instrumentType":"FUTSTK","sellPrice1":"320.60","sellPrice2":"320.65","sellPrice3":"320.70","sellPrice4":"320.75","sellPrice5":"320.80","change":"-7.80","pchangeinOpenInterest":"31.23","ltp":"74.12","impliedVolatility":"-","underlyingValue":"319.75","buyQuantity4":"4,800","buyQuantity3":"2,400","buyQuantity2":"2,400","buyQuantity1":"2,400","buyQuantity5":"2,400","settlementPrice":"328.20","closePrice":"0.00","lastPrice":"320.40"}],"companyName":"Wipro Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=WIPRO&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=SRTRANSFIN","data":[{"annualisedVolatility":"46.17","bestBuy":"-66.05","totalSellQuantity":"1,56,000","vwap":"1,185.59","clientWisePositionLimits":"1677097","optionType":"-","highPrice":"1,205.55","dailyVolatility":"2.42","bestSell":"-26.10","marketLot":"600","sellQuantity5":"600","marketWidePositionLimits":"33541942","sellQuantity4":"600","sellQuantity3":"600","sellQuantity2":"600","underlying":"SRTRANSFIN","sellQuantity1":"600","pChange":"1.21","premiumTurnover":"-","totalBuyQuantity":"1,38,000","turnoverinRsLakhs":"35,980.29","changeinOpenInterest":"6,90,000","strikePrice":"-","openInterest":"38,67,000","buyPrice2":"1,187.05","buyPrice1":"1,187.10","openPrice":"1,193.95","prevClose":"1,173.85","expiryDate":"27SEP2018","lowPrice":"1,164.00","buyPrice4":"1,186.80","buyPrice3":"1,187.00","buyPrice5":"1,186.25","numberOfContractsTraded":"5,058","instrumentType":"FUTSTK","sellPrice1":"1,188.40","sellPrice2":"1,188.45","sellPrice3":"1,188.50","sellPrice4":"1,188.85","sellPrice5":"1,189.40","change":"14.15","pchangeinOpenInterest":"21.72","ltp":"-38.38","impliedVolatility":"-","underlyingValue":"1,189.25","buyQuantity4":"600","buyQuantity3":"600","buyQuantity2":"600","buyQuantity1":"600","buyQuantity5":"600","settlementPrice":"1173.85","closePrice":"0.00","lastPrice":"1,188.00"}],"companyName":"Shriram Transport Finance Company Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=SRTRANSFIN&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

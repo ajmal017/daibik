@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=BAJAJ-AUTO","data":[{"annualisedVolatility":"33.11","bestBuy":"-33.58","totalSellQuantity":"73,000","vwap":"2,769.82","clientWisePositionLimits":"1467090","optionType":"-","highPrice":"2,808.00","dailyVolatility":"1.73","bestSell":"-7.90","marketLot":"250","sellQuantity5":"250","marketWidePositionLimits":"29341807","sellQuantity4":"250","sellQuantity3":"250","sellQuantity2":"250","underlying":"BAJAJ-AUTO","sellQuantity1":"250","pChange":"-0.70","premiumTurnover":"-","totalBuyQuantity":"51,500","turnoverinRsLakhs":"48,527.25","changeinOpenInterest":"4,81,500","strikePrice":"-","openInterest":"24,12,750","buyPrice2":"2,770.45","buyPrice1":"2,770.50","openPrice":"2,798.65","prevClose":"2,790.65","expiryDate":"27SEP2018","lowPrice":"2,748.40","buyPrice4":"2,770.35","buyPrice3":"2,770.40","buyPrice5":"2,770.10","numberOfContractsTraded":"7,008","instrumentType":"FUTSTK","sellPrice1":"2,772.45","sellPrice2":"2,772.70","sellPrice3":"2,772.95","sellPrice4":"2,773.00","sellPrice5":"2,773.30","change":"-19.60","pchangeinOpenInterest":"24.93","ltp":"-26.33","impliedVolatility":"-","underlyingValue":"2,773.05","buyQuantity4":"250","buyQuantity3":"250","buyQuantity2":"500","buyQuantity1":"500","buyQuantity5":"250","settlementPrice":"2790.65","closePrice":"0.00","lastPrice":"2,771.05"}],"companyName":"Bajaj Auto Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=BAJAJ-AUTO&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

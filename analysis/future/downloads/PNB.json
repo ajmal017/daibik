@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=PNB","data":[{"annualisedVolatility":"63.94","bestBuy":"81.44","totalSellQuantity":"75,40,500","vwap":"67.66","clientWisePositionLimits":"10421280","optionType":"-","highPrice":"69.30","dailyVolatility":"3.35","bestSell":"108.55","marketLot":"5500","sellQuantity5":"55,000","marketWidePositionLimits":"208425616","sellQuantity4":"77,000","sellQuantity3":"49,500","sellQuantity2":"66,000","underlying":"PNB","sellQuantity1":"44,000","pChange":"0.30","premiumTurnover":"-","totalBuyQuantity":"20,29,500","turnoverinRsLakhs":"72,520.69","changeinOpenInterest":"-76,89,000","strikePrice":"-","openInterest":"8,01,62,500","buyPrice2":"67.25","buyPrice1":"67.30","openPrice":"67.00","prevClose":"67.10","expiryDate":"27SEP2018","lowPrice":"66.35","buyPrice4":"67.15","buyPrice3":"67.20","buyPrice5":"67.10","numberOfContractsTraded":"19,488","instrumentType":"FUTSTK","sellPrice1":"67.35","sellPrice2":"67.40","sellPrice3":"67.45","sellPrice4":"67.50","sellPrice5":"67.55","change":"0.20","pchangeinOpenInterest":"-8.75","ltp":"81.44","impliedVolatility":"-","underlyingValue":"67.15","buyQuantity4":"49,500","buyQuantity3":"49,500","buyQuantity2":"49,500","buyQuantity1":"5,500","buyQuantity5":"55,000","settlementPrice":"67.10","closePrice":"0.00","lastPrice":"67.30"}],"companyName":"Punjab National Bank","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=PNB&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

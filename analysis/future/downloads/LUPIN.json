@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=LUPIN","data":[{"annualisedVolatility":"42.05","bestBuy":"-4.09","totalSellQuantity":"3,38,800","vwap":"896.78","clientWisePositionLimits":"2396103","optionType":"-","highPrice":"910.80","dailyVolatility":"2.20","bestSell":"16.36","marketLot":"700","sellQuantity5":"1,400","marketWidePositionLimits":"47922066","sellQuantity4":"1,400","sellQuantity3":"2,800","sellQuantity2":"700","underlying":"LUPIN","sellQuantity1":"700","pChange":"1.09","premiumTurnover":"-","totalBuyQuantity":"1,66,600","turnoverinRsLakhs":"68,694.24","changeinOpenInterest":"2,51,300","strikePrice":"-","openInterest":"66,17,800","buyPrice2":"892.25","buyPrice1":"892.30","openPrice":"895.45","prevClose":"883.10","expiryDate":"27SEP2018","lowPrice":"885.00","buyPrice4":"892.05","buyPrice3":"892.10","buyPrice5":"892.00","numberOfContractsTraded":"10,943","instrumentType":"FUTSTK","sellPrice1":"892.80","sellPrice2":"892.95","sellPrice3":"893.00","sellPrice4":"893.20","sellPrice5":"893.25","change":"9.60","pchangeinOpenInterest":"3.95","ltp":"12.27","impliedVolatility":"-","underlyingValue":"892.40","buyQuantity4":"7,000","buyQuantity3":"1,400","buyQuantity2":"700","buyQuantity1":"700","buyQuantity5":"700","settlementPrice":"883.10","closePrice":"0.00","lastPrice":"892.70"}],"companyName":"Lupin Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=LUPIN&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=ADANIPOWER","data":[{"annualisedVolatility":"84.83","bestBuy":"212.42","totalSellQuantity":"3,80,000","vwap":"25.21","clientWisePositionLimits":"9653263","optionType":"-","highPrice":"26.50","dailyVolatility":"4.44","bestSell":"353.34","marketLot":"20000","sellQuantity5":"20,000","marketWidePositionLimits":"193065274","sellQuantity4":"20,000","sellQuantity3":"40,000","sellQuantity2":"20,000","underlying":"ADANIPOWER","sellQuantity1":"40,000","pChange":"3.60","premiumTurnover":"-","totalBuyQuantity":"6,60,000","turnoverinRsLakhs":"9,720.98","changeinOpenInterest":"-23,40,000","strikePrice":"-","openInterest":"5,20,40,000","buyPrice2":"25.65","buyPrice1":"25.85","openPrice":"25.25","prevClose":"25.00","expiryDate":"27SEP2018","lowPrice":"24.65","buyPrice4":"25.25","buyPrice3":"25.55","buyPrice5":"25.05","numberOfContractsTraded":"1,928","instrumentType":"FUTSTK","sellPrice1":"25.95","sellPrice2":"26.00","sellPrice3":"26.15","sellPrice4":"26.30","sellPrice5":"26.35","change":"0.90","pchangeinOpenInterest":"-4.30","ltp":"282.95","impliedVolatility":"-","underlyingValue":"25.70","buyQuantity4":"40,000","buyQuantity3":"1,20,000","buyQuantity2":"20,000","buyQuantity1":"20,000","buyQuantity5":"60,000","settlementPrice":"25.00","closePrice":"0.00","lastPrice":"25.90"}],"companyName":"Adani Power Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=ADANIPOWER&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

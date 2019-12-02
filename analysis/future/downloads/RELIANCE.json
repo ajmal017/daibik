@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=RELIANCE","data":[{"annualisedVolatility":"27.67","bestBuy":"17.49","totalSellQuantity":"47,31,000","vwap":"1,239.24","clientWisePositionLimits":"32535160","optionType":"-","highPrice":"1,254.85","dailyVolatility":"1.45","bestSell":"26.23","marketLot":"1000","sellQuantity5":"1,000","marketWidePositionLimits":"650703200","sellQuantity4":"6,000","sellQuantity3":"2,000","sellQuantity2":"3,000","underlying":"RELIANCE","sellQuantity1":"2,000","pChange":"1.61","premiumTurnover":"-","totalBuyQuantity":"13,26,000","turnoverinRsLakhs":"2,85,322.62","changeinOpenInterest":"57,000","strikePrice":"-","openInterest":"2,87,14,000","buyPrice2":"1,252.40","buyPrice1":"1,252.50","openPrice":"1,242.00","prevClose":"1,232.80","expiryDate":"27SEP2018","lowPrice":"1,229.00","buyPrice4":"1,252.25","buyPrice3":"1,252.30","buyPrice5":"1,252.20","numberOfContractsTraded":"23,024","instrumentType":"FUTSTK","sellPrice1":"1,252.80","sellPrice2":"1,252.85","sellPrice3":"1,252.95","sellPrice4":"1,253.00","sellPrice5":"1,253.05","change":"19.80","pchangeinOpenInterest":"0.20","ltp":"20.40","impliedVolatility":"-","underlyingValue":"1,251.90","buyQuantity4":"1,000","buyQuantity3":"3,000","buyQuantity2":"2,000","buyQuantity1":"3,000","buyQuantity5":"1,000","settlementPrice":"1232.80","closePrice":"0.00","lastPrice":"1,252.60"}],"companyName":"Reliance Industries Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=RELIANCE&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

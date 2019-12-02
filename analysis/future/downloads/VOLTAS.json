@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=VOLTAS","data":[{"annualisedVolatility":"38.98","bestBuy":"111.56","totalSellQuantity":"2,43,000","vwap":"575.17","clientWisePositionLimits":"2306312","optionType":"-","highPrice":"585.90","dailyVolatility":"2.04","bestSell":"130.65","marketLot":"1000","sellQuantity5":"1,000","marketWidePositionLimits":"46126252","sellQuantity4":"1,000","sellQuantity3":"1,000","sellQuantity2":"1,000","underlying":"VOLTAS","sellQuantity1":"1,000","pChange":"-0.80","premiumTurnover":"-","totalBuyQuantity":"2,12,000","turnoverinRsLakhs":"21,810.45","changeinOpenInterest":"-5,45,000","strikePrice":"-","openInterest":"16,31,000","buyPrice2":"573.40","buyPrice1":"573.45","openPrice":"579.95","prevClose":"578.35","expiryDate":"27SEP2018","lowPrice":"566.45","buyPrice4":"573.05","buyPrice3":"573.20","buyPrice5":"573.00","numberOfContractsTraded":"3,792","instrumentType":"FUTSTK","sellPrice1":"573.75","sellPrice2":"573.80","sellPrice3":"573.85","sellPrice4":"574.10","sellPrice5":"574.20","change":"-4.65","pchangeinOpenInterest":"-25.05","ltp":"127.47","impliedVolatility":"-","underlyingValue":"571.70","buyQuantity4":"1,000","buyQuantity3":"1,000","buyQuantity2":"1,000","buyQuantity1":"1,000","buyQuantity5":"1,000","settlementPrice":"578.35","closePrice":"0.00","lastPrice":"573.70"}],"companyName":"Voltas Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=VOLTAS&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

@@ -1,0 +1,21 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"21NOV2018","eqLink":"","data":[{"annualisedVolatility":"19.47","bestBuy":"13.07","totalSellQuantity":"72,680","vwap":"26,263.86","clientWisePositionLimits":"3274419","optionType":"-","highPrice":"26,409.70","dailyVolatility":"1.02","bestSell":"14.30","marketLot":"20","sellQuantity5":"20","marketWidePositionLimits":"-","sellQuantity4":"40","sellQuantity3":"20","sellQuantity2":"20","underlying":"BANKNIFTY","sellQuantity1":"20","pChange":"0.70","premiumTurnover":"-","totalBuyQuantity":"1,48,220","turnoverinRsLakhs":"8,77,990.33","changeinOpenInterest":"1,88,320","strikePrice":"-","openInterest":"17,36,740","buyPrice2":"26,332.20","buyPrice1":"26,332.70","openPrice":"26,050.00","prevClose":"26,157.90","expiryDate":"29NOV2018","lowPrice":"26,050.00","buyPrice4":"26,331.10","buyPrice3":"26,331.20","buyPrice5":"26,330.75","numberOfContractsTraded":"1,67,148","instrumentType":"FUTIDX","sellPrice1":"26,339.75","sellPrice2":"26,339.85","sellPrice3":"26,340.05","sellPrice4":"26,340.15","sellPrice5":"26,340.40","change":"181.85","pchangeinOpenInterest":"12.16","ltp":"14.30","impliedVolatility":"-","underlyingValue":"26,257.35","buyQuantity4":"20","buyQuantity3":"20","buyQuantity2":"20","buyQuantity1":"40","buyQuantity5":"20","settlementPrice":"26157.90","closePrice":"0.00","lastPrice":"26,339.75"}],"companyName":"Nifty Bank","lastUpdateTime":"21-NOV-2018 15:30:31","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=BANKNIFTY&instrument=-&date=-&segmentLink=17&symbolCount=2"}

@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=JISLJALEQS","data":[{"annualisedVolatility":"57.94","bestBuy":"-47.84","totalSellQuantity":"18,18,000","vwap":"76.58","clientWisePositionLimits":"3186816","optionType":"-","highPrice":"77.70","dailyVolatility":"3.03","bestSell":"47.77","marketLot":"9000","sellQuantity5":"18,000","marketWidePositionLimits":"63736328","sellQuantity4":"18,000","sellQuantity3":"36,000","sellQuantity2":"18,000","underlying":"JISLJALEQS","sellQuantity1":"9,000","pChange":"1.46","premiumTurnover":"-","totalBuyQuantity":"13,14,000","turnoverinRsLakhs":"11,634.03","changeinOpenInterest":"-19,71,000","strikePrice":"-","openInterest":"1,74,33,000","buyPrice2":"76.20","buyPrice1":"76.25","openPrice":"75.70","prevClose":"75.30","expiryDate":"27SEP2018","lowPrice":"75.55","buyPrice4":"76.10","buyPrice3":"76.15","buyPrice5":"76.05","numberOfContractsTraded":"1,688","instrumentType":"FUTSTK","sellPrice1":"76.45","sellPrice2":"76.50","sellPrice3":"76.55","sellPrice4":"76.60","sellPrice5":"76.65","change":"1.10","pchangeinOpenInterest":"-10.16","ltp":"23.90","impliedVolatility":"-","underlyingValue":"76.35","buyQuantity4":"27,000","buyQuantity3":"18,000","buyQuantity2":"45,000","buyQuantity1":"45,000","buyQuantity5":"18,000","settlementPrice":"75.30","closePrice":"0.00","lastPrice":"76.40"}],"companyName":"Jain Irrigation Systems Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=JISLJALEQS&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

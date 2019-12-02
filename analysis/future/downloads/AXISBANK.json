@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=AXISBANK","data":[{"annualisedVolatility":"32.46","bestBuy":"-44.41","totalSellQuantity":"36,32,400","vwap":"618.49","clientWisePositionLimits":"16704017","optionType":"-","highPrice":"624.35","dailyVolatility":"1.70","bestSell":"-29.60","marketLot":"1200","sellQuantity5":"1,200","marketWidePositionLimits":"334080359","sellQuantity4":"2,400","sellQuantity3":"2,400","sellQuantity2":"2,400","underlying":"AXISBANK","sellQuantity1":"3,600","pChange":"0.05","premiumTurnover":"-","totalBuyQuantity":"4,06,800","turnoverinRsLakhs":"1,39,754.00","changeinOpenInterest":"49,86,000","strikePrice":"-","openInterest":"2,72,89,200","buyPrice2":"615.95","buyPrice1":"616.05","openPrice":"615.35","prevClose":"615.80","expiryDate":"27SEP2018","lowPrice":"612.00","buyPrice4":"615.85","buyPrice3":"615.90","buyPrice5":"615.80","numberOfContractsTraded":"18,830","instrumentType":"FUTSTK","sellPrice1":"616.30","sellPrice2":"616.35","sellPrice3":"616.40","sellPrice4":"616.45","sellPrice5":"616.50","change":"0.30","pchangeinOpenInterest":"22.36","ltp":"-41.45","impliedVolatility":"-","underlyingValue":"616.80","buyQuantity4":"1,200","buyQuantity3":"1,200","buyQuantity2":"1,200","buyQuantity1":"1,200","buyQuantity5":"6,000","settlementPrice":"615.80","closePrice":"0.00","lastPrice":"616.10"}],"companyName":"Axis Bank Limited","lastUpdateTime":"26-SEP-2018 15:19:29","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=AXISBANK&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

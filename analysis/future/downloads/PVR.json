@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=PVR","data":[{"annualisedVolatility":"44.38","bestBuy":"-152.05","totalSellQuantity":"61,200","vwap":"1,273.58","clientWisePositionLimits":"372732","optionType":"-","highPrice":"1,285.85","dailyVolatility":"2.32","bestSell":"-117.89","marketLot":"400","sellQuantity5":"400","marketWidePositionLimits":"7454656","sellQuantity4":"400","sellQuantity3":"400","sellQuantity2":"400","underlying":"PVR","sellQuantity1":"400","pChange":"2.23","premiumTurnover":"-","totalBuyQuantity":"66,400","turnoverinRsLakhs":"5,277.72","changeinOpenInterest":"43,600","strikePrice":"-","openInterest":"443,600","buyPrice2":"1,281.60","buyPrice1":"1,281.65","openPrice":"1,275.30","prevClose":"1,255.00","expiryDate":"27SEP2018","lowPrice":"1,249.20","buyPrice4":"1,280.25","buyPrice3":"1,280.70","buyPrice5":"1,280.00","numberOfContractsTraded":"1,036","instrumentType":"FUTSTK","sellPrice1":"1,282.85","sellPrice2":"1,282.90","sellPrice3":"1,283.10","sellPrice4":"1,283.25","sellPrice5":"1,283.75","change":"28.00","pchangeinOpenInterest":"10.90","ltp":"-113.62","impliedVolatility":"-","underlyingValue":"1,287.00","buyQuantity4":"400","buyQuantity3":"400","buyQuantity2":"800","buyQuantity1":"400","buyQuantity5":"400","settlementPrice":"1255.00","closePrice":"0.00","lastPrice":"1,283.00"}],"companyName":"PVR Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=PVR&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

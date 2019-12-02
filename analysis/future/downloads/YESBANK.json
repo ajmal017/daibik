@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=YESBANK","data":[{"annualisedVolatility":"156.32","bestBuy":"-32.65","totalSellQuantity":"55,61,500","vwap":"224.81","clientWisePositionLimits":"18450008","optionType":"-","highPrice":"229.65","dailyVolatility":"8.18","bestSell":"-8.16","marketLot":"1750","sellQuantity5":"7,000","marketWidePositionLimits":"369000169","sellQuantity4":"28,000","sellQuantity3":"28,000","sellQuantity2":"7,000","underlying":"YESBANK","sellQuantity1":"1,750","pChange":"1.64","premiumTurnover":"-","totalBuyQuantity":"9,73,000","turnoverinRsLakhs":"1,72,316.87","changeinOpenInterest":"-14,42,000","strikePrice":"-","openInterest":"5,86,25,000","buyPrice2":"223.45","buyPrice1":"223.50","openPrice":"222.60","prevClose":"220.05","expiryDate":"27SEP2018","lowPrice":"216.50","buyPrice4":"223.35","buyPrice3":"223.40","buyPrice5":"223.30","numberOfContractsTraded":"43,800","instrumentType":"FUTSTK","sellPrice1":"223.65","sellPrice2":"223.70","sellPrice3":"223.75","sellPrice4":"223.80","sellPrice5":"223.85","change":"3.60","pchangeinOpenInterest":"-2.40","ltp":"-8.16","impliedVolatility":"-","underlyingValue":"223.70","buyQuantity4":"8,750","buyQuantity3":"8,750","buyQuantity2":"12,250","buyQuantity1":"1,750","buyQuantity5":"26,250","settlementPrice":"220.05","closePrice":"0.00","lastPrice":"223.65"}],"companyName":"Yes Bank Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=YESBANK&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

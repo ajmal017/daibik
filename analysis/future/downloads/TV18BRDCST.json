@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=TV18BRDCST","data":[{"annualisedVolatility":"46.54","bestBuy":"48.38","totalSellQuantity":"19,21,000","vwap":"37.83","clientWisePositionLimits":"6494955","optionType":"-","highPrice":"38.60","dailyVolatility":"2.44","bestSell":"144.94","marketLot":"8500","sellQuantity5":"85,000","marketWidePositionLimits":"129899100","sellQuantity4":"1,36,000","sellQuantity3":"59,500","sellQuantity2":"68,000","underlying":"TV18BRDCST","sellQuantity1":"25,500","pChange":"-1.95","premiumTurnover":"-","totalBuyQuantity":"13,43,000","turnoverinRsLakhs":"6,945.59","changeinOpenInterest":"-6,46,000","strikePrice":"-","openInterest":"3,61,16,500","buyPrice2":"37.70","buyPrice1":"37.75","openPrice":"38.60","prevClose":"38.55","expiryDate":"27SEP2018","lowPrice":"37.00","buyPrice4":"37.60","buyPrice3":"37.65","buyPrice5":"37.55","numberOfContractsTraded":"2,160","instrumentType":"FUTSTK","sellPrice1":"37.85","sellPrice2":"37.90","sellPrice3":"37.95","sellPrice4":"38.00","sellPrice5":"38.05","change":"-0.75","pchangeinOpenInterest":"-1.76","ltp":"96.69","impliedVolatility":"-","underlyingValue":"37.70","buyQuantity4":"68,000","buyQuantity3":"17,000","buyQuantity2":"34,000","buyQuantity1":"17,000","buyQuantity5":"59,500","settlementPrice":"38.55","closePrice":"0.00","lastPrice":"37.80"}],"companyName":"TV18 Broadcast Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=TV18BRDCST&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

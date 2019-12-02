@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=PEL","data":[{"annualisedVolatility":"61.02","bestBuy":"114.58","totalSellQuantity":"91,506","vwap":"2,539.64","clientWisePositionLimits":"873173","optionType":"-","highPrice":"2,583.00","dailyVolatility":"3.19","bestSell":"143.35","marketLot":"302","sellQuantity5":"302","marketWidePositionLimits":"17463473","sellQuantity4":"604","sellQuantity3":"302","sellQuantity2":"302","underlying":"PEL","sellQuantity1":"906","pChange":"0.62","premiumTurnover":"-","totalBuyQuantity":"57,380","turnoverinRsLakhs":"49,592.36","changeinOpenInterest":"3,42,166","strikePrice":"-","openInterest":"19,88,066","buyPrice2":"2,535.70","buyPrice1":"2,536.45","openPrice":"2,543.95","prevClose":"2,521.15","expiryDate":"27SEP2018","lowPrice":"2,515.15","buyPrice4":"2,535.60","buyPrice3":"2,535.65","buyPrice5":"2,535.50","numberOfContractsTraded":"6,466","instrumentType":"FUTSTK","sellPrice1":"2,538.45","sellPrice2":"2,539.85","sellPrice3":"2,539.90","sellPrice4":"2,540.25","sellPrice5":"2,540.35","change":"15.75","pchangeinOpenInterest":"20.79","ltp":"121.06","impliedVolatility":"-","underlyingValue":"2,528.50","buyQuantity4":"302","buyQuantity3":"302","buyQuantity2":"302","buyQuantity1":"302","buyQuantity5":"302","settlementPrice":"2521.15","closePrice":"0.00","lastPrice":"2,536.90"}],"companyName":"Piramal Enterprises Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=PEL&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

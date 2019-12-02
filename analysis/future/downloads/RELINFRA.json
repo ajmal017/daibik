@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=RELINFRA","data":[{"annualisedVolatility":"85.61","bestBuy":"22.72","totalSellQuantity":"12,81,800","vwap":"320.76","clientWisePositionLimits":"1295342","optionType":"-","highPrice":"326.95","dailyVolatility":"4.48","bestSell":"62.45","marketLot":"1300","sellQuantity5":"3,900","marketWidePositionLimits":"25906845","sellQuantity4":"2,600","sellQuantity3":"1,300","sellQuantity2":"1,300","underlying":"RELINFRA","sellQuantity1":"1,300","pChange":"0.58","premiumTurnover":"-","totalBuyQuantity":"4,09,500","turnoverinRsLakhs":"30,565.22","changeinOpenInterest":"-5,21,300","strikePrice":"-","openInterest":"38,11,600","buyPrice2":"321.35","buyPrice1":"321.40","openPrice":"324.45","prevClose":"319.55","expiryDate":"27SEP2018","lowPrice":"313.35","buyPrice4":"321.25","buyPrice3":"321.30","buyPrice5":"321.20","numberOfContractsTraded":"7,330","instrumentType":"FUTSTK","sellPrice1":"321.75","sellPrice2":"321.80","sellPrice3":"321.90","sellPrice4":"321.95","sellPrice5":"322.00","change":"1.85","pchangeinOpenInterest":"-12.03","ltp":"22.72","impliedVolatility":"-","underlyingValue":"321.20","buyQuantity4":"6,500","buyQuantity3":"3,900","buyQuantity2":"1,300","buyQuantity1":"1,300","buyQuantity5":"1,300","settlementPrice":"319.55","closePrice":"0.00","lastPrice":"321.40"}],"companyName":"Reliance Infrastructure Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=RELINFRA&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

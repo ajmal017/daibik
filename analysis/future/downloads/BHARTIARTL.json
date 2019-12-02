@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=BHARTIARTL","data":[{"annualisedVolatility":"37.94","bestBuy":"30.27","totalSellQuantity":"4,25,000","vwap":"361.39","clientWisePositionLimits":"13118568","optionType":"-","highPrice":"365.50","dailyVolatility":"1.99","bestSell":"60.51","marketLot":"1700","sellQuantity5":"3,400","marketWidePositionLimits":"262371370","sellQuantity4":"8,500","sellQuantity3":"1,700","sellQuantity2":"1,700","underlying":"BHARTIARTL","sellQuantity1":"1,700","pChange":"0.39","premiumTurnover":"-","totalBuyQuantity":"3,91,000","turnoverinRsLakhs":"64,121.07","changeinOpenInterest":"51,44,200","strikePrice":"-","openInterest":"2,84,68,200","buyPrice2":"361.85","buyPrice1":"361.90","openPrice":"363.95","prevClose":"360.80","expiryDate":"27SEP2018","lowPrice":"357.30","buyPrice4":"361.75","buyPrice3":"361.80","buyPrice5":"361.70","numberOfContractsTraded":"10,437","instrumentType":"FUTSTK","sellPrice1":"362.20","sellPrice2":"362.25","sellPrice3":"362.30","sellPrice4":"362.40","sellPrice5":"362.45","change":"1.40","pchangeinOpenInterest":"22.06","ltp":"60.51","impliedVolatility":"-","underlyingValue":"361.60","buyQuantity4":"3,400","buyQuantity3":"3,400","buyQuantity2":"5,100","buyQuantity1":"5,100","buyQuantity5":"1,700","settlementPrice":"360.80","closePrice":"0.00","lastPrice":"362.20"}],"companyName":"Bharti Airtel Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=BHARTIARTL&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

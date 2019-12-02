@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=BEML","data":[{"annualisedVolatility":"53.85","bestBuy":"80.10","totalSellQuantity":"1,11,000","vwap":"662.45","clientWisePositionLimits":"191445","optionType":"-","highPrice":"674.00","dailyVolatility":"2.82","bestSell":"113.19","marketLot":"500","sellQuantity5":"500","marketWidePositionLimits":"3828900","sellQuantity4":"500","sellQuantity3":"500","sellQuantity2":"500","underlying":"BEML","sellQuantity1":"500","pChange":"2.53","premiumTurnover":"-","totalBuyQuantity":"93,500","turnoverinRsLakhs":"12,059.90","changeinOpenInterest":"-1,49,500","strikePrice":"-","openInterest":"9,97,000","buyPrice2":"661.15","buyPrice1":"661.50","openPrice":"640.95","prevClose":"645.45","expiryDate":"27SEP2018","lowPrice":"640.95","buyPrice4":"661.00","buyPrice3":"661.05","buyPrice5":"660.95","numberOfContractsTraded":"3,641","instrumentType":"FUTSTK","sellPrice1":"662.10","sellPrice2":"662.15","sellPrice3":"662.25","sellPrice4":"662.30","sellPrice5":"662.35","change":"16.30","pchangeinOpenInterest":"-13.04","ltp":"93.89","impliedVolatility":"-","underlyingValue":"660.05","buyQuantity4":"500","buyQuantity3":"1,000","buyQuantity2":"500","buyQuantity1":"500","buyQuantity5":"500","settlementPrice":"645.45","closePrice":"0.00","lastPrice":"661.75"}],"companyName":"BEML Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=BEML&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

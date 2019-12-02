@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=LICHSGFIN","data":[{"annualisedVolatility":"44.44","bestBuy":"88.52","totalSellQuantity":"4,20,200","vwap":"437.77","clientWisePositionLimits":"3012205","optionType":"-","highPrice":"444.70","dailyVolatility":"2.33","bestSell":"101.14","marketLot":"1100","sellQuantity5":"3,300","marketWidePositionLimits":"60244101","sellQuantity4":"2,200","sellQuantity3":"4,400","sellQuantity2":"1,100","underlying":"LICHSGFIN","sellQuantity1":"1,100","pChange":"-0.95","premiumTurnover":"-","totalBuyQuantity":"2,43,100","turnoverinRsLakhs":"29,841.47","changeinOpenInterest":"10,24,100","strikePrice":"-","openInterest":"95,00,700","buyPrice2":"433.45","buyPrice1":"433.50","openPrice":"440.70","prevClose":"437.60","expiryDate":"27SEP2018","lowPrice":"430.35","buyPrice4":"433.35","buyPrice3":"433.40","buyPrice5":"433.20","numberOfContractsTraded":"6,197","instrumentType":"FUTSTK","sellPrice1":"433.65","sellPrice2":"433.70","sellPrice3":"433.75","sellPrice4":"433.80","sellPrice5":"433.85","change":"-4.15","pchangeinOpenInterest":"12.08","ltp":"84.31","impliedVolatility":"-","underlyingValue":"432.45","buyQuantity4":"1,100","buyQuantity3":"4,400","buyQuantity2":"3,300","buyQuantity1":"1,100","buyQuantity5":"1,100","settlementPrice":"437.60","closePrice":"0.00","lastPrice":"433.45"}],"companyName":"LIC Housing Finance Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=LICHSGFIN&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

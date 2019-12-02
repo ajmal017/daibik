@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=UJJIVAN","data":[{"annualisedVolatility":"54.97","bestBuy":"38.64","totalSellQuantity":"3,58,400","vwap":"284.23","clientWisePositionLimits":"1209547","optionType":"-","highPrice":"290.35","dailyVolatility":"2.88","bestSell":"70.81","marketLot":"1600","sellQuantity5":"3,200","marketWidePositionLimits":"24190958","sellQuantity4":"3,200","sellQuantity3":"1,600","sellQuantity2":"1,600","underlying":"UJJIVAN","sellQuantity1":"1,600","pChange":"1.92","premiumTurnover":"-","totalBuyQuantity":"2,94,400","turnoverinRsLakhs":"11,505.63","changeinOpenInterest":"-1,58,400","strikePrice":"-","openInterest":"34,99,200","buyPrice2":"283.45","buyPrice1":"283.55","openPrice":"279.55","prevClose":"278.40","expiryDate":"27SEP2018","lowPrice":"278.10","buyPrice4":"283.30","buyPrice3":"283.35","buyPrice5":"283.25","numberOfContractsTraded":"2,530","instrumentType":"FUTSTK","sellPrice1":"283.80","sellPrice2":"284.00","sellPrice3":"284.05","sellPrice4":"284.10","sellPrice5":"284.15","change":"5.35","pchangeinOpenInterest":"-4.33","ltp":"64.37","impliedVolatility":"-","underlyingValue":"283.25","buyQuantity4":"1,600","buyQuantity3":"3,200","buyQuantity2":"1,600","buyQuantity1":"1,600","buyQuantity5":"1,600","settlementPrice":"278.40","closePrice":"0.00","lastPrice":"283.75"}],"companyName":"Ujjivan Financial Services Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=UJJIVAN&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=MRF","data":[{"annualisedVolatility":"30.06","bestBuy":"0.11","totalSellQuantity":"1,430","vwap":"66,356.52","clientWisePositionLimits":"30723","optionType":"-","highPrice":"67,103.95","dailyVolatility":"1.57","bestSell":"26.01","marketLot":"10","sellQuantity5":"10","marketWidePositionLimits":"614469","sellQuantity4":"20","sellQuantity3":"10","sellQuantity2":"10","underlying":"MRF","sellQuantity1":"20","pChange":"0.26","premiumTurnover":"-","totalBuyQuantity":"640","turnoverinRsLakhs":"8,380.83","changeinOpenInterest":"1,840","strikePrice":"-","openInterest":"23,190","buyPrice2":"66,350.00","buyPrice1":"66,350.05","openPrice":"66,679.75","prevClose":"66,207.20","expiryDate":"27SEP2018","lowPrice":"65,800.00","buyPrice4":"66,310.00","buyPrice3":"66,320.00","buyPrice5":"66,306.50","numberOfContractsTraded":"1,263","instrumentType":"FUTSTK","sellPrice1":"66,397.15","sellPrice2":"66,400.00","sellPrice3":"66,443.95","sellPrice4":"66,444.00","sellPrice5":"66,450.00","change":"172.35","pchangeinOpenInterest":"8.62","ltp":"16.33","impliedVolatility":"-","underlyingValue":"66,349.85","buyQuantity4":"20","buyQuantity3":"10","buyQuantity2":"10","buyQuantity1":"20","buyQuantity5":"10","settlementPrice":"66207.20","closePrice":"0.00","lastPrice":"66,379.55"}],"companyName":"MRF Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=MRF&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=JPASSOCIAT","data":[{"annualisedVolatility":"101.37","bestBuy":"-247.46","totalSellQuantity":"55,76,000","vwap":"7.26","clientWisePositionLimits":"14840386","optionType":"-","highPrice":"7.60","dailyVolatility":"5.31","bestSell":"-","marketLot":"34000","sellQuantity5":"4,08,000","marketWidePositionLimits":"296807730","sellQuantity4":"3,06,000","sellQuantity3":"9,86,000","sellQuantity2":"6,80,000","underlying":"JPASSOCIAT","sellQuantity1":"15,30,000","pChange":"2.78","premiumTurnover":"-","totalBuyQuantity":"87,72,000","turnoverinRsLakhs":"4,620.84","changeinOpenInterest":"-51,68,000","strikePrice":"-","openInterest":"8,60,20,000","buyPrice2":"7.30","buyPrice1":"7.35","openPrice":"7.25","prevClose":"7.20","expiryDate":"27SEP2018","lowPrice":"7.00","buyPrice4":"7.20","buyPrice3":"7.25","buyPrice5":"7.15","numberOfContractsTraded":"1,872","instrumentType":"FUTSTK","sellPrice1":"7.40","sellPrice2":"7.45","sellPrice3":"7.50","sellPrice4":"7.55","sellPrice5":"7.60","change":"0.20","pchangeinOpenInterest":"-5.67","ltp":"-","impliedVolatility":"-","underlyingValue":"7.40","buyQuantity4":"6,80,000","buyQuantity3":"7,48,000","buyQuantity2":"10,20,000","buyQuantity1":"8,84,000","buyQuantity5":"3,06,000","settlementPrice":"7.20","closePrice":"0.00","lastPrice":"7.40"}],"companyName":"Jaiprakash Associates Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=JPASSOCIAT&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

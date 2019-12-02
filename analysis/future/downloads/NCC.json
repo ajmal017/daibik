@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=NCC","data":[{"annualisedVolatility":"60.97","bestBuy":"-","totalSellQuantity":"19,92,000","vwap":"80.46","clientWisePositionLimits":"4918145","optionType":"-","highPrice":"81.30","dailyVolatility":"3.19","bestSell":"22.72","marketLot":"8000","sellQuantity5":"16,000","marketWidePositionLimits":"98362916","sellQuantity4":"40,000","sellQuantity3":"64,000","sellQuantity2":"16,000","underlying":"NCC","sellQuantity1":"8,000","pChange":"0.69","premiumTurnover":"-","totalBuyQuantity":"13,44,000","turnoverinRsLakhs":"16,207.86","changeinOpenInterest":"-32,000","strikePrice":"-","openInterest":"3,17,60,000","buyPrice2":"80.25","buyPrice1":"80.30","openPrice":"80.20","prevClose":"79.75","expiryDate":"27SEP2018","lowPrice":"79.60","buyPrice4":"80.15","buyPrice3":"80.20","buyPrice5":"80.10","numberOfContractsTraded":"2,518","instrumentType":"FUTSTK","sellPrice1":"80.35","sellPrice2":"80.40","sellPrice3":"80.45","sellPrice4":"80.50","sellPrice5":"80.55","change":"0.55","pchangeinOpenInterest":"-0.10","ltp":"-","impliedVolatility":"-","underlyingValue":"80.30","buyQuantity4":"16,000","buyQuantity3":"32,000","buyQuantity2":"16,000","buyQuantity1":"16,000","buyQuantity5":"32,000","settlementPrice":"79.75","closePrice":"0.00","lastPrice":"80.30"}],"companyName":"NCC Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=NCC&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=KTKBANK","data":[{"annualisedVolatility":"48.94","bestBuy":"-89.26","totalSellQuantity":"8,01,000","vwap":"101.58","clientWisePositionLimits":"2826076","optionType":"-","highPrice":"103.40","dailyVolatility":"2.56","bestSell":"-35.68","marketLot":"4500","sellQuantity5":"9,000","marketWidePositionLimits":"56521537","sellQuantity4":"13,500","sellQuantity3":"9,000","sellQuantity2":"9,000","underlying":"KTKBANK","sellQuantity1":"13,500","pChange":"0.34","premiumTurnover":"-","totalBuyQuantity":"8,68,500","turnoverinRsLakhs":"11,706.59","changeinOpenInterest":"-36,000","strikePrice":"-","openInterest":"1,07,01,000","buyPrice2":"102.05","buyPrice1":"102.10","openPrice":"102.75","prevClose":"101.80","expiryDate":"27SEP2018","lowPrice":"99.75","buyPrice4":"101.95","buyPrice3":"102.00","buyPrice5":"101.90","numberOfContractsTraded":"2,561","instrumentType":"FUTSTK","sellPrice1":"102.25","sellPrice2":"102.30","sellPrice3":"102.35","sellPrice4":"102.40","sellPrice5":"102.45","change":"0.35","pchangeinOpenInterest":"-0.34","ltp":"-71.39","impliedVolatility":"-","underlyingValue":"102.35","buyQuantity4":"4,500","buyQuantity3":"13,500","buyQuantity2":"9,000","buyQuantity1":"36,000","buyQuantity5":"4,500","settlementPrice":"101.80","closePrice":"0.00","lastPrice":"102.15"}],"companyName":"The Karnataka Bank Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=KTKBANK&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

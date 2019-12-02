@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=GRASIM","data":[{"annualisedVolatility":"36.01","bestBuy":"-50.61","totalSellQuantity":"1,49,250","vwap":"1,040.85","clientWisePositionLimits":"3939723","optionType":"-","highPrice":"1,051.00","dailyVolatility":"1.88","bestSell":"-15.70","marketLot":"750","sellQuantity5":"750","marketWidePositionLimits":"78794478","sellQuantity4":"750","sellQuantity3":"750","sellQuantity2":"750","underlying":"GRASIM","sellQuantity1":"750","pChange":"0.57","premiumTurnover":"-","totalBuyQuantity":"1,29,750","turnoverinRsLakhs":"22,685.33","changeinOpenInterest":"1,01,250","strikePrice":"-","openInterest":"32,55,750","buyPrice2":"1,045.00","buyPrice1":"1,045.05","openPrice":"1,037.00","prevClose":"1,041.10","expiryDate":"27SEP2018","lowPrice":"1,034.00","buyPrice4":"1,044.85","buyPrice3":"1,044.95","buyPrice5":"1,044.10","numberOfContractsTraded":"2,906","instrumentType":"FUTSTK","sellPrice1":"1,046.05","sellPrice2":"1,046.15","sellPrice3":"1,046.20","sellPrice4":"1,046.30","sellPrice5":"1,046.35","change":"5.95","pchangeinOpenInterest":"3.21","ltp":"19.18","impliedVolatility":"-","underlyingValue":"1,046.50","buyQuantity4":"1,500","buyQuantity3":"750","buyQuantity2":"750","buyQuantity1":"1,500","buyQuantity5":"2,250","settlementPrice":"1041.10","closePrice":"0.00","lastPrice":"1,047.05"}],"companyName":"Grasim Industries Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=GRASIM&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

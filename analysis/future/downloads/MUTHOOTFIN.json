@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=MUTHOOTFIN","data":[{"annualisedVolatility":"53.71","bestBuy":"-97.07","totalSellQuantity":"3,28,500","vwap":"426.40","clientWisePositionLimits":"1056275","optionType":"-","highPrice":"434.65","dailyVolatility":"2.81","bestSell":"-50.61","marketLot":"1500","sellQuantity5":"1,500","marketWidePositionLimits":"21125514","sellQuantity4":"1,500","sellQuantity3":"1,500","sellQuantity2":"1,500","underlying":"MUTHOOTFIN","sellQuantity1":"1,500","pChange":"0.92","premiumTurnover":"-","totalBuyQuantity":"3,45,000","turnoverinRsLakhs":"12,414.64","changeinOpenInterest":"-","strikePrice":"-","openInterest":"19,33,500","buyPrice2":"431.80","buyPrice1":"431.85","openPrice":"431.05","prevClose":"428.00","expiryDate":"27SEP2018","lowPrice":"416.25","buyPrice4":"431.55","buyPrice3":"431.65","buyPrice5":"431.35","numberOfContractsTraded":"1,941","instrumentType":"FUTSTK","sellPrice1":"432.40","sellPrice2":"432.45","sellPrice3":"432.60","sellPrice4":"432.80","sellPrice5":"432.85","change":"3.95","pchangeinOpenInterest":"-","ltp":"-88.62","impliedVolatility":"-","underlyingValue":"433.00","buyQuantity4":"1,500","buyQuantity3":"1,500","buyQuantity2":"10,500","buyQuantity1":"1,500","buyQuantity5":"1,500","settlementPrice":"428.00","closePrice":"0.00","lastPrice":"431.95"}],"companyName":"Muthoot Finance Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=MUTHOOTFIN&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

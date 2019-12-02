@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=DHFL","data":[{"annualisedVolatility":"282.27","bestBuy":"41.85","totalSellQuantity":"3,49,500","vwap":"304.74","clientWisePositionLimits":"1906091","optionType":"-","highPrice":"321.15","dailyVolatility":"14.77","bestSell":"83.66","marketLot":"1500","sellQuantity5":"1,500","marketWidePositionLimits":"38121826","sellQuantity4":"1,500","sellQuantity3":"1,500","sellQuantity2":"1,500","underlying":"DHFL","sellQuantity1":"1,500","pChange":"1.44","premiumTurnover":"-","totalBuyQuantity":"1,60,500","turnoverinRsLakhs":"83,555.14","changeinOpenInterest":"-35,49,000","strikePrice":"-","openInterest":"91,83,000","buyPrice2":"305.30","buyPrice1":"305.40","openPrice":"312.65","prevClose":"301.05","expiryDate":"27SEP2018","lowPrice":"277.75","buyPrice4":"304.75","buyPrice3":"304.80","buyPrice5":"304.20","numberOfContractsTraded":"18,279","instrumentType":"FUTSTK","sellPrice1":"305.75","sellPrice2":"305.80","sellPrice3":"306.00","sellPrice4":"306.55","sellPrice5":"306.60","change":"4.35","pchangeinOpenInterest":"-27.87","ltp":"41.85","impliedVolatility":"-","underlyingValue":"305.05","buyQuantity4":"1,500","buyQuantity3":"3,000","buyQuantity2":"1,500","buyQuantity1":"1,500","buyQuantity5":"1,500","settlementPrice":"301.05","closePrice":"0.00","lastPrice":"305.40"}],"companyName":"Dewan Housing Finance Corporation Limited","lastUpdateTime":"26-SEP-2018 15:19:29","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=DHFL&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

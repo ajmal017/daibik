@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=INFIBEAM","data":[{"annualisedVolatility":"141.58","bestBuy":"152.58","totalSellQuantity":"5,76,000","vwap":"215.30","clientWisePositionLimits":"4094512","optionType":"-","highPrice":"220.00","dailyVolatility":"7.41","bestSell":"194.85","marketLot":"4000","sellQuantity5":"4,000","marketWidePositionLimits":"81890244","sellQuantity4":"8,000","sellQuantity3":"4,000","sellQuantity2":"4,000","underlying":"INFIBEAM","sellQuantity1":"4,000","pChange":"0.05","premiumTurnover":"-","totalBuyQuantity":"32,00,000","turnoverinRsLakhs":"1,19,594.84","changeinOpenInterest":"-1,15,08,000","strikePrice":"-","openInterest":"2,91,00,000","buyPrice2":"215.70","buyPrice1":"215.75","openPrice":"216.10","prevClose":"215.90","expiryDate":"27SEP2018","lowPrice":"210.75","buyPrice4":"215.55","buyPrice3":"215.65","buyPrice5":"215.40","numberOfContractsTraded":"13,887","instrumentType":"FUTSTK","sellPrice1":"216.00","sellPrice2":"216.15","sellPrice3":"216.20","sellPrice4":"216.30","sellPrice5":"216.35","change":"0.10","pchangeinOpenInterest":"-28.34","ltp":"194.85","impliedVolatility":"-","underlyingValue":"214.85","buyQuantity4":"12,000","buyQuantity3":"4,000","buyQuantity2":"4,000","buyQuantity1":"4,000","buyQuantity5":"4,000","settlementPrice":"215.90","closePrice":"0.00","lastPrice":"216.00"}],"companyName":"Infibeam Avenues Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=INFIBEAM&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

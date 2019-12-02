@@ -1,0 +1,143 @@
+SELECT * FROM live_feed_stocks
+WHERE past_trend_continuation >= 3 AND no_of_dry_day >= 3
+ORDER BY total_percentage_volume DESC, past_trend_continuation DESC, no_of_dry_day DESC
+
+
+https://www.nseindia.com/live_market/dynaContent/live_watch/get_quote/GetQuoteFO.jsp?underlying=NIFTY&instrument=FUTIDX&expiry=27SEP2018&type=-&strike=-
+
+18/09/2018
+===============
+Sell    INFIBEAM
+		EICHERMOT
+		TVSMOTOR
+		POWERGRID
+		JINDALSTEL
+
+Buy     COALINDIA
+
+19/09/2018
+===============
+
+Buy Side AXISBANK  19-Sep-2018   0.15    1.26  2.79
+
+Buy Side HEROMOTOCO  19-Sep-2018   1.27    1.62  0.34
+
+Buy Side ICICIBANK  19-Sep-2018   0.67    1.29  3.01
+
+Buy Side INFRATEL  19-Sep-2018   1.66    2.81  3.51
+
+Buy Side ORIENTBANK  19-Sep-2018   1.04    3.94  0.00
+
+21/09/2018
+===============
+
+Buy Side STAR  21-Sep-2018   1.22    12.40  0
+
+Buy Side CIPLA  21-Sep-2018   0.04    3.09  0
+
+Sell Side DRREDDY  21-Sep-2018   1.15    -1.43   0
+
+Buy Side PAGEIND  21-Sep-2018   2.40    12.96  0
+
+Buy Side BHARTIARTL  21-Sep-2018   1.06    4.62  0
+
+Buy Side RELIANCE  21-Sep-2018   0.41    3.11  0
+
+Buy Side RAMCOCEM  21-Sep-2018   0.41    3.99  0
+
+Buy Side ZEEL  21-Sep-2018   0.08    4.17  0
+
+Buy Side HDFC  21-Sep-2018   0.01    3.32  0
+
+Buy Side ASIANPAINT  21-Sep-2018   0.79    7.38  0
+
+Buy Side EXIDEIND  21-Sep-2018   0.69    5.91  0
+
+Buy Side HDFCBANK  21-Sep-2018   0.26    3.19  0
+
+Buy Side SUNTV  21-Sep-2018   0.49    18.21  0
+
+Buy Side PVR  21-Sep-2018   0.19    4.66  0
+
+Buy Side VOLTAS  21-Sep-2018   0.63    4.46  0
+
+Buy Side UBL  21-Sep-2018   0.91    5.49  0
+
+Buy Side MFSL  21-Sep-2018   0.85    8.42  0
+
+24/09/2018
+===============
+Sell Side BPCL  24-Sep-2018   -2.18    -4.21   0   17.13
+
+Buy Side TORNTPOWER  24-Sep-2018   4.98    9.69  0   -11.31
+
+Sell Side IOC  24-Sep-2018   -1.83    -3.36   0   17.84
+
+===============================================================
+
+Buy Side AJANTPHARM  25-Sep-2018   1.99    3.81  0   -30.39  Bullish Engulfing Pattern
+
+Buy Side PEL  25-Sep-2018   0.17    6.27  0   18.51
+
+Buy Side HAVELLS  25-Sep-2018   0.71    4.06  0   5.27  Piercing Pattern
+
+Buy Side DALMIABHA  25-Sep-2018   0.27    2.41  0   44.08  Piercing Pattern
+
+Buy Side BHARATFIN  25-Sep-2018   1.62    3.24  0   92.86  Piercing Pattern
+
+Buy Side CHOLAFIN  25-Sep-2018   4.21    7.51  0   41.73  Piercing Pattern
+
+Buy Side GLENMARK  25-Sep-2018   1.31    3.11  0   -8.34  Piercing Pattern
+
+Buy Side KOTAKBANK  25-Sep-2018   2.86    5.43  0   71.51  Bullish Engulfing Pattern
+
+Buy Side INDUSINDBK  25-Sep-2018   1.17    2.76  0   70.86  Piercing Pattern
+
+Buy Side WOCKPHARMA  25-Sep-2018   4.28    7.47  0   -20.72
+
+Buy Side RELCAPITAL  25-Sep-2018   0.39    5.63  0   -8.14  Paper Umbrella
+
+Buy Side GRASIM  25-Sep-2018   1.92    4.34  0   11.42
+
+Buy Side DABUR  25-Sep-2018   1.09    3.66  0   -4.86  Piercing Pattern
+
+Buy Side NBCC  25-Sep-2018   1.67    7.58  0   53.80
+
+Buy Side REPCOHOME  25-Sep-2018   4.48    7.50  0   40.15  Bullish Harami Pattern Piercing Pattern
+
+Buy Side NHPC  25-Sep-2018   0.86    2.39  0   -3.68  Piercing Pattern
+
+Buy Side NCC  25-Sep-2018   0.38    4.04  0   42.83  Piercing Pattern
+
+Buy Side CHENNPETRO  25-Sep-2018   3.07    9.08  0   -19.01
+
+Buy Side ICICIBANK  25-Sep-2018   0.76    3.84  0   49.28  Piercing Pattern
+
+Buy Side INDIACEM  25-Sep-2018   0.66    4.32  0   4.42
+
+Buy Side EQUITAS  25-Sep-2018   1.74    6.74  0   74.32  Piercing Pattern
+
+Buy Side COLPAL  25-Sep-2018   0.65    1.90  0   4.42  Piercing Pattern
+
+Buy Side ADANIENT  25-Sep-2018   5.42    13.27  0   -42.76  Bullish Engulfing Pattern
+
+Buy Side TATAPOWER  25-Sep-2018   1.52    3.38  0   42.02  Bullish Harami Pattern Piercing Pattern
+
+Buy Side MANAPPURAM  25-Sep-2018   0.90    3.84  0   -5.12
+
+Buy Side L&TFH  25-Sep-2018   1.46    9.35  0   76.78  Piercing Pattern
+
+Buy Side BANKBARODA  25-Sep-2018   1.48    4.83  0   -5.21  Piercing Pattern
+
+Buy Side RECLTD  25-Sep-2018   2.86    5.83  0   -7.31  Piercing Pattern
+
+Buy Side KTKBANK  25-Sep-2018   0.59    4.37  0   131.42
+
+Buy Side DISHTV  25-Sep-2018   0.85    3.21  0   110.67  Paper Umbrella
+
+Buy Side BANKINDIA  25-Sep-2018   0.54    4.42  0   16.35  Piercing Pattern
+
+Buy Side ADANIPOWER  25-Sep-2018   2.43    7.43  0   -18.47  Piercing Pattern
+
+Buy Side ORIENTBANK  25-Sep-2018   1.21    5.76  0   9.44  Piercing Pattern
+

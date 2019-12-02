@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=TATAELXSI","data":[{"annualisedVolatility":"35.65","bestBuy":"125.77","totalSellQuantity":"2,32,800","vwap":"1,206.24","clientWisePositionLimits":"345211","optionType":"-","highPrice":"1,238.95","dailyVolatility":"1.87","bestSell":"142.61","marketLot":"800","sellQuantity5":"3,200","marketWidePositionLimits":"6904235","sellQuantity4":"800","sellQuantity3":"800","sellQuantity2":"800","underlying":"TATAELXSI","sellQuantity1":"800","pChange":"-3.55","premiumTurnover":"-","totalBuyQuantity":"1,37,600","turnoverinRsLakhs":"30,484.10","changeinOpenInterest":"2,14,400","strikePrice":"-","openInterest":"14,04,000","buyPrice2":"1,191.60","buyPrice1":"1,191.90","openPrice":"1,220.65","prevClose":"1,236.05","expiryDate":"27SEP2018","lowPrice":"1,181.20","buyPrice4":"1,191.50","buyPrice3":"1,191.55","buyPrice5":"1,191.00","numberOfContractsTraded":"3,159","instrumentType":"FUTSTK","sellPrice1":"1,192.45","sellPrice2":"1,192.50","sellPrice3":"1,192.85","sellPrice4":"1,192.90","sellPrice5":"1,193.00","change":"-43.90","pchangeinOpenInterest":"18.02","ltp":"133.43","impliedVolatility":"-","underlyingValue":"1,187.80","buyQuantity4":"800","buyQuantity3":"800","buyQuantity2":"800","buyQuantity1":"800","buyQuantity5":"800","settlementPrice":"1236.05","closePrice":"0.00","lastPrice":"1,192.15"}],"companyName":"Tata Elxsi Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=TATAELXSI&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

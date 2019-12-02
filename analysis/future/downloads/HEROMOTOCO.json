@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=HEROMOTOCO","data":[{"annualisedVolatility":"30.81","bestBuy":"-42.51","totalSellQuantity":"51,200","vwap":"3,097.83","clientWisePositionLimits":"1305453","optionType":"-","highPrice":"3,135.80","dailyVolatility":"1.61","bestSell":"-5.90","marketLot":"200","sellQuantity5":"200","marketWidePositionLimits":"26109074","sellQuantity4":"200","sellQuantity3":"200","sellQuantity2":"200","underlying":"HEROMOTOCO","sellQuantity1":"200","pChange":"-0.75","premiumTurnover":"-","totalBuyQuantity":"32,800","turnoverinRsLakhs":"25,978.40","changeinOpenInterest":"1,48,000","strikePrice":"-","openInterest":"15,66,200","buyPrice2":"3,088.85","buyPrice1":"3,088.90","openPrice":"3,117.30","prevClose":"3,114.70","expiryDate":"27SEP2018","lowPrice":"3,086.10","buyPrice4":"3,088.05","buyPrice3":"3,088.80","buyPrice5":"3,088.00","numberOfContractsTraded":"4,193","instrumentType":"FUTSTK","sellPrice1":"3,092.00","sellPrice2":"3,093.05","sellPrice3":"3,093.10","sellPrice4":"3,093.20","sellPrice5":"3,093.35","change":"-23.40","pchangeinOpenInterest":"10.44","ltp":"-14.17","impliedVolatility":"-","underlyingValue":"3,092.50","buyQuantity4":"400","buyQuantity3":"400","buyQuantity2":"200","buyQuantity1":"200","buyQuantity5":"200","settlementPrice":"3114.70","closePrice":"0.00","lastPrice":"3,091.30"}],"companyName":"Hero MotoCorp Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=HEROMOTOCO&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

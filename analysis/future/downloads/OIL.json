@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=OIL","data":[{"annualisedVolatility":"29.87","bestBuy":"-33.48","totalSellQuantity":"4,41,870","vwap":"216.72","clientWisePositionLimits":"3843555","optionType":"-","highPrice":"221.85","dailyVolatility":"1.56","bestSell":"33.45","marketLot":"3399","sellQuantity5":"3,399","marketWidePositionLimits":"76871115","sellQuantity4":"6,798","sellQuantity3":"6,798","sellQuantity2":"3,399","underlying":"OIL","sellQuantity1":"3,399","pChange":"-0.52","premiumTurnover":"-","totalBuyQuantity":"4,18,077","turnoverinRsLakhs":"4,309.29","changeinOpenInterest":"3,94,284","strikePrice":"-","openInterest":"28,00,776","buyPrice2":"217.80","buyPrice1":"217.95","openPrice":"220.45","prevClose":"220.15","expiryDate":"27SEP2018","lowPrice":"215.85","buyPrice4":"217.70","buyPrice3":"217.75","buyPrice5":"217.65","numberOfContractsTraded":"585","instrumentType":"FUTSTK","sellPrice1":"218.35","sellPrice2":"218.40","sellPrice3":"218.60","sellPrice4":"218.65","sellPrice5":"218.70","change":"-1.15","pchangeinOpenInterest":"16.38","ltp":"141.94","impliedVolatility":"-","underlyingValue":"218.15","buyQuantity4":"3,399","buyQuantity3":"3,399","buyQuantity2":"10,197","buyQuantity1":"3,399","buyQuantity5":"3,399","settlementPrice":"220.15","closePrice":"0.00","lastPrice":"219.00"}],"companyName":"Oil India Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=OIL&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

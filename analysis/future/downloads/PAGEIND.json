@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=PAGEIND","data":[{"annualisedVolatility":"43.19","bestBuy":"42.24","totalSellQuantity":"3,850","vwap":"32,758.78","clientWisePositionLimits":"56875","optionType":"-","highPrice":"33,399.65","dailyVolatility":"2.26","bestSell":"111.27","marketLot":"25","sellQuantity5":"25","marketWidePositionLimits":"1137517","sellQuantity4":"50","sellQuantity3":"25","sellQuantity2":"25","underlying":"PAGEIND","sellQuantity1":"25","pChange":"0.53","premiumTurnover":"-","totalBuyQuantity":"1,775","turnoverinRsLakhs":"17,141.03","changeinOpenInterest":"-4,475","strikePrice":"-","openInterest":"42,675","buyPrice2":"32,988.10","buyPrice1":"32,988.15","openPrice":"33,000.00","prevClose":"32,824.70","expiryDate":"27SEP2018","lowPrice":"32,332.20","buyPrice4":"32,951.00","buyPrice3":"32,951.05","buyPrice5":"32,945.00","numberOfContractsTraded":"2,093","instrumentType":"FUTSTK","sellPrice1":"33,050.60","sellPrice2":"33,050.65","sellPrice3":"33,050.70","sellPrice4":"33,050.75","sellPrice5":"33,072.00","change":"175.10","pchangeinOpenInterest":"-9.49","ltp":"55.12","impliedVolatility":"-","underlyingValue":"32,950.00","buyQuantity4":"50","buyQuantity3":"25","buyQuantity2":"25","buyQuantity1":"25","buyQuantity5":"25","settlementPrice":"32824.70","closePrice":"0.00","lastPrice":"32,999.80"}],"companyName":"Page Industries Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=PAGEIND&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=NESTLEIND","data":[{"annualisedVolatility":"40.22","bestBuy":"-77.10","totalSellQuantity":"9,700","vwap":"9,611.41","clientWisePositionLimits":"359006","optionType":"-","highPrice":"9,779.95","dailyVolatility":"2.11","bestSell":"-52.26","marketLot":"100","sellQuantity5":"100","marketWidePositionLimits":"7180127","sellQuantity4":"100","sellQuantity3":"100","sellQuantity2":"100","underlying":"NESTLEIND","sellQuantity1":"100","pChange":"-0.25","premiumTurnover":"-","totalBuyQuantity":"2,700","turnoverinRsLakhs":"13,446.36","changeinOpenInterest":"67,600","strikePrice":"-","openInterest":"2,70,900","buyPrice2":"9,694.10","buyPrice1":"9,694.15","openPrice":"9,750.00","prevClose":"9,727.65","expiryDate":"27SEP2018","lowPrice":"9,561.95","buyPrice4":"9,683.35","buyPrice3":"9,683.40","buyPrice5":"9,681.05","numberOfContractsTraded":"1,399","instrumentType":"FUTSTK","sellPrice1":"9,700.75","sellPrice2":"9,700.80","sellPrice3":"9,706.95","sellPrice4":"9,708.35","sellPrice5":"9,711.00","change":"-24.15","pchangeinOpenInterest":"33.25","ltp":"-41.92","impliedVolatility":"-","underlyingValue":"9,714.65","buyQuantity4":"100","buyQuantity3":"100","buyQuantity2":"100","buyQuantity1":"200","buyQuantity5":"100","settlementPrice":"9727.65","closePrice":"0.00","lastPrice":"9,703.50"}],"companyName":"Nestle India Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=NESTLEIND&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

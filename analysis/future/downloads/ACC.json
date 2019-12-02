@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=ACC","data":[{"annualisedVolatility":"37.55","bestBuy":"24.23","totalSellQuantity":"86,400","vwap":"1,574.23","clientWisePositionLimits":"853921","optionType":"-","highPrice":"1,589.90","dailyVolatility":"1.97","bestSell":"33.46","marketLot":"400","sellQuantity5":"400","marketWidePositionLimits":"17078428","sellQuantity4":"400","sellQuantity3":"400","sellQuantity2":"400","underlying":"ACC","sellQuantity1":"400","pChange":"0.93","premiumTurnover":"-","totalBuyQuantity":"89,600","turnoverinRsLakhs":"32,315.79","changeinOpenInterest":"18,400","strikePrice":"-","openInterest":"11,90,400","buyPrice2":"1,581.10","buyPrice1":"1,582.05","openPrice":"1,581.20","prevClose":"1,567.10","expiryDate":"27SEP2018","lowPrice":"1,552.00","buyPrice4":"1,580.70","buyPrice3":"1,581.05","buyPrice5":"1,580.65","numberOfContractsTraded":"5,132","instrumentType":"FUTSTK","sellPrice1":"1,582.45","sellPrice2":"1,582.50","sellPrice3":"1,582.70","sellPrice4":"1,582.75","sellPrice5":"1,583.00","change":"14.65","pchangeinOpenInterest":"1.57","ltp":"17.31","impliedVolatility":"-","underlyingValue":"1,581.00","buyQuantity4":"400","buyQuantity3":"400","buyQuantity2":"400","buyQuantity1":"400","buyQuantity5":"400","settlementPrice":"1567.10","closePrice":"0.00","lastPrice":"1,581.75"}],"companyName":"ACC Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=ACC&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

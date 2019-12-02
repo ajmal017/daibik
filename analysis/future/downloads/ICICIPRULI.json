@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=ICICIPRULI","data":[{"annualisedVolatility":"44.94","bestBuy":"53.06","totalSellQuantity":"2,45,700","vwap":"343.65","clientWisePositionLimits":"3056646","optionType":"-","highPrice":"351.15","dailyVolatility":"2.35","bestSell":"79.56","marketLot":"1300","sellQuantity5":"1,300","marketWidePositionLimits":"61132929","sellQuantity4":"1,300","sellQuantity3":"1,300","sellQuantity2":"1,300","underlying":"ICICIPRULI","sellQuantity1":"1,300","pChange":"-1.42","premiumTurnover":"-","totalBuyQuantity":"1,97,600","turnoverinRsLakhs":"6,634.16","changeinOpenInterest":"2,71,700","strikePrice":"-","openInterest":"31,52,500","buyPrice2":"344.15","buyPrice1":"344.20","openPrice":"350.75","prevClose":"349.25","expiryDate":"27SEP2018","lowPrice":"340.80","buyPrice4":"343.95","buyPrice3":"344.10","buyPrice5":"343.80","numberOfContractsTraded":"1,485","instrumentType":"FUTSTK","sellPrice1":"344.45","sellPrice2":"344.70","sellPrice3":"344.75","sellPrice4":"344.80","sellPrice5":"344.85","change":"-4.95","pchangeinOpenInterest":"9.43","ltp":"63.66","impliedVolatility":"-","underlyingValue":"343.70","buyQuantity4":"1,300","buyQuantity3":"2,600","buyQuantity2":"1,300","buyQuantity1":"1,300","buyQuantity5":"1,300","settlementPrice":"349.25","closePrice":"0.00","lastPrice":"344.30"}],"companyName":"ICICI Prudential Life Insurance Company Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=ICICIPRULI&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

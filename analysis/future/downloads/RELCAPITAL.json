@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=RELCAPITAL","data":[{"annualisedVolatility":"70.32","bestBuy":"22.93","totalSellQuantity":"10,66,500","vwap":"317.47","clientWisePositionLimits":"1185820","optionType":"-","highPrice":"323.75","dailyVolatility":"3.68","bestSell":"51.58","marketLot":"1500","sellQuantity5":"1,500","marketWidePositionLimits":"23716415","sellQuantity4":"3,000","sellQuantity3":"3,000","sellQuantity2":"3,000","underlying":"RELCAPITAL","sellQuantity1":"1,500","pChange":"0.52","premiumTurnover":"-","totalBuyQuantity":"3,99,000","turnoverinRsLakhs":"37,877.35","changeinOpenInterest":"-3,45,000","strikePrice":"-","openInterest":"64,92,000","buyPrice2":"318.35","buyPrice1":"318.40","openPrice":"320.25","prevClose":"316.85","expiryDate":"27SEP2018","lowPrice":"311.80","buyPrice4":"318.25","buyPrice3":"318.30","buyPrice5":"318.20","numberOfContractsTraded":"7,954","instrumentType":"FUTSTK","sellPrice1":"318.65","sellPrice2":"318.75","sellPrice3":"318.95","sellPrice4":"319.00","sellPrice5":"319.05","change":"1.65","pchangeinOpenInterest":"-5.05","ltp":"34.40","impliedVolatility":"-","underlyingValue":"318.20","buyQuantity4":"1,500","buyQuantity3":"1,500","buyQuantity2":"1,500","buyQuantity1":"1,500","buyQuantity5":"1,500","settlementPrice":"316.85","closePrice":"0.00","lastPrice":"318.50"}],"companyName":"Reliance Capital Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=RELCAPITAL&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

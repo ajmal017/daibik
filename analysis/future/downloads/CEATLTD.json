@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=CEATLTD","data":[{"annualisedVolatility":"37.80","bestBuy":"-17.72","totalSellQuantity":"86,800","vwap":"1,235.07","clientWisePositionLimits":"199162","optionType":"-","highPrice":"1,247.45","dailyVolatility":"1.98","bestSell":"2.95","marketLot":"350","sellQuantity5":"350","marketWidePositionLimits":"3983255","sellQuantity4":"350","sellQuantity3":"350","sellQuantity2":"350","underlying":"CEATLTD","sellQuantity1":"350","pChange":"0.09","premiumTurnover":"-","totalBuyQuantity":"61,950","turnoverinRsLakhs":"7,914.95","changeinOpenInterest":"36,050","strikePrice":"-","openInterest":"7,52,150","buyPrice2":"1,235.05","buyPrice1":"1,235.30","openPrice":"1,243.95","prevClose":"1,234.20","expiryDate":"27SEP2018","lowPrice":"1,224.05","buyPrice4":"1,234.90","buyPrice3":"1,235.00","buyPrice5":"1,234.85","numberOfContractsTraded":"1,831","instrumentType":"FUTSTK","sellPrice1":"1,236.00","sellPrice2":"1,236.40","sellPrice3":"1,236.45","sellPrice4":"1,236.50","sellPrice5":"1,236.80","change":"1.05","pchangeinOpenInterest":"5.03","ltp":"-19.20","impliedVolatility":"-","underlyingValue":"1,235.90","buyQuantity4":"350","buyQuantity3":"350","buyQuantity2":"350","buyQuantity1":"700","buyQuantity5":"700","settlementPrice":"1234.20","closePrice":"0.00","lastPrice":"1,235.25"}],"companyName":"CEAT Limited","lastUpdateTime":"26-SEP-2018 15:19:29","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=CEATLTD&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

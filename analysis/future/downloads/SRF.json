@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=SRF","data":[{"annualisedVolatility":"36.71","bestBuy":"-88.87","totalSellQuantity":"99,000","vwap":"1,904.46","clientWisePositionLimits":"273440","optionType":"-","highPrice":"1,934.65","dailyVolatility":"1.92","bestSell":"-61.80","marketLot":"500","sellQuantity5":"500","marketWidePositionLimits":"5468800","sellQuantity4":"500","sellQuantity3":"500","sellQuantity2":"500","underlying":"SRF","sellQuantity1":"500","pChange":"-0.76","premiumTurnover":"-","totalBuyQuantity":"66,500","turnoverinRsLakhs":"9,027.14","changeinOpenInterest":"5,000","strikePrice":"-","openInterest":"5,29,000","buyPrice2":"1,886.95","buyPrice1":"1,887.00","openPrice":"1,916.05","prevClose":"1,902.85","expiryDate":"27SEP2018","lowPrice":"1,883.55","buyPrice4":"1,886.40","buyPrice3":"1,886.45","buyPrice5":"1,885.25","numberOfContractsTraded":"948","instrumentType":"FUTSTK","sellPrice1":"1,888.40","sellPrice2":"1,888.85","sellPrice3":"1,888.90","sellPrice4":"1,889.00","sellPrice5":"1,889.95","change":"-14.40","pchangeinOpenInterest":"0.95","ltp":"-60.83","impliedVolatility":"-","underlyingValue":"1,891.60","buyQuantity4":"1,000","buyQuantity3":"500","buyQuantity2":"500","buyQuantity1":"500","buyQuantity5":"500","settlementPrice":"1902.85","closePrice":"0.00","lastPrice":"1,888.45"}],"companyName":"SRF Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=SRF&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

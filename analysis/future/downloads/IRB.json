@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=IRB","data":[{"annualisedVolatility":"70.75","bestBuy":"-154.66","totalSellQuantity":"4,37,500","vwap":"139.13","clientWisePositionLimits":"1498193","optionType":"-","highPrice":"141.55","dailyVolatility":"3.70","bestSell":"-128.84","marketLot":"2500","sellQuantity5":"5,000","marketWidePositionLimits":"29963877","sellQuantity4":"5,000","sellQuantity3":"2,500","sellQuantity2":"2,500","underlying":"IRB","sellQuantity1":"2,500","pChange":"2.73","premiumTurnover":"-","totalBuyQuantity":"5,17,500","turnoverinRsLakhs":"9,474.75","changeinOpenInterest":"-2,80,000","strikePrice":"-","openInterest":"78,07,500","buyPrice2":"141.20","buyPrice1":"141.30","openPrice":"139.10","prevClose":"137.55","expiryDate":"27SEP2018","lowPrice":"136.85","buyPrice4":"141.10","buyPrice3":"141.15","buyPrice5":"141.00","numberOfContractsTraded":"2,724","instrumentType":"FUTSTK","sellPrice1":"141.40","sellPrice2":"141.45","sellPrice3":"141.50","sellPrice4":"141.55","sellPrice5":"141.60","change":"3.75","pchangeinOpenInterest":"-3.46","ltp":"-154.66","impliedVolatility":"-","underlyingValue":"141.90","buyQuantity4":"5,000","buyQuantity3":"5,000","buyQuantity2":"5,000","buyQuantity1":"5,000","buyQuantity5":"5,000","settlementPrice":"137.55","closePrice":"0.00","lastPrice":"141.30"}],"companyName":"IRB Infrastructure Developers Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=IRB&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

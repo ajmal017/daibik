@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=TATACHEM","data":[{"annualisedVolatility":"30.77","bestBuy":"91.14","totalSellQuantity":"1,59,000","vwap":"701.38","clientWisePositionLimits":"1767224","optionType":"-","highPrice":"713.10","dailyVolatility":"1.61","bestSell":"124.94","marketLot":"750","sellQuantity5":"750","marketWidePositionLimits":"35344495","sellQuantity4":"1,500","sellQuantity3":"750","sellQuantity2":"750","underlying":"TATACHEM","sellQuantity1":"750","pChange":"-1.47","premiumTurnover":"-","totalBuyQuantity":"1,35,750","turnoverinRsLakhs":"15,160.33","changeinOpenInterest":"-84,000","strikePrice":"-","openInterest":"17,85,750","buyPrice2":"701.65","buyPrice1":"701.70","openPrice":"710.10","prevClose":"712.45","expiryDate":"27SEP2018","lowPrice":"695.55","buyPrice4":"701.20","buyPrice3":"701.25","buyPrice5":"701.15","numberOfContractsTraded":"2,882","instrumentType":"FUTSTK","sellPrice1":"702.35","sellPrice2":"702.40","sellPrice3":"702.45","sellPrice4":"702.50","sellPrice5":"702.60","change":"-10.50","pchangeinOpenInterest":"-4.49","ltp":"104.14","impliedVolatility":"-","underlyingValue":"699.95","buyQuantity4":"750","buyQuantity3":"750","buyQuantity2":"1,500","buyQuantity1":"750","buyQuantity5":"750","settlementPrice":"712.45","closePrice":"0.00","lastPrice":"701.95"}],"companyName":"Tata Chemicals Limited","lastUpdateTime":"26-SEP-2018 15:19:29","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=TATACHEM&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=JINDALSTEL","data":[{"annualisedVolatility":"54.13","bestBuy":"-47.51","totalSellQuantity":"10,93,500","vwap":"229.17","clientWisePositionLimits":"4001463","optionType":"-","highPrice":"233.80","dailyVolatility":"2.83","bestSell":"-23.74","marketLot":"2250","sellQuantity5":"2,250","marketWidePositionLimits":"80029268","sellQuantity4":"4,500","sellQuantity3":"2,250","sellQuantity2":"4,500","underlying":"JINDALSTEL","sellQuantity1":"2,250","pChange":"1.81","premiumTurnover":"-","totalBuyQuantity":"8,50,500","turnoverinRsLakhs":"62,345.13","changeinOpenInterest":"14,37,750","strikePrice":"-","openInterest":"1,99,89,000","buyPrice2":"230.30","buyPrice1":"230.35","openPrice":"228.05","prevClose":"226.40","expiryDate":"27SEP2018","lowPrice":"223.15","buyPrice4":"230.20","buyPrice3":"230.25","buyPrice5":"230.15","numberOfContractsTraded":"12,091","instrumentType":"FUTSTK","sellPrice1":"230.50","sellPrice2":"230.55","sellPrice3":"230.60","sellPrice4":"230.65","sellPrice5":"230.70","change":"4.10","pchangeinOpenInterest":"7.75","ltp":"-23.74","impliedVolatility":"-","underlyingValue":"230.65","buyQuantity4":"4,500","buyQuantity3":"6,750","buyQuantity2":"2,250","buyQuantity1":"4,500","buyQuantity5":"2,250","settlementPrice":"226.40","closePrice":"0.00","lastPrice":"230.50"}],"companyName":"Jindal Steel & Power Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=JINDALSTEL&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

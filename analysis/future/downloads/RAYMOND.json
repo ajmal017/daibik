@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=RAYMOND","data":[{"annualisedVolatility":"37.46","bestBuy":"-15.07","totalSellQuantity":"1,93,600","vwap":"726.64","clientWisePositionLimits":"341219","optionType":"-","highPrice":"736.85","dailyVolatility":"1.96","bestSell":"37.64","marketLot":"800","sellQuantity5":"800","marketWidePositionLimits":"6824384","sellQuantity4":"800","sellQuantity3":"1,600","sellQuantity2":"800","underlying":"RAYMOND","sellQuantity1":"800","pChange":"0.42","premiumTurnover":"-","totalBuyQuantity":"1,36,800","turnoverinRsLakhs":"13,608.51","changeinOpenInterest":"-1,41,600","strikePrice":"-","openInterest":"26,77,600","buyPrice2":"726.60","buyPrice1":"726.70","openPrice":"728.55","prevClose":"723.95","expiryDate":"27SEP2018","lowPrice":"719.50","buyPrice4":"726.05","buyPrice3":"726.40","buyPrice5":"726.00","numberOfContractsTraded":"2,341","instrumentType":"FUTSTK","sellPrice1":"727.75","sellPrice2":"727.80","sellPrice3":"728.00","sellPrice4":"728.30","sellPrice5":"728.40","change":"3.05","pchangeinOpenInterest":"-5.02","ltp":"-","impliedVolatility":"-","underlyingValue":"727.00","buyQuantity4":"800","buyQuantity3":"800","buyQuantity2":"800","buyQuantity1":"800","buyQuantity5":"1,600","settlementPrice":"723.95","closePrice":"0.00","lastPrice":"727.00"}],"companyName":"Raymond Limited","lastUpdateTime":"26-SEP-2018 15:19:29","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=RAYMOND&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

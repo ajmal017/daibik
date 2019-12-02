@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=CENTURYTEX","data":[{"annualisedVolatility":"31.50","bestBuy":"97.90","totalSellQuantity":"1,36,400","vwap":"874.35","clientWisePositionLimits":"556177","optionType":"-","highPrice":"887.70","dailyVolatility":"1.65","bestSell":"133.24","marketLot":"550","sellQuantity5":"550","marketWidePositionLimits":"11123542","sellQuantity4":"1,100","sellQuantity3":"550","sellQuantity2":"550","underlying":"CENTURYTEX","sellQuantity1":"550","pChange":"1.44","premiumTurnover":"-","totalBuyQuantity":"1,16,600","turnoverinRsLakhs":"27,247.37","changeinOpenInterest":"-4,81,800","strikePrice":"-","openInterest":"37,09,200","buyPrice2":"877.30","buyPrice1":"877.35","openPrice":"872.10","prevClose":"865.60","expiryDate":"27SEP2018","lowPrice":"861.60","buyPrice4":"876.65","buyPrice3":"877.00","buyPrice5":"876.60","numberOfContractsTraded":"5,666","instrumentType":"FUTSTK","sellPrice1":"878.20","sellPrice2":"878.25","sellPrice3":"878.35","sellPrice4":"878.40","sellPrice5":"878.45","change":"12.50","pchangeinOpenInterest":"-11.50","ltp":"129.09","impliedVolatility":"-","underlyingValue":"875.00","buyQuantity4":"550","buyQuantity3":"1,100","buyQuantity2":"2,200","buyQuantity1":"550","buyQuantity5":"550","settlementPrice":"865.60","closePrice":"0.00","lastPrice":"878.10"}],"companyName":"Century Textiles & Industries Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=CENTURYTEX&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

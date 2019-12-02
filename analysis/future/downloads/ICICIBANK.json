@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=ICICIBANK","data":[{"annualisedVolatility":"31.71","bestBuy":"-29.18","totalSellQuantity":"67,43,000","vwap":"310.70","clientWisePositionLimits":"48366090","optionType":"-","highPrice":"315.90","dailyVolatility":"1.66","bestSell":"-11.67","marketLot":"2750","sellQuantity5":"13,750","marketWidePositionLimits":"967321816","sellQuantity4":"11,000","sellQuantity3":"5,500","sellQuantity2":"2,750","underlying":"ICICIBANK","sellQuantity1":"2,750","pChange":"0.47","premiumTurnover":"-","totalBuyQuantity":"11,41,250","turnoverinRsLakhs":"1,61,768.29","changeinOpenInterest":"45,95,250","strikePrice":"-","openInterest":"7,10,05,000","buyPrice2":"312.55","buyPrice1":"312.60","openPrice":"315.10","prevClose":"311.30","expiryDate":"27SEP2018","lowPrice":"305.40","buyPrice4":"312.45","buyPrice3":"312.50","buyPrice5":"312.40","numberOfContractsTraded":"18,933","instrumentType":"FUTSTK","sellPrice1":"312.75","sellPrice2":"312.80","sellPrice3":"312.85","sellPrice4":"312.90","sellPrice5":"312.95","change":"1.45","pchangeinOpenInterest":"6.92","ltp":"-11.67","impliedVolatility":"-","underlyingValue":"312.85","buyQuantity4":"13,750","buyQuantity3":"19,250","buyQuantity2":"13,750","buyQuantity1":"11,000","buyQuantity5":"19,250","settlementPrice":"311.30","closePrice":"0.00","lastPrice":"312.75"}],"companyName":"ICICI Bank Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=ICICIBANK&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=MINDTREE","data":[{"annualisedVolatility":"37.23","bestBuy":"-23.75","totalSellQuantity":"2,18,400","vwap":"1,064.02","clientWisePositionLimits":"1420025","optionType":"-","highPrice":"1,098.00","dailyVolatility":"1.95","bestSell":"18.65","marketLot":"1200","sellQuantity5":"1,200","marketWidePositionLimits":"28400513","sellQuantity4":"1,200","sellQuantity3":"1,200","sellQuantity2":"1,200","underlying":"MINDTREE","sellQuantity1":"2,400","pChange":"-0.83","premiumTurnover":"-","totalBuyQuantity":"2,80,800","turnoverinRsLakhs":"44,063.20","changeinOpenInterest":"40,800","strikePrice":"-","openInterest":"21,20,400","buyPrice2":"1,075.50","buyPrice1":"1,075.60","openPrice":"1,095.40","prevClose":"1,084.70","expiryDate":"27SEP2018","lowPrice":"1,041.50","buyPrice4":"1,074.90","buyPrice3":"1,075.45","buyPrice5":"1,074.85","numberOfContractsTraded":"3,451","instrumentType":"FUTSTK","sellPrice1":"1,076.85","sellPrice2":"1,076.90","sellPrice3":"1,077.00","sellPrice4":"1,077.20","sellPrice5":"1,077.80","change":"-9.00","pchangeinOpenInterest":"1.96","ltp":"-20.35","impliedVolatility":"-","underlyingValue":"1,076.30","buyQuantity4":"2,400","buyQuantity3":"1,200","buyQuantity2":"1,200","buyQuantity1":"1,200","buyQuantity5":"1,200","settlementPrice":"1084.70","closePrice":"0.00","lastPrice":"1,075.70"}],"companyName":"MindTree Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=MINDTREE&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

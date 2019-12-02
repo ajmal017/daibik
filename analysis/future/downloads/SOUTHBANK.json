@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=SOUTHBANK","data":[{"annualisedVolatility":"49.13","bestBuy":"125.65","totalSellQuantity":"46,06,599","vwap":"14.48","clientWisePositionLimits":"18093914","optionType":"-","highPrice":"14.70","dailyVolatility":"2.57","bestSell":"250.86","marketLot":"33141","sellQuantity5":"3,31,410","marketWidePositionLimits":"361878297","sellQuantity4":"2,65,128","sellQuantity3":"10,27,371","sellQuantity2":"7,62,243","underlying":"SOUTHBANK","sellQuantity1":"5,96,538","pChange":"1.04","premiumTurnover":"-","totalBuyQuantity":"23,53,011","turnoverinRsLakhs":"8,479.51","changeinOpenInterest":"-74,23,584","strikePrice":"-","openInterest":"9,44,51,850","buyPrice2":"14.50","buyPrice1":"14.55","openPrice":"14.50","prevClose":"14.40","expiryDate":"27SEP2018","lowPrice":"14.30","buyPrice4":"14.40","buyPrice3":"14.45","buyPrice5":"14.35","numberOfContractsTraded":"1,767","instrumentType":"FUTSTK","sellPrice1":"14.60","sellPrice2":"14.65","sellPrice3":"14.70","sellPrice4":"14.75","sellPrice5":"14.80","change":"0.15","pchangeinOpenInterest":"-7.29","ltp":"125.65","impliedVolatility":"-","underlyingValue":"14.50","buyQuantity4":"3,31,410","buyQuantity3":"3,64,551","buyQuantity2":"6,62,820","buyQuantity1":"33,141","buyQuantity5":"1,65,705","settlementPrice":"14.40","closePrice":"0.00","lastPrice":"14.55"}],"companyName":"The South Indian Bank Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=SOUTHBANK&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

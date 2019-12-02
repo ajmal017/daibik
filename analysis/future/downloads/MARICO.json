@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=MARICO","data":[{"annualisedVolatility":"30.93","bestBuy":"-80.52","totalSellQuantity":"4,52,400","vwap":"338.94","clientWisePositionLimits":"5182026","optionType":"-","highPrice":"341.00","dailyVolatility":"1.62","bestSell":"-48.29","marketLot":"2600","sellQuantity5":"2,600","marketWidePositionLimits":"103640537","sellQuantity4":"2,600","sellQuantity3":"2,600","sellQuantity2":"2,600","underlying":"MARICO","sellQuantity1":"2,600","pChange":"2.03","premiumTurnover":"-","totalBuyQuantity":"4,29,000","turnoverinRsLakhs":"19,369.74","changeinOpenInterest":"23,99,800","strikePrice":"-","openInterest":"87,17,800","buyPrice2":"339.55","buyPrice1":"339.60","openPrice":"335.35","prevClose":"332.85","expiryDate":"27SEP2018","lowPrice":"335.00","buyPrice4":"339.40","buyPrice3":"339.50","buyPrice5":"339.35","numberOfContractsTraded":"2,198","instrumentType":"FUTSTK","sellPrice1":"339.90","sellPrice2":"339.95","sellPrice3":"340.00","sellPrice4":"340.20","sellPrice5":"340.25","change":"6.75","pchangeinOpenInterest":"37.98","ltp":"-80.52","impliedVolatility":"-","underlyingValue":"340.35","buyQuantity4":"7,800","buyQuantity3":"2,600","buyQuantity2":"2,600","buyQuantity1":"2,600","buyQuantity5":"2,600","settlementPrice":"332.85","closePrice":"0.00","lastPrice":"339.60"}],"companyName":"Marico Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=MARICO&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

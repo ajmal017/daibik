@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=ARVIND","data":[{"annualisedVolatility":"42.81","bestBuy":"-67.28","totalSellQuantity":"6,22,000","vwap":"351.57","clientWisePositionLimits":"1476169","optionType":"-","highPrice":"358.00","dailyVolatility":"2.24","bestSell":"-31.04","marketLot":"2000","sellQuantity5":"2,000","marketWidePositionLimits":"29523385","sellQuantity4":"4,000","sellQuantity3":"2,000","sellQuantity2":"2,000","underlying":"ARVIND","sellQuantity1":"2,000","pChange":"1.97","premiumTurnover":"-","totalBuyQuantity":"4,78,000","turnoverinRsLakhs":"26,557.60","changeinOpenInterest":"-2,96,000","strikePrice":"-","openInterest":"55,44,000","buyPrice2":"352.20","buyPrice1":"352.30","openPrice":"346.20","prevClose":"345.75","expiryDate":"27SEP2018","lowPrice":"344.75","buyPrice4":"352.10","buyPrice3":"352.15","buyPrice5":"352.05","numberOfContractsTraded":"3,777","instrumentType":"FUTSTK","sellPrice1":"352.65","sellPrice2":"352.70","sellPrice3":"352.75","sellPrice4":"352.80","sellPrice5":"352.85","change":"6.80","pchangeinOpenInterest":"-5.07","ltp":"-41.39","impliedVolatility":"-","underlyingValue":"352.95","buyQuantity4":"4,000","buyQuantity3":"6,000","buyQuantity2":"2,000","buyQuantity1":"4,000","buyQuantity5":"4,000","settlementPrice":"345.75","closePrice":"0.00","lastPrice":"352.55"}],"companyName":"Arvind Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=ARVIND&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

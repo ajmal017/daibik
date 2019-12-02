@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=SHREECEM","data":[{"annualisedVolatility":"38.06","bestBuy":"-140.16","totalSellQuantity":"1,950","vwap":"17,087.67","clientWisePositionLimits":"122674","optionType":"-","highPrice":"17,498.10","dailyVolatility":"1.99","bestSell":"21.72","marketLot":"50","sellQuantity5":"50","marketWidePositionLimits":"2453485","sellQuantity4":"50","sellQuantity3":"50","sellQuantity2":"50","underlying":"SHREECEM","sellQuantity1":"50","pChange":"1.92","premiumTurnover":"-","totalBuyQuantity":"1,550","turnoverinRsLakhs":"7,979.94","changeinOpenInterest":"21,750","strikePrice":"-","openInterest":"79,050","buyPrice2":"17,401.00","buyPrice1":"17,401.05","openPrice":"17,284.00","prevClose":"17,153.45","expiryDate":"27SEP2018","lowPrice":"16,824.30","buyPrice4":"17,371.55","buyPrice3":"17,400.50","buyPrice5":"17,371.50","numberOfContractsTraded":"934","instrumentType":"FUTSTK","sellPrice1":"17,478.40","sellPrice2":"17,493.80","sellPrice3":"17,493.85","sellPrice4":"17,499.00","sellPrice5":"17,500.00","change":"330.05","pchangeinOpenInterest":"37.96","ltp":"32.37","impliedVolatility":"-","underlyingValue":"17,468.00","buyQuantity4":"50","buyQuantity3":"50","buyQuantity2":"50","buyQuantity1":"50","buyQuantity5":"50","settlementPrice":"17153.45","closePrice":"0.00","lastPrice":"17,483.50"}],"companyName":"SHREE CEMENT LIMITED","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=SHREECEM&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

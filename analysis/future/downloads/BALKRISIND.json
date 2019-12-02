@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=BALKRISIND","data":[{"annualisedVolatility":"48.99","bestBuy":"-36.22","totalSellQuantity":"1,56,000","vwap":"1,099.04","clientWisePositionLimits":"806211","optionType":"-","highPrice":"1,111.90","dailyVolatility":"2.56","bestSell":"14.81","marketLot":"800","sellQuantity5":"800","marketWidePositionLimits":"16124234","sellQuantity4":"800","sellQuantity3":"1,600","sellQuantity2":"800","underlying":"BALKRISIND","sellQuantity1":"800","pChange":"0.87","premiumTurnover":"-","totalBuyQuantity":"1,42,400","turnoverinRsLakhs":"12,801.62","changeinOpenInterest":"-91,200","strikePrice":"-","openInterest":"14,86,400","buyPrice2":"1,107.85","buyPrice1":"1,107.90","openPrice":"1,099.25","prevClose":"1,098.20","expiryDate":"27SEP2018","lowPrice":"1,089.90","buyPrice4":"1,107.75","buyPrice3":"1,107.80","buyPrice5":"1,107.45","numberOfContractsTraded":"1,456","instrumentType":"FUTSTK","sellPrice1":"1,109.45","sellPrice2":"1,109.50","sellPrice3":"1,110.00","sellPrice4":"1,110.85","sellPrice5":"1,110.90","change":"9.55","pchangeinOpenInterest":"-5.78","ltp":"-41.16","impliedVolatility":"-","underlyingValue":"1,109.00","buyQuantity4":"800","buyQuantity3":"800","buyQuantity2":"800","buyQuantity1":"800","buyQuantity5":"800","settlementPrice":"1098.20","closePrice":"0.00","lastPrice":"1,107.75"}],"companyName":"Balkrishna Industries Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=BALKRISIND&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

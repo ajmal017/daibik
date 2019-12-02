@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=RAMCOCEM","data":[{"annualisedVolatility":"32.38","bestBuy":"-69.56","totalSellQuantity":"1,00,800","vwap":"646.26","clientWisePositionLimits":"1348712","optionType":"-","highPrice":"658.00","dailyVolatility":"1.69","bestSell":"25.01","marketLot":"800","sellQuantity5":"2,400","marketWidePositionLimits":"26974244","sellQuantity4":"800","sellQuantity3":"800","sellQuantity2":"2,400","underlying":"RAMCOCEM","sellQuantity1":"800","pChange":"0.77","premiumTurnover":"-","totalBuyQuantity":"1,27,200","turnoverinRsLakhs":"4,037.83","changeinOpenInterest":"-36,800","strikePrice":"-","openInterest":"6,43,200","buyPrice2":"655.05","buyPrice1":"655.25","openPrice":"642.65","prevClose":"651.00","expiryDate":"27SEP2018","lowPrice":"640.10","buyPrice4":"654.45","buyPrice3":"654.75","buyPrice5":"654.40","numberOfContractsTraded":"781","instrumentType":"FUTSTK","sellPrice1":"656.95","sellPrice2":"657.00","sellPrice3":"657.60","sellPrice4":"657.75","sellPrice5":"658.50","change":"5.00","pchangeinOpenInterest":"-5.41","ltp":"-27.81","impliedVolatility":"-","underlyingValue":"656.50","buyQuantity4":"800","buyQuantity3":"1,600","buyQuantity2":"800","buyQuantity1":"800","buyQuantity5":"800","settlementPrice":"651.00","closePrice":"0.00","lastPrice":"656.00"}],"companyName":"The Ramco Cements Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=RAMCOCEM&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

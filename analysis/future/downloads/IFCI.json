@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=IFCI","data":[{"annualisedVolatility":"80.31","bestBuy":"-","totalSellQuantity":"25,50,000","vwap":"12.89","clientWisePositionLimits":"7390372","optionType":"-","highPrice":"13.20","dailyVolatility":"4.20","bestSell":"141.75","marketLot":"25000","sellQuantity5":"1,25,000","marketWidePositionLimits":"147807447","sellQuantity4":"25,000","sellQuantity3":"1,50,000","sellQuantity2":"2,00,000","underlying":"IFCI","sellQuantity1":"25,000","pChange":"2.38","premiumTurnover":"-","totalBuyQuantity":"20,00,000","turnoverinRsLakhs":"3,525.42","changeinOpenInterest":"-22,50,000","strikePrice":"-","openInterest":"2,51,75,000","buyPrice2":"12.80","buyPrice1":"12.85","openPrice":"12.90","prevClose":"12.60","expiryDate":"27SEP2018","lowPrice":"12.60","buyPrice4":"12.70","buyPrice3":"12.75","buyPrice5":"12.60","numberOfContractsTraded":"1,094","instrumentType":"FUTSTK","sellPrice1":"12.90","sellPrice2":"12.95","sellPrice3":"13.00","sellPrice4":"13.05","sellPrice5":"13.10","change":"0.30","pchangeinOpenInterest":"-8.20","ltp":"141.75","impliedVolatility":"-","underlyingValue":"12.85","buyQuantity4":"50,000","buyQuantity3":"1,50,000","buyQuantity2":"1,75,000","buyQuantity1":"1,75,000","buyQuantity5":"1,25,000","settlementPrice":"12.60","closePrice":"0.00","lastPrice":"12.90"}],"companyName":"IFCI Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=IFCI&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

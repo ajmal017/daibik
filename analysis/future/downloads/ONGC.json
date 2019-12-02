@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=ONGC","data":[{"annualisedVolatility":"27.57","bestBuy":"171.72","totalSellQuantity":"31,68,750","vwap":"180.69","clientWisePositionLimits":"41770134","optionType":"-","highPrice":"184.00","dailyVolatility":"1.44","bestSell":"201.94","marketLot":"3750","sellQuantity5":"15,000","marketWidePositionLimits":"835402696","sellQuantity4":"15,000","sellQuantity3":"18,750","sellQuantity2":"15,000","underlying":"ONGC","sellQuantity1":"7,500","pChange":"-0.55","premiumTurnover":"-","totalBuyQuantity":"7,68,750","turnoverinRsLakhs":"34,462.10","changeinOpenInterest":"61,72,500","strikePrice":"-","openInterest":"3,25,27,500","buyPrice2":"181.05","buyPrice1":"181.10","openPrice":"183.00","prevClose":"182.20","expiryDate":"27SEP2018","lowPrice":"179.30","buyPrice4":"180.95","buyPrice3":"181.00","buyPrice5":"180.90","numberOfContractsTraded":"5,086","instrumentType":"FUTSTK","sellPrice1":"181.25","sellPrice2":"181.30","sellPrice3":"181.35","sellPrice4":"181.40","sellPrice5":"181.45","change":"-1.00","pchangeinOpenInterest":"23.42","ltp":"191.87","impliedVolatility":"-","underlyingValue":"180.25","buyQuantity4":"11,250","buyQuantity3":"7,500","buyQuantity2":"11,250","buyQuantity1":"15,000","buyQuantity5":"15,000","settlementPrice":"182.20","closePrice":"0.00","lastPrice":"181.20"}],"companyName":"Oil & Natural Gas Corporation Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=ONGC&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

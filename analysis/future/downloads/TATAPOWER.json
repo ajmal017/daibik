@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=TATAPOWER","data":[{"annualisedVolatility":"50.69","bestBuy":"-78.19","totalSellQuantity":"18,99,000","vwap":"69.76","clientWisePositionLimits":"18122292","optionType":"-","highPrice":"70.75","dailyVolatility":"2.65","bestSell":"-","marketLot":"9000","sellQuantity5":"54,000","marketWidePositionLimits":"362445856","sellQuantity4":"27,000","sellQuantity3":"72,000","sellQuantity2":"36,000","underlying":"TATAPOWER","sellQuantity1":"45,000","pChange":"-0.43","premiumTurnover":"-","totalBuyQuantity":"13,05,000","turnoverinRsLakhs":"13,944.33","changeinOpenInterest":"37,80,000","strikePrice":"-","openInterest":"3,83,22,000","buyPrice2":"69.90","buyPrice1":"69.95","openPrice":"70.50","prevClose":"70.35","expiryDate":"27SEP2018","lowPrice":"68.95","buyPrice4":"69.80","buyPrice3":"69.85","buyPrice5":"69.75","numberOfContractsTraded":"2,221","instrumentType":"FUTSTK","sellPrice1":"70.10","sellPrice2":"70.15","sellPrice3":"70.20","sellPrice4":"70.25","sellPrice5":"70.30","change":"-0.30","pchangeinOpenInterest":"10.94","ltp":"-26.04","impliedVolatility":"-","underlyingValue":"70.10","buyQuantity4":"27,000","buyQuantity3":"18,000","buyQuantity2":"27,000","buyQuantity1":"63,000","buyQuantity5":"54,000","settlementPrice":"70.35","closePrice":"0.00","lastPrice":"70.05"}],"companyName":"Tata Power Company Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=TATAPOWER&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

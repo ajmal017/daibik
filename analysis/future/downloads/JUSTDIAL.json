@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=JUSTDIAL","data":[{"annualisedVolatility":"51.22","bestBuy":"18.00","totalSellQuantity":"2,50,600","vwap":"505.85","clientWisePositionLimits":"445398","optionType":"-","highPrice":"516.55","dailyVolatility":"2.68","bestSell":"75.54","marketLot":"1400","sellQuantity5":"1,400","marketWidePositionLimits":"8907972","sellQuantity4":"1,400","sellQuantity3":"1,400","sellQuantity2":"1,400","underlying":"JUSTDIAL","sellQuantity1":"1,400","pChange":"2.54","premiumTurnover":"-","totalBuyQuantity":"2,49,200","turnoverinRsLakhs":"12,542.04","changeinOpenInterest":"-4,15,800","strikePrice":"-","openInterest":"11,35,400","buyPrice2":"507.00","buyPrice1":"507.05","openPrice":"497.20","prevClose":"495.40","expiryDate":"27SEP2018","lowPrice":"497.00","buyPrice4":"506.50","buyPrice3":"506.55","buyPrice5":"506.40","numberOfContractsTraded":"1,771","instrumentType":"FUTSTK","sellPrice1":"507.85","sellPrice2":"507.90","sellPrice3":"507.95","sellPrice4":"508.00","sellPrice5":"508.50","change":"12.60","pchangeinOpenInterest":"-26.81","ltp":"86.32","impliedVolatility":"-","underlyingValue":"506.80","buyQuantity4":"2,800","buyQuantity3":"2,800","buyQuantity2":"1,400","buyQuantity1":"1,400","buyQuantity5":"1,400","settlementPrice":"495.40","closePrice":"0.00","lastPrice":"508.00"}],"companyName":"Just Dial Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=JUSTDIAL&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=MRPL","data":[{"annualisedVolatility":"55.28","bestBuy":"-48.63","totalSellQuantity":"4,14,000","vwap":"74.06","clientWisePositionLimits":"2000911","optionType":"-","highPrice":"75.55","dailyVolatility":"2.89","bestSell":"-","marketLot":"4500","sellQuantity5":"4,500","marketWidePositionLimits":"40018232","sellQuantity4":"9,000","sellQuantity3":"9,000","sellQuantity2":"13,500","underlying":"MRPL","sellQuantity1":"9,000","pChange":"2.81","premiumTurnover":"-","totalBuyQuantity":"5,44,500","turnoverinRsLakhs":"2,122.93","changeinOpenInterest":"-27,000","strikePrice":"-","openInterest":"28,17,000","buyPrice2":"74.95","buyPrice1":"75.00","openPrice":"72.55","prevClose":"72.95","expiryDate":"27SEP2018","lowPrice":"72.55","buyPrice4":"74.85","buyPrice3":"74.90","buyPrice5":"74.80","numberOfContractsTraded":"637","instrumentType":"FUTSTK","sellPrice1":"75.10","sellPrice2":"75.15","sellPrice3":"75.25","sellPrice4":"75.30","sellPrice5":"75.40","change":"2.05","pchangeinOpenInterest":"-0.95","ltp":"-48.63","impliedVolatility":"-","underlyingValue":"75.10","buyQuantity4":"27,000","buyQuantity3":"4,500","buyQuantity2":"4,500","buyQuantity1":"4,500","buyQuantity5":"4,500","settlementPrice":"72.95","closePrice":"0.00","lastPrice":"75.00"}],"companyName":"Mangalore Refinery and Petrochemicals Limited","lastUpdateTime":"26-SEP-2018 15:19:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=MRPL&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

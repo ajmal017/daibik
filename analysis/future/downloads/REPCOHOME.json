@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=REPCOHOME","data":[{"annualisedVolatility":"67.28","bestBuy":"-545.94","totalSellQuantity":"1,85,400","vwap":"440.40","clientWisePositionLimits":"393307","optionType":"-","highPrice":"456.90","dailyVolatility":"3.52","bestSell":"-411.82","marketLot":"900","sellQuantity5":"1,800","marketWidePositionLimits":"7866151","sellQuantity4":"900","sellQuantity3":"900","sellQuantity2":"900","underlying":"REPCOHOME","sellQuantity1":"900","pChange":"-3.66","premiumTurnover":"-","totalBuyQuantity":"1,26,900","turnoverinRsLakhs":"2,980.63","changeinOpenInterest":"-57,600","strikePrice":"-","openInterest":"3,10,500","buyPrice2":"434.60","buyPrice1":"434.65","openPrice":"450.60","prevClose":"452.40","expiryDate":"27SEP2018","lowPrice":"425.00","buyPrice4":"434.40","buyPrice3":"434.55","buyPrice5":"434.30","numberOfContractsTraded":"752","instrumentType":"FUTSTK","sellPrice1":"436.25","sellPrice2":"436.30","sellPrice3":"436.80","sellPrice4":"437.05","sellPrice5":"437.10","change":"-16.55","pchangeinOpenInterest":"-15.65","ltp":"-445.31","impliedVolatility":"-","underlyingValue":"441.20","buyQuantity4":"900","buyQuantity3":"900","buyQuantity2":"900","buyQuantity1":"900","buyQuantity5":"900","settlementPrice":"452.40","closePrice":"0.00","lastPrice":"435.85"}],"companyName":"Repco Home Finance Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=REPCOHOME&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

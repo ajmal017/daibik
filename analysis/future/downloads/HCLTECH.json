@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=HCLTECH","data":[{"annualisedVolatility":"23.93","bestBuy":"60.37","totalSellQuantity":"1,71,500","vwap":"1,094.51","clientWisePositionLimits":"5545260","optionType":"-","highPrice":"1,121.10","dailyVolatility":"1.25","bestSell":"75.45","marketLot":"700","sellQuantity5":"700","marketWidePositionLimits":"110905218","sellQuantity4":"700","sellQuantity3":"1,400","sellQuantity2":"700","underlying":"HCLTECH","sellQuantity1":"700","pChange":"-2.51","premiumTurnover":"-","totalBuyQuantity":"2,97,500","turnoverinRsLakhs":"45,410.13","changeinOpenInterest":"99,400","strikePrice":"-","openInterest":"54,87,300","buyPrice2":"1,089.10","buyPrice1":"1,089.15","openPrice":"1,121.00","prevClose":"1,117.60","expiryDate":"27SEP2018","lowPrice":"1,086.10","buyPrice4":"1,089.00","buyPrice3":"1,089.05","buyPrice5":"1,088.95","numberOfContractsTraded":"5,927","instrumentType":"FUTSTK","sellPrice1":"1,089.60","sellPrice2":"1,089.65","sellPrice3":"1,089.75","sellPrice4":"1,089.80","sellPrice5":"1,089.85","change":"-28.05","pchangeinOpenInterest":"1.84","ltp":"73.77","impliedVolatility":"-","underlyingValue":"1,087.35","buyQuantity4":"700","buyQuantity3":"1,400","buyQuantity2":"700","buyQuantity1":"700","buyQuantity5":"700","settlementPrice":"1117.60","closePrice":"0.00","lastPrice":"1,089.55"}],"companyName":"HCL Technologies Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=HCLTECH&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

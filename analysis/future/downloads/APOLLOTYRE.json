@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=APOLLOTYRE","data":[{"annualisedVolatility":"42.25","bestBuy":"175.40","totalSellQuantity":"10,74,000","vwap":"230.13","clientWisePositionLimits":"3409758","optionType":"-","highPrice":"234.55","dailyVolatility":"2.21","bestSell":"207.21","marketLot":"3000","sellQuantity5":"3,000","marketWidePositionLimits":"68195170","sellQuantity4":"6,000","sellQuantity3":"6,000","sellQuantity2":"3,000","underlying":"APOLLOTYRE","sellQuantity1":"6,000","pChange":"-0.37","premiumTurnover":"-","totalBuyQuantity":"5,76,000","turnoverinRsLakhs":"15,264.52","changeinOpenInterest":"39,000","strikePrice":"-","openInterest":"86,31,000","buyPrice2":"229.40","buyPrice1":"229.45","openPrice":"233.10","prevClose":"230.50","expiryDate":"27SEP2018","lowPrice":"227.05","buyPrice4":"229.20","buyPrice3":"229.25","buyPrice5":"229.15","numberOfContractsTraded":"2,211","instrumentType":"FUTSTK","sellPrice1":"229.65","sellPrice2":"229.70","sellPrice3":"229.75","sellPrice4":"229.80","sellPrice5":"229.85","change":"-0.85","pchangeinOpenInterest":"0.45","ltp":"207.21","impliedVolatility":"-","underlyingValue":"228.35","buyQuantity4":"12,000","buyQuantity3":"6,000","buyQuantity2":"3,000","buyQuantity1":"3,000","buyQuantity5":"3,000","settlementPrice":"230.50","closePrice":"0.00","lastPrice":"229.65"}],"companyName":"Apollo Tyres Limited","lastUpdateTime":"26-SEP-2018 15:19:29","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=APOLLOTYRE&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

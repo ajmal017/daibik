@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=TORNTPHARM","data":[{"annualisedVolatility":"40.30","bestBuy":"83.51","totalSellQuantity":"1,16,500","vwap":"1,730.04","clientWisePositionLimits":"486580","optionType":"-","highPrice":"1,751.20","dailyVolatility":"2.11","bestSell":"156.16","marketLot":"500","sellQuantity5":"1,000","marketWidePositionLimits":"9731600","sellQuantity4":"500","sellQuantity3":"500","sellQuantity2":"500","underlying":"TORNTPHARM","sellQuantity1":"500","pChange":"-1.14","premiumTurnover":"-","totalBuyQuantity":"69,000","turnoverinRsLakhs":"12,888.80","changeinOpenInterest":"85,500","strikePrice":"-","openInterest":"5,64,000","buyPrice2":"1,706.45","buyPrice1":"1,706.50","openPrice":"1,721.10","prevClose":"1,729.55","expiryDate":"27SEP2018","lowPrice":"1,705.00","buyPrice4":"1,705.95","buyPrice3":"1,706.10","buyPrice5":"1,705.35","numberOfContractsTraded":"1,490","instrumentType":"FUTSTK","sellPrice1":"1,709.90","sellPrice2":"1,709.95","sellPrice3":"1,710.95","sellPrice4":"1,711.05","sellPrice5":"1,711.85","change":"-19.75","pchangeinOpenInterest":"17.87","ltp":"154.03","impliedVolatility":"-","underlyingValue":"1,702.60","buyQuantity4":"500","buyQuantity3":"500","buyQuantity2":"500","buyQuantity1":"500","buyQuantity5":"500","settlementPrice":"1729.55","closePrice":"0.00","lastPrice":"1,709.80"}],"companyName":"Torrent Pharmaceuticals Limited","lastUpdateTime":"26-SEP-2018 15:18:59","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=TORNTPHARM&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+

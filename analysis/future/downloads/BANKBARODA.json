@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"valid":"true","tradedDate":"26SEP2018","eqLink":"\/live_market\/dynaContent\/live_watch\/get_quote\/GetQuote.jsp?symbol=BANKBARODA","data":[{"annualisedVolatility":"90.72","bestBuy":"16.69","totalSellQuantity":"84,08,000","vwap":"109.38","clientWisePositionLimits":"9600954","optionType":"-","highPrice":"114.65","dailyVolatility":"4.75","bestSell":"50.03","marketLot":"4000","sellQuantity5":"32,000","marketWidePositionLimits":"192019087","sellQuantity4":"20,000","sellQuantity3":"32,000","sellQuantity2":"12,000","underlying":"BANKBARODA","sellQuantity1":"12,000","pChange":"-0.27","premiumTurnover":"-","totalBuyQuantity":"12,72,000","turnoverinRsLakhs":"52,541.78","changeinOpenInterest":"-28,72,000","strikePrice":"-","openInterest":"3,33,28,000","buyPrice2":"109.35","buyPrice1":"109.40","openPrice":"111.30","prevClose":"109.75","expiryDate":"27SEP2018","lowPrice":"107.45","buyPrice4":"109.25","buyPrice3":"109.30","buyPrice5":"109.20","numberOfContractsTraded":"12,009","instrumentType":"FUTSTK","sellPrice1":"109.50","sellPrice2":"109.55","sellPrice3":"109.60","sellPrice4":"109.65","sellPrice5":"109.70","change":"-0.30","pchangeinOpenInterest":"-7.93","ltp":"33.36","impliedVolatility":"-","underlyingValue":"109.35","buyQuantity4":"8,000","buyQuantity3":"24,000","buyQuantity2":"16,000","buyQuantity1":"20,000","buyQuantity5":"28,000","settlementPrice":"109.75","closePrice":"0.00","lastPrice":"109.45"}],"companyName":"Bank of Baroda","lastUpdateTime":"26-SEP-2018 15:19:29","isinCode":null,"ocLink":"\/marketinfo\/sym_map\/symbolMapping.jsp?symbol=BANKBARODA&instrument=-&date=-&segmentLink=17&symbolCount=2"}
+
