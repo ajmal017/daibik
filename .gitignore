@@ -1,0 +1,5 @@
+btst_stocks/DUMP/*
+btst_stocks/MODIFIED/*
+btst_stocks/.DS_Store
+.DS_Store
+.idea/
