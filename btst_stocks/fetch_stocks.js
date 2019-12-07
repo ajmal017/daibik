@@ -29,8 +29,8 @@ stock.get(url, function(err, data) {
 var timeperiod = '3months';
 
 async.each(files, function(file, callback) {
+  var url = 'https://nseindia.com/live_market/dynaContent/live_watch/get_quote/getHistoricalData.jsp?symbol='+file.symbol.replace(/&/gi, function myFunction(x){return '%26';})+'&series=EQ&fromDate=undefined&toDate=undefined&datePeriod='+timeperiod;
   //var url = 'https://www.nseindia.com/live_market/dynaContent/live_watch/get_quote/getHistoricalData.jsp?symbol='+file.symbol.replace(/&/gi, function myFunction(x){return '%26';})+'&series=EQ&fromDate=undefined&toDate=undefined&datePeriod='+timeperiod+'&hiddDwnld=true';
-  var url = 'https://www.nseindia.com/live_market/dynaContent/live_watch/get_quote/getHistoricalData.jsp?symbol='+file.symbol.replace(/&/gi, function myFunction(x){return '%26';})+'&series=EQ&fromDate=undefined&toDate=undefined&datePeriod='+timeperiod+'&hiddDwnld=true';
   var stock = new Mimicry();
   stock.get(url, function(err, data) {
     fs.writeFile('DUMP/' + file.symbol + '.csv', data, (err) => {

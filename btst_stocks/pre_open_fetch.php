@@ -1,4 +1,5 @@
 <?php
+date_default_timezone_set("Asia/Kolkata");
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 define('ACCEPTED_BODY_LENGTH_RATIO', 10);
@@ -27,11 +28,13 @@ else {
     foreach ( $content_decoded->data as $key => $value ) {
         $symbol = $value->symbol;
         $percentage_diff = $value->perChn;
+        $price = $value->iep;
 
         print $key . '  ' . $symbol . "\r\n";
-        $sql = "INSERT INTO $table (symbol, percentage, executed) VALUES('".
+        $sql = "INSERT INTO $table (symbol, percentage, price, executed) VALUES('".
             $symbol . "', " .
-            $percentage_diff . ", '" .
+            $percentage_diff . ", " .
+            $price . ", '" .
             date('Y-m-d H:i:s' ). "')";
 
         $conn->query($sql);
